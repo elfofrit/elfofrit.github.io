@@ -35,10 +35,6 @@ Actualmente, estoy preparándome para buscar trabajo como científico de datos e
 
 🗾 [MyAnimeList](https://myanimelist.net/profile/elfofrit)
 
-✍️ [Substack](https://substack.com/@elfofrit)
-
-🎵 [TIDAL](https://tidal.com/browse/user/193326330)
-
 📚 [Whakoom](https://www.whakoom.com/elfofrit)
 
 📺 [YouTube](https://www.youtube.com/@elfofrit)
