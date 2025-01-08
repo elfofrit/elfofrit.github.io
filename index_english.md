@@ -14,6 +14,8 @@ Currently, I am preparing to look for a job as a data scientist as I apply for a
 # Contact
 ✉️ [info@elfofrit.com](mailto:info@elfofrit.com)
 
+💼 [LinkedIn](https://www.linkedin.com/in/sebasmg)
+
 🎮 [Backloggd](https://www.backloggd.com/u/elfofrit)
 
 🦋 [Bluesky](https://bsky.app/profile/elfofrit.com)
@@ -23,6 +25,10 @@ Currently, I am preparing to look for a job as a data scientist as I apply for a
 📖 [Goodreads](https://www.goodreads.com/elfofrit)
 
 📸 [Instagram](https://www.instagram.com/elfofrit)
+
+🕹️ [itch.io](https://elfofrit.itch.io)
+
+📊 [Kaggle](https://www.kaggle.com/elfofrit)
 
 🎞️ [Letterboxd](https://letterboxd.com/elfofrit)
 

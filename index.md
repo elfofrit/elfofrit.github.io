@@ -21,6 +21,8 @@ Actualmente, estoy preparándome para buscar trabajo como científico de datos e
 # Contacto y redes sociales
 ✉️ [info@elfofrit.com](mailto:info@elfofrit.com)
 
+💼 [LinkedIn](https://www.linkedin.com/in/sebasmg)
+
 🎮 [Backloggd](https://www.backloggd.com/u/elfofrit)
 
 🦋 [Bluesky](https://bsky.app/profile/elfofrit.com)
@@ -30,6 +32,10 @@ Actualmente, estoy preparándome para buscar trabajo como científico de datos e
 📖 [Goodreads](https://www.goodreads.com/elfofrit)
 
 📸 [Instagram](https://www.instagram.com/elfofrit)
+
+🕹️ [itch.io](https://elfofrit.itch.io)
+
+📊 [Kaggle](https://www.kaggle.com/elfofrit)
 
 🎞️ [Letterboxd](https://letterboxd.com/elfofrit)
 
