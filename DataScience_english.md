@@ -2,4 +2,6 @@
 
 [**_VERSIÓN EN ESPAÑOL AQUÍ_**](/DataScience/)
 
-Sirva esto como una muestra de mis habilidades y experiencia en Ciencia de Datos (por favor contrátenme):
+Let this serve as a demonstration of my skills and experience in Data Science (please hire me):
+
+* [The critical hits problem of Fire Emblem](/TheCriticalHitsProblemOfFireEmblem/)

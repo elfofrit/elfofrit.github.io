@@ -3,3 +3,5 @@
 [**_ENGLISH VERSION HERE_**](/DataScience_english/)
 
 Sirva esto como una muestra de mis habilidades y experiencia en Ciencia de Datos (por favor contrátenme):
+
+* [El problema de los golpes críticos de Fire Emblem](/ElProblemaDeLosGolpesCriticosDeFireEmblem/)

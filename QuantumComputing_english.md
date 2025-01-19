@@ -2,4 +2,4 @@
 
 [**_VERSIÓN EN ESPAÑOL AQUÍ_**](/QuantumComputing/)
 
-Aquí encontrarán mis notas de libros sobre Computación Cuántica, así como respuestas a los ejercicios propuestos. A lo mejor cuelo uno que otro artículo de divulgación.
+Here you'll find my notes on books about Quantum Computing, as well as answers to the proposed exercises. I might also drop some science communication articles.

@@ -2,4 +2,4 @@
 
 [**_VERSIÓN EN ESPAÑOL AQUÍ_**](/GameDevelopment/)
 
-Preproducción, diarios de desarrollo, postmórtems. Desde hace tiempo que quiero aprender a hacer videojuegos sencillos.
+Pre-production, development logs, postmortems. Learning how to make video games has been a long-standing wish of mine.

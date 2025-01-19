@@ -2,4 +2,4 @@
 
 [**_VERSIÓN EN ESPAÑOL AQUÍ_**](/Miscellaneous/)
 
-Reflexiones y opiniones varias. A lo mejor una que otra retrospectiva o análisis de películas y videojuegos. Random stuff.
+Reflections and  opinions. Maybe the occasional retrospective or analysis of movies and video games. Random stuff.
