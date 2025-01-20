@@ -23,13 +23,13 @@ Usando el teorema de Bayes:
 
 Donde:
 
-$P(A|B)$ es la probabilidad de ocurra el evento $A$ si ocurre el evento $B$.
+$P(A|B)$ es la probabilidad de que ocurra el evento $A$ si ocurre el evento $B$.
 
-$P(B|A)$ es la probabilidad de ocurra el evento $B$ si ocurre el evento $A$.
+$P(B|A)$ es la probabilidad de que ocurra el evento $B$ si ocurre el evento $A$.
 
-$P(A)$ es la probabilidad de ocurra el evento $A$.
+$P(A)$ es la probabilidad de que ocurra el evento $A$.
 
-$P(B)$ es la probabilidad de ocurra el evento $B$.
+$P(B)$ es la probabilidad de que ocurra el evento $B$.
 
 Sea $A$ el evento donde ambos golpes son críticos
 
