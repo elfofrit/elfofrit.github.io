@@ -2,13 +2,19 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
-    <loc>QuantumComputing_english/index.html</loc>
+    <loc>GameDev_english/index.html</loc>
     <lastmod>2025-02-17</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
 </url>
 <url>
-    <loc>Miscellaneous/index.html</loc>
+    <loc>GameDev/index.html</loc>
+    <lastmod>2025-02-17</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+</url>
+<url>
+    <loc>QuantumComputing_english/index.html</loc>
     <lastmod>2025-02-17</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -20,13 +26,13 @@
     <priority>0.5</priority>
 </url>
 <url>
-    <loc>index_english/index.html</loc>
+    <loc>Extras/index.html</loc>
     <lastmod>2025-02-17</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
 </url>
 <url>
-    <loc>GameDevelopment/index.html</loc>
+    <loc>index_english/index.html</loc>
     <lastmod>2025-02-17</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -38,25 +44,19 @@
     <priority>0.5</priority>
 </url>
 <url>
-    <loc>GameDevelopment_english/index.html</loc>
-    <lastmod>2025-02-17</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-</url>
-<url>
     <loc>DataScience/index.html</loc>
     <lastmod>2025-02-17</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
 </url>
 <url>
-    <loc>Miscellaneous_english/index.html</loc>
+    <loc>index.html</loc>
     <lastmod>2025-02-17</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
 </url>
 <url>
-    <loc>index.html</loc>
+    <loc>Extras_english/index.html</loc>
     <lastmod>2025-02-17</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
