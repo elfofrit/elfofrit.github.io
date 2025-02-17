@@ -46,11 +46,11 @@ Sé feliz. Éxito.
 
 ### Multimedia
 
-🎮 [Backloggd](https://www.backloggd.com/u/elfofrit)
+🎮 [Backloggd](https://bckl.gg/rTs)
 
 📖 [Goodreads](https://www.goodreads.com/elfofrit)
 
-🎞️ [Letterboxd](https://letterboxd.com/elfofrit)
+🎞️ [Letterboxd](https://boxd.it/1cTK3)
 
 🗾 [MyAnimeList](https://myanimelist.net/profile/elfofrit)
 

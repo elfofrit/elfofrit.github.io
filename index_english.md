@@ -42,17 +42,19 @@ That's it for this section. Be excellent to each other! Party on, dudes!
 
 📸 [Instagram](https://www.instagram.com/elfofrit)
 
-📺 [YouTube](https://www.youtube.com/@elfofrit)
+📹 [YouTube](https://www.youtube.com/@elfofrit)
 
 ### Media
 
-🎮 [Backloggd](https://www.backloggd.com/u/elfofrit)
+🎮 [Backloggd](https://bckl.gg/rTs)
 
 📖 [Goodreads](https://www.goodreads.com/elfofrit)
 
-🎞️ [Letterboxd](https://letterboxd.com/elfofrit)
+🎞️ [Letterboxd](https://boxd.it/1cTK3)
 
 🗾 [MyAnimeList](https://myanimelist.net/profile/elfofrit)
+
+📺 [Serializd](https://srlzd.com/u/elfofrit)
 
 📚 [Whakoom](https://www.whakoom.com/elfofrit)
 
