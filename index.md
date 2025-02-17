@@ -42,7 +42,7 @@ Sé feliz. Éxito.
 
 📸 [Instagram](https://www.instagram.com/elfofrit)
 
-📺 [YouTube](https://www.youtube.com/@elfofrit)
+📹 [YouTube](https://www.youtube.com/@elfofrit)
 
 ### Multimedia
 
@@ -54,8 +54,10 @@ Sé feliz. Éxito.
 
 🗾 [MyAnimeList](https://myanimelist.net/profile/elfofrit)
 
+📺 [Serializd](https://srlzd.com/u/elfofrit)
+
 📚 [Whakoom](https://www.whakoom.com/elfofrit)
 
 \\
 
-Espero que este sitio sea de tu agrado. Si encuentras algún error o quieres compartir tu opinión a detalle, por favor manda un correo a [feedback@elfofrit.com](mailto:feedback@elfofrit.com).
+Espero que el sitio sea de tu agrado. Si encuentras algún error o quieres compartir tu opinión a detalle, por favor manda un correo a [feedback@elfofrit.com](mailto:feedback@elfofrit.com).
