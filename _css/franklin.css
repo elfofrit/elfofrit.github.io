@@ -5,8 +5,8 @@
 :root {
   --block-background: hsl(0, 0%, 94%);
   --output-background: hsl(0, 0%, 98%);
-  --small: 16px;
-  --normal: 20px;
+  --small: 18px;
+  --normal: 22px;
   --text-color: hsv(0, 0%, 20%);
 }
 
