@@ -5,8 +5,8 @@
 :root {
   --block-background: hsl(0, 0%, 94%);
   --output-background: hsl(0, 0%, 98%);
-  --small: 14px;
-  --normal: 19px;
+  --small: 16px;
+  --normal: 20px;
   --text-color: hsv(0, 0%, 20%);
 }
 
@@ -107,9 +107,9 @@ html {
     TITLES
 ================================================================== */
 
-.franklin-content h1 { font-size: 24px; }
-.franklin-content h2 { font-size: 22px; }
-.franklin-content h3 { font-size: 20px; }
+.franklin-content h1 { font-size: 32px; }
+.franklin-content h2 { font-size: 28px; }
+.franklin-content h3 { font-size: 24px; }
 
 .franklin-content h1,
 h2,
