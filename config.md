@@ -2,7 +2,7 @@
 Add here global page variables to use throughout your website.
 -->
 +++
-author = "Sebastián Mendoza"
+author = "Σlfofrit"
 # mintoclevel = 2
 
 # uncomment and adjust the following line if the expected base URL of your website is something like [www.thebase.com/yourproject/]
@@ -16,10 +16,10 @@ author = "Sebastián Mendoza"
 ignore = ["node_modules/"]
 
 # RSS (the website_{title, descr, url} must be defined to get RSS)
-generate_rss = false
+generate_rss = true
 website_title = "elfofrit.com"
 website_descr = "Blog de Σlfofrit"
-website_url   = ""
+website_url   = "https://elfofrit.com"
 +++
 
 <!--

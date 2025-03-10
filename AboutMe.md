@@ -1,12 +1,17 @@
-@def title = "elfofrit.com"
++++
+title = "Acerca de mí"
+hascode = false
+date = Date(2025, 3, 10)
+rss = "¡Hola! Gracias por hacer click en [elfofrit.com](https://elfofrit.com), mi blog. Me llamo Sebastián, pero en internet soy mejor conocido como Σlfofrit. Vivo en México y estudié Física. Me gusta jugar videojuegos, ir al cine, coleccionar historietas, y leer ciencia ficción."
 
-[**_ENGLISH VERSION HERE_**](/index_english/)
+tags = ["extras"]
++++
 
 # Acerca de mí
 
 ¡Hola! Gracias por hacer click en [elfofrit.com](https://elfofrit.com), mi blog.
 
-Me llamo Sebastián, pero en internet soy mejor conocido como Σlfofrit. Vivo en México y estudié Física. Me gusta jugar videojuegos, ir al cine, coleccionar historietas y leer ciencia ficción.
+Me llamo Sebastián, pero en internet soy mejor conocido como Σlfofrit. Vivo en México y estudié Física. Me gusta jugar videojuegos, ir al cine, coleccionar historietas, y leer ciencia ficción.
 
 Creo en experimentar y conocer el mundo para mejorar como persona, así como en la sana intersección de las ciencias exactas con las bellas artes.
 
@@ -14,7 +19,7 @@ Actualmente estoy buscando trabajo como científico de datos (o lo que caiga) en
 
 Hice este blog por dos razones:
 
-1. Familiarizarme con Julia y tener un portafolio que mostrar cuando busque trabajo (de ahí la sección de [Data Science](/DataScience/)) o aplique a un posgrado (véase [Quantum Computing](/QuantumComputing/)).
+1. Familiarizarme con Julia y tener un portafolio que mostrar cuando busque trabajo (de ahí la sección de [Data Science](/tag/data_science/)) o aplique a un posgrado (véase [Quantum Computing](/tag/quantum_computing/)).
 
 2. Me gusta la idea de tener un lugar en internet reservado solo para mí, donde pueda compartir lo que quiera y tú puedas leerlo sin problemas ni compromisos.
 

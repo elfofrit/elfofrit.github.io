@@ -1,6 +1,11 @@
-@def title = "elfofrit.com | El problema de los golpes críticos de Fire Emblem"
++++
+title = "El problema de los golpes críticos de Fire Emblem"
+hascode = false
+date = Date(2025, 3, 10)
+rss = "Me topé con esta imagen en Discord el otro día. Algunos comentaron que la probabilidad de que ambos golpes sean críticos es del 25%. Otro compartió captura de pantalla de un foro donde argumentaban que la probabilidad es del 33%. Intrigado, decidí echar cuentas. ![](https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:w7drolsy3m6junkawmss3h7i/bafkreic6rebozd6cfdt74li5pakmhisozjfwtl7nwbay4c45skdch2imha@jpeg)"
 
-[**_ENGLISH VERSION HERE_**](/TheCriticalHitsProblemOfFireEmblem/)
+tags = ["data_science"]
++++
 
 # El problema de los golpes críticos de Fire Emblem
 
@@ -86,7 +91,7 @@ No debemos caer en la trampa de la mona china y establecer que $P(B) = 1$. Hay q
 Sustituyendo $(2)$, $(3)$ y $(4)$ en $(1)$:
 
 \begin{equation}
-    P(A | B) = \dfrac{1 \cdot 0.25}{0.75} = 1/3
+    P(A | B) = \dfrac{1 \cdot 0.25}{0.75} = \dfrac{1}{3}
 \end{equation}
 
 Por lo tanto, la probabilidad de que ambos golpes sean críticos es del 33%. De nada, Robin.
