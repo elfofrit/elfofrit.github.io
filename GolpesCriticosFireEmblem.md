@@ -1,3 +1,16 @@
+~~~
+<meta property="og:title" content="El problema de los golpes críticos de Fire Emblem">
+<meta property="og:description" content="Resuelto con el teorema de Bayes.">
+<meta property="og:image" content="https://elfofrit.com/assets/FireEmblemCrit53.jpg">
+<meta property="og:url" content="https://elfofrit.com/GolpesCriticosFireEmblem">
+<meta property="og:type" content="article">
+
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="El problema de los golpes críticos de Fire Emblem">
+<meta name="twitter:description" content="Resuelto con el teorema de Bayes.">
+<meta name="twitter:image" content="https://elfofrit.com/assets/FireEmblemCrit53.jpg">
+~~~
+
 +++
 title = "El problema de los golpes críticos de Fire Emblem"
 hascode = false

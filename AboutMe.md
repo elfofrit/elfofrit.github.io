@@ -1,3 +1,16 @@
+~~~
+<meta property="og:title" content="Acerca de mí">
+<meta property="og:description" content="Breve descripción de mi persona.">
+<meta property="og:image" content="https://elfofrit.com/assets/be8.png">
+<meta property="og:url" content="https://elfofrit.com/AboutMe">
+<meta property="og:type" content="article">
+
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="Acerca de mí">
+<meta name="twitter:description" content="Breve descripción de mi persona.">
+<meta name="twitter:image" content="https://elfofrit.com/assets/be8.png">
+~~~
+
 +++
 title = "Acerca de mí"
 hascode = false

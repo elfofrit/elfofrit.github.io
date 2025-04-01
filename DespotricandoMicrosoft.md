@@ -1,3 +1,16 @@
+~~~
+<meta property="og:title" content="Despotricando a Microsoft">
+<meta property="og:description" content="El fraude de los qubits de Majorana.">
+<meta property="og:image" content="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:w7drolsy3m6junkawmss3h7i/bafkreiangy4av5x5ctbryteaae5cnwjbxwpppion27tyiy2eee7zqp6y5e@jpeg">
+<meta property="og:url" content="https://elfofrit.com/DespotricandoMicrosoft">
+<meta property="og:type" content="article">
+
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="Despotricando a Microsoft">
+<meta name="twitter:description" content="El fraude de los qubits de Majorana.">
+<meta name="twitter:image" content="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:w7drolsy3m6junkawmss3h7i/bafkreiangy4av5x5ctbryteaae5cnwjbxwpppion27tyiy2eee7zqp6y5e@jpeg">
+~~~
+
 +++
 title = "Despotricando a Microsoft"
 hascode = false
