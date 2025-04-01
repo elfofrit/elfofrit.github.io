@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rss version="2.0"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:media="http://search.yahoo.com/mrss/"
+  xmlns:atom="http://www.w3.org/2005/Atom"
+  xmlns:georss="http://www.georss.org/georss">
+
+  <channel>
+    <title>
+      <![CDATA[  elfofrit.com  ]]>
+    </title>
+    <link> https://elfofrit.com </link>
+    <description>
+      <![CDATA[  Blog de Σlfofrit  ]]>
+    </description>
+    <atom:link
+      href="https://elfofrit.com/feed.xml"
+      rel="self"
+      type="application/rss+xml" />
+
+
+<item>
+  <title>
+    <![CDATA[  Creando mi primer one-shot de Mothership  ]]>
+  </title>
+  <link> https://elfofrit.com/PrimerOne-ShotMothership/index.html </link>
+  <guid> https://elfofrit.com/PrimerOne-ShotMothership/index.html </guid>
+  <description>
+    <![CDATA[  Ya sé que <code>game_dev</code> se utiliza normalmente para el desarrollo de videojuegos. En este blog se nombrará game a cualquier actividad lúdica, es decir, no limitaré el uso de gaming a solamente videojuegos, sino que también englobaré juegos de mesa y de rol.  ]]>
+  </description>  
+    
+  <pubDate>Mon, 31 Mar 2025 00:00:00 +0000</pubDate>  
+  
+  
+  <atom:author>
+    <atom:name>Σlfofrit</atom:name>
+  </atom:author>
+        
+</item>
+</channel></rss>
