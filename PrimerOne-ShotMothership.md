@@ -23,6 +23,8 @@ description = "Cómo diseñé mi primer one-shot para Mothership, un juego de ro
 image = "https://www.tuesdayknightgames.com/cdn/shop/files/ms-new-header_21.jpg"
 +++
 
+**(Página en construcción)**
+
 # Creando mi primer one-shot de Mothership
 
 Sé que *game_dev* se utiliza normalmente para referirse al desarrollo de videojuegos. En este blog se llamará "game" a cualquier actividad lúdica, es decir, no limitaré el uso de "gaming" a solamente videojuegos, sino que también englobaré juegos de mesa y de rol. Mi meta es aprender y comprender el buen diseño. Anhelo incursionar en los TTRPG por el mismo motivo que estudié Física y no una Ingeniería: primero busco entender los principios y conceptos fundamentales (diseño de niveles, ritmo, balance de dificultad, riesgo y recompensa), no las herramientas del momento (Godot, Unity, Game Maker, Unreal Engine). [Bien dijo Alonso Zamora que el buen diseño es atemporal.](https://golem51.com/articulos/no-existe-la-vieja-escuela/)

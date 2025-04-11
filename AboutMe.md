@@ -28,6 +28,20 @@ Me llamo Sebastián, pero en internet soy mejor conocido como Σlfofrit. Vivo en
 
 Creo en experimentar y conocer el mundo para mejorar como persona, así como en la sana intersección de las ciencias exactas con las bellas artes.
 
+También le muevo a la edición de video:
+
+~~~
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/mN0DCKjOmjQ?si=MCtm7C7Pqy-shEQn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+~~~
+
+Mi magnum opus de montaje:
+
+~~~
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/lnriz5r4qps?si=g_lT1MRJJq0SSPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+~~~
+
+Absolute cinema diría el Scorsese.
+
 Actualmente estoy buscando trabajo como científico de datos (o lo que caiga) en lo que aplico para una maestría en Óptica Física.
 
 Hice este blog por dos razones:
