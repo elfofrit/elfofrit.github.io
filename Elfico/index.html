@@ -1,0 +1,125 @@
+<!doctype html> <!-- Minimal Mistakes Jekyll Theme 4.16.4 by Michael Rose Copyright 2013-2019 Michael Rose - mademistakes.com | @mmistakes Free for personal and commercial use under the MIT license https://github.com/mmistakes/minimal-mistakes/blob/master/LICENSE --> <html lang=en > <meta charset=UTF-8 > <meta name=viewport  content="width=device-width, initial-scale=1"> <link rel=stylesheet  href="/libs/highlight/styles/github.min.css"> <link rel=stylesheet  href="/css/franklin.css"> <link rel=stylesheet  href="/css/minimal-mistakes.css"> <link rel=stylesheet  href="/css/adjust.css"> <link rel=icon  href="/assets/elfofritosquare.ico"> <!--[if IE ]> <style> /* old IE unsupported flexbox fixes */ .greedy-nav .site-title { padding-right: 3em; } .greedy-nav button { position: absolute; top: 0; right: 0; height: 100%; } </style> <![endif]--> <title>Entrenando una red neuronal para reconocer caracteres élficos</title> <body class=layout--single > <div class=masthead > <div class=masthead__inner-wrap > <div class=masthead__menu > <nav id=site-nav  class=greedy-nav > <a class=site-title  href="/">elfofrit.com</a> <ul class=visible-links > <li class=masthead__menu-item ><a href="/tag/quantum_computing/" >Quantum Computing</a> <li class=masthead__menu-item ><a href="/tag/data_science/" >Data Science</a> <li class=masthead__menu-item ><a href="/tag/game_dev/" >Game Dev</a> <li class=masthead__menu-item ><a href="/tag/extras/">Extras</a> </ul> <button class="greedy-nav__toggle hidden" type=button > <span class=visually-hidden >Toggle menu</span> <div class=navicon ></div> </button> <ul class="hidden-links hidden"></ul> </nav> </div> </div> </div> <div class=initial-content > <div id=main  role=main > <div class="sidebar sticky"> <div itemscope itemtype="https://schema.org/Person"> <div class=author__avatar > <img src="/assets/elfofritosquare.png" alt="Σlfofrit" itemprop=image > </div> <div class=author__content > <h3 class=author__name  itemprop=name >Σlfofrit</h3> <p class=author__bio  itemprop=description >Físico</p> </div> <div class=author__urls-wrapper > <button class="btn btn--inverse">Seguir</button> <ul class="author__urls social-icons"> <li itemprop=homeLocation  itemscope itemtype="https://schema.org/Place"> <i class="fas fa-fw fa-map-marker-alt" aria-hidden=true ></i> <span itemprop=name >México</span> <li><a href="mailto:info@elfofrit.com" rel="nofollow noopener noreferrer"><i class="fa fa-envelope" aria-hidden=true ></i> info@elfofrit.com</a> <li><a href="https://bsky.app/profile/elfofrit.com" rel="nofollow noopener noreferrer"><i class="fa fa-hashtag" aria-hidden=true ></i> Bluesky</a> <li><a href="https://github.com/elfofrit" rel="nofollow noopener noreferrer"><i class="fab fa-fw fa-github" aria-hidden=true ></i> GitHub</a> <li><a href="https://www.instagram.com/elfofrit" rel="nofollow noopener noreferrer"><i class="fab fa-fw fa-instagram" aria-hidden=true ></i> Instagram</a> <li><a href="https://www.linkedin.com/in/sebasmg" rel="nofollow noopener noreferrer"><i class="fab fa-fw fa-linkedin" aria-hidden=true ></i> LinkedIn</a> <li><a href="https://www.youtube.com/@elfofrit" rel="nofollow noopener noreferrer"><i class="fab fa-fw fa-youtube" aria-hidden=true ></i> YouTube</a> </ul> </div> </div> </div> <div class=franklin-content > <meta property="og:title" content="Entrenando una red neuronal para reconocer caracteres élficos"> <meta property="og:description" content="Spoiler: Sale mal."> <meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/One_Ring_inscription_Atul.svg/2560px-One_Ring_inscription_Atul.svg.png"> <meta property="og:url" content="https://elfofrit.com/Elfico"> <meta property="og:type" content=article > <meta name="twitter:card" content=summary_large_image > <meta name="twitter:title" content="Entrenando una red neuronal para reconocer caracteres élficos"> <meta name="twitter:description" content="Spoiler: Sale mal."> <meta name="twitter:image" content="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/One_Ring_inscription_Atul.svg/2560px-One_Ring_inscription_Atul.svg.png"> <p><strong>&#40;Página en construcción&#41;</strong></p> <h1 id="detección_y_traducción_de_caracteres_élficos_por_redes_neuronales"><a href="#detección_y_traducción_de_caracteres_élficos_por_redes_neuronales" class=header-anchor >Detección y traducción de caracteres élficos por redes neuronales</a></h1> <p>Una de las muchas obras que hizo Fëanor durante su estancia en Valinor bajo la luz de los grandes árboles fue el diseño de las tengwar, caracteres con los que se escribirían todas las lenguas élficas de la Tierra Media.</p> <p>El propósito de este notebook es entrenar un modelo que identifique dichos caracteres tengwar a partir de una fotografía y obtener una traducción, similar a lo que hace Google Lens.</p> <p><img src="https://tednasmith.poverellomedia.com/wp-content/uploads/2012/07/TN-The_Oath_of_Feanor.jpg" alt=TN-The_Oath_of_Feanor.jpg  /></p> <blockquote> <p>Juramento de Fëanor. Ilustrado por Ted Nasmith.</p> </blockquote> <div class=franklin-toc ><ol><li><a href="#detección_y_traducción_de_caracteres_élficos_por_redes_neuronales">Detección y traducción de caracteres élficos por redes neuronales</a><ol><li><a href="#importar_librerías_y_datos">Importar librerías y datos</a><ol><li><a href="#rotar_imágenes">Rotar imágenes</a></ol><li><a href="#modelo">Modelo</a><ol><li><a href="#parámetros">Parámetros</a></ol><li><a href="#compilación">Compilación</a><li><a href="#evaluación">Evaluación</a><li><a href="#identificar_letras">Identificar letras</a><li><a href="#resultados">Resultados</a></ol></ol></div> <h2 id="importar_librerías_y_datos"><a href="#importar_librerías_y_datos" class=header-anchor >Importar librerías y datos</a></h2> <pre><code class="python hljs"><span class=hljs-comment ># Librerias</span>
+<span class=hljs-keyword >import</span> numpy <span class=hljs-keyword >as</span> np
+<span class=hljs-keyword >import</span> pandas <span class=hljs-keyword >as</span> pd
+<span class=hljs-keyword >import</span> os
+<span class=hljs-keyword >import</span> cv2
+<span class=hljs-keyword >from</span> tensorflow <span class=hljs-keyword >import</span> keras
+<span class=hljs-keyword >from</span> tensorflow.keras.preprocessing.image <span class=hljs-keyword >import</span> ImageDataGenerator
+<span class=hljs-keyword >import</span> kagglehub
+
+<span class=hljs-comment ># Datos</span>
+path = kagglehub.dataset_download(<span class=hljs-string >&quot;swordey/handwritten-tengwar-letters&quot;</span>)
+<span class=hljs-built_in >print</span>(<span class=hljs-string >&quot;Path to dataset files:&quot;</span>, path)</code></pre> <h3 id="rotar_imágenes"><a href="#rotar_imágenes" class=header-anchor >Rotar imágenes</a></h3> <p>Esto con el motivo de ampliar las muestras de nuesto dataset de entenamiento.</p> <pre><code class="python hljs"><span class=hljs-comment ># Define the path to your image data directory</span>
+data_dir = <span class=hljs-string >&quot;/root/.cache/kagglehub/datasets/swordey/handwritten-tengwar-letters/versions/4/tengwar/train&quot;</span>
+
+<span class=hljs-comment ># Image augmentation configuration</span>
+datagen = ImageDataGenerator(
+    rotation_range=<span class=hljs-number >20</span>,  <span class=hljs-comment ># Randomly rotate images by up to 20 degrees</span>
+    width_shift_range=<span class=hljs-number >0.2</span>,  <span class=hljs-comment ># Randomly shift images horizontally by up to 20% of the image width</span>
+    height_shift_range=<span class=hljs-number >0.2</span>,  <span class=hljs-comment ># Randomly shift images vertically by up to 20% of the image height</span>
+    shear_range=<span class=hljs-number >0.0</span>,  <span class=hljs-comment ># Apply shearing transformations</span>
+    zoom_range=<span class=hljs-number >0.2</span>,  <span class=hljs-comment ># Randomly zoom into images</span>
+    horizontal_flip=<span class=hljs-literal >False</span>, <span class=hljs-comment ># Randomly flip images horizontally</span>
+    fill_mode=<span class=hljs-string >&#x27;nearest&#x27;</span>  <span class=hljs-comment ># Fill in newly created pixels after transformations</span>
+)
+
+<span class=hljs-comment ># Create the image data generator</span>
+train_generator = datagen.flow_from_directory(
+    data_dir,  <span class=hljs-comment ># Replace with your actual dataset directory</span>
+    target_size=(<span class=hljs-number >64</span>, <span class=hljs-number >64</span>),  <span class=hljs-comment ># Resize images to 64x64</span>
+    batch_size=<span class=hljs-number >32</span>,
+    class_mode=<span class=hljs-string >&#x27;categorical&#x27;</span>  <span class=hljs-comment ># Assuming you have multiple classes</span>
+)</code></pre> <h2 id=modelo ><a href="#modelo" class=header-anchor >Modelo</a></h2> <h3 id="parámetros"><a href="#parámetros" class=header-anchor >Parámetros</a></h3> <pre><code class="python hljs"><span class=hljs-comment ># Example model (replace with your own model architecture)</span>
+model = keras.Sequential([
+    keras.layers.Conv2D(<span class=hljs-number >32</span>, (<span class=hljs-number >3</span>, <span class=hljs-number >3</span>), activation=<span class=hljs-string >&#x27;relu&#x27;</span>, input_shape=(<span class=hljs-number >64</span>, <span class=hljs-number >64</span>, <span class=hljs-number >1</span>)),
+    keras.layers.MaxPooling2D((<span class=hljs-number >2</span>, <span class=hljs-number >2</span>)),
+    keras.layers.Conv2D(<span class=hljs-number >64</span>, (<span class=hljs-number >3</span>, <span class=hljs-number >3</span>), activation=<span class=hljs-string >&#x27;relu&#x27;</span>),
+    keras.layers.MaxPooling2D((<span class=hljs-number >2</span>, <span class=hljs-number >2</span>)),
+    keras.layers.Flatten(),
+    keras.layers.Dense(<span class=hljs-number >128</span>, activation=<span class=hljs-string >&#x27;relu&#x27;</span>),
+    keras.layers.Dense(<span class=hljs-number >26</span>, activation=<span class=hljs-string >&#x27;softmax&#x27;</span>)
+])</code></pre> <h3 id="compilación"><a href="#compilación" class=header-anchor >Compilación</a></h3> <pre><code class="python hljs"><span class=hljs-comment ># Compile the model</span>
+model.<span class=hljs-built_in >compile</span>(optimizer=<span class=hljs-string >&#x27;adam&#x27;</span>,
+              loss=<span class=hljs-string >&#x27;categorical_crossentropy&#x27;</span>,
+              metrics=[<span class=hljs-string >&#x27;accuracy&#x27;</span>])
+
+<span class=hljs-comment ># Train the model</span>
+model.fit(train_generator, epochs=<span class=hljs-number >600</span>)  <span class=hljs-comment ># Adjust the number of epochs as needed</span>
+
+<span class=hljs-comment ># Save the trained model</span>
+model.save(<span class=hljs-string >&quot;tengwar_model.h5&quot;</span>)</code></pre> <h3 id="evaluación"><a href="#evaluación" class=header-anchor >Evaluación</a></h3> <pre><code class="python hljs"><span class=hljs-comment ># Load the saved model</span>
+model = keras.models.load_model(<span class=hljs-string >&quot;tengwar_model.h5&quot;</span>)
+
+<span class=hljs-comment ># Create a new ImageDataGenerator for the test data (without augmentation)</span>
+test_datagen = ImageDataGenerator(rescale=<span class=hljs-number >1.</span>/<span class=hljs-number >255</span>)  <span class=hljs-comment ># Rescale pixel values</span>
+
+<span class=hljs-comment ># Create a test generator</span>
+test_generator = test_datagen.flow_from_directory(
+    <span class=hljs-comment ># Replace with the path to your test data directory</span>
+    <span class=hljs-string >&quot;/root/.cache/kagglehub/datasets/swordey/handwritten-tengwar-letters/versions/4/tengwar/test&quot;</span>,
+    target_size=(<span class=hljs-number >64</span>, <span class=hljs-number >64</span>),
+    batch_size=<span class=hljs-number >32</span>,
+    class_mode=<span class=hljs-string >&#x27;categorical&#x27;</span>,
+    shuffle=<span class=hljs-literal >False</span>  <span class=hljs-comment ># Important: Do not shuffle the test data</span>
+)
+
+<span class=hljs-comment ># Evaluate the model on the test data</span>
+loss, accuracy = model.evaluate(test_generator)
+<span class=hljs-built_in >print</span>(<span class=hljs-string >f&quot;Test Loss: <span class=hljs-subst >{loss}</span>&quot;</span>)
+<span class=hljs-built_in >print</span>(<span class=hljs-string >f&quot;Test Accuracy: <span class=hljs-subst >{accuracy}</span>&quot;</span>)
+
+<span class=hljs-comment ># Get predictions</span>
+predictions = model.predict(test_generator)
+
+<span class=hljs-comment ># Get true labels (assuming your test generator has class_indices)</span>
+true_labels = test_generator.classes
+
+<span class=hljs-comment ># Get class indices mapping</span>
+class_indices = test_generator.class_indices
+
+<span class=hljs-comment ># Invert the class indices dictionary to map indices back to class labels</span>
+inverted_class_indices = <span class=hljs-built_in >dict</span>((v,k) <span class=hljs-keyword >for</span> k,v <span class=hljs-keyword >in</span> class_indices.items())
+
+<span class=hljs-comment ># Convert predicted probabilities to class labels</span>
+predicted_labels = np.argmax(predictions, axis=<span class=hljs-number >1</span>)
+
+<span class=hljs-comment ># Convert numerical labels back to original class labels</span>
+predicted_labels = [inverted_class_indices[label] <span class=hljs-keyword >for</span> label <span class=hljs-keyword >in</span> predicted_labels]
+true_labels = [inverted_class_indices[label] <span class=hljs-keyword >for</span> label <span class=hljs-keyword >in</span> true_labels]
+
+<span class=hljs-comment ># Compare predictions with true labels</span>
+<span class=hljs-keyword >from</span> sklearn.metrics <span class=hljs-keyword >import</span> classification_report, confusion_matrix
+
+<span class=hljs-built_in >print</span>(classification_report(true_labels, predicted_labels))
+<span class=hljs-built_in >print</span>(confusion_matrix(true_labels, predicted_labels))</code></pre> <h3 id=identificar_letras ><a href="#identificar_letras" class=header-anchor >Identificar letras</a></h3> <pre><code class="python hljs"><span class=hljs-keyword >import</span> string
+class_mapping = {i: letter <span class=hljs-keyword >for</span> i, letter <span class=hljs-keyword >in</span> <span class=hljs-built_in >enumerate</span>(string.ascii_uppercase)}
+
+<span class=hljs-comment ># Load the saved model</span>
+model = keras.models.load_model(<span class=hljs-string >&quot;tengwar_model.h5&quot;</span>)
+
+<span class=hljs-comment ># Function to preprocess the image</span>
+<span class=hljs-keyword >def</span> <span class="hljs-title function_">preprocess_image</span>(<span class=hljs-params >image_path</span>):
+    img = cv2.imread(image_path)
+    img = cv2.resize(img, (<span class=hljs-number >64</span>, <span class=hljs-number >64</span>))  <span class=hljs-comment ># Resize to match the model&#x27;s input size</span>
+    img = img / <span class=hljs-number >255.0</span>  <span class=hljs-comment ># Normalize pixel values</span>
+    img = np.expand_dims(img, axis=<span class=hljs-number >0</span>)  <span class=hljs-comment ># Add batch dimension</span>
+    <span class=hljs-keyword >return</span> img
+
+<span class=hljs-comment ># Upload the image</span>
+uploaded = files.upload()
+
+<span class=hljs-keyword >for</span> fn <span class=hljs-keyword >in</span> uploaded.keys():
+    <span class=hljs-comment ># Preprocess the uploaded image</span>
+    img = preprocess_image(fn)
+
+    <span class=hljs-comment ># Make a prediction</span>
+    prediction = model.predict(img)
+    predicted_class = np.argmax(prediction)
+
+    <span class=hljs-comment ># Assuming you have a mapping from class index to Tengwar letter</span>
+    <span class=hljs-comment ># Replace this with your actual mapping</span>
+    class_indices = test_generator.class_indices <span class=hljs-comment >#class_mapping #list(string.ascii_uppercase)</span>
+
+    predicted_letter = class_indices.get(predicted_class, <span class=hljs-string >&quot;Unknown&quot;</span>)
+
+    <span class=hljs-built_in >print</span>(<span class=hljs-string >f&quot;The predicted Tengwar letter for <span class=hljs-subst >{fn}</span> is: <span class=hljs-subst >{predicted_letter}</span>&quot;</span>)</code></pre> <h2 id=resultados ><a href="#resultados" class=header-anchor >Resultados</a></h2> <p>Malas noticias. No funcionó. Culpo a la mala calidad de los datos de entrenamiento, así como su escasez.</p> <div class=page-foot > <a href="http://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0</a> Σlfofrit. Last modified: April 11, 2025. Website built with <a href="https://github.com/tlienart/Franklin.jl">Franklin.jl</a> and the <a href="https://julialang.org">Julia programming language</a>. </div> </div> </div> </div> <div class=page__footer > <footer> <div class=page__footer-follow > <ul class=social-icons > <li><strong>Follow:</strong> <li><a href="https://bsky.app/profile/elfofrit.com" rel="nofollow noopener noreferrer"><i class="fa fa-hashtag" aria-hidden=true ></i> Bluesky</a> <li><a href="https://www.instagram.com/elfofrit" rel="nofollow noopener noreferrer"><i class="fab fa-fw fa-instagram" aria-hidden=true ></i> Instagram</a> <li><a href="https://www.youtube.com/@elfofrit" rel="nofollow noopener noreferrer"><i class="fab fa-fw fa-youtube" aria-hidden=true ></i> YouTube</a> </ul> </div> <div class=page__footer-copyright >&copy; Σlfofrit. Powered by <a href="https://github.com/tlienart/Franklin.jl">Franklin</a> &amp; <a href="https://mademistakes.com/work/minimal-mistakes-jekyll-theme/" rel=nofollow >Minimal Mistakes</a>.</div> </footer> </div> <script src="/libs/minimal-mistakes/main.min.js"></script> <script defer src="https://use.fontawesome.com/releases/v5.8.2/js/all.js" integrity="sha384-DJ25uNYET2XCl5ZF++U8eNxPWqcKohUUBUpKGlNLMchM7q4Wjg2CUpjHLaL8yYPH" crossorigin=anonymous ></script> <script src="/libs/highlight/highlight.min.js"></script> <script>hljs.highlightAll();hljs.configure({tabReplace: ' '});</script>

@@ -1,0 +1,318 @@
+<!doctype html> <!-- Minimal Mistakes Jekyll Theme 4.16.4 by Michael Rose Copyright 2013-2019 Michael Rose - mademistakes.com | @mmistakes Free for personal and commercial use under the MIT license https://github.com/mmistakes/minimal-mistakes/blob/master/LICENSE --> <html lang=en > <meta charset=UTF-8 > <meta name=viewport  content="width=device-width, initial-scale=1"> <link rel=stylesheet  href="/libs/highlight/styles/github.min.css"> <link rel=stylesheet  href="/css/franklin.css"> <link rel=stylesheet  href="/css/minimal-mistakes.css"> <link rel=stylesheet  href="/css/adjust.css"> <link rel=icon  href="/assets/elfofritosquare.ico"> <!--[if IE ]> <style> /* old IE unsupported flexbox fixes */ .greedy-nav .site-title { padding-right: 3em; } .greedy-nav button { position: absolute; top: 0; right: 0; height: 100%; } </style> <![endif]--> <title>Backloggd 2024</title> <body class=layout--single > <div class=masthead > <div class=masthead__inner-wrap > <div class=masthead__menu > <nav id=site-nav  class=greedy-nav > <a class=site-title  href="/">elfofrit.com</a> <ul class=visible-links > <li class=masthead__menu-item ><a href="/tag/quantum_computing/" >Quantum Computing</a> <li class=masthead__menu-item ><a href="/tag/data_science/" >Data Science</a> <li class=masthead__menu-item ><a href="/tag/game_dev/" >Game Dev</a> <li class=masthead__menu-item ><a href="/tag/extras/">Extras</a> </ul> <button class="greedy-nav__toggle hidden" type=button > <span class=visually-hidden >Toggle menu</span> <div class=navicon ></div> </button> <ul class="hidden-links hidden"></ul> </nav> </div> </div> </div> <div class=initial-content > <div id=main  role=main > <div class="sidebar sticky"> <div itemscope itemtype="https://schema.org/Person"> <div class=author__avatar > <img src="/assets/elfofritosquare.png" alt="Σlfofrit" itemprop=image > </div> <div class=author__content > <h3 class=author__name  itemprop=name >Σlfofrit</h3> <p class=author__bio  itemprop=description >Físico</p> </div> <div class=author__urls-wrapper > <button class="btn btn--inverse">Seguir</button> <ul class="author__urls social-icons"> <li itemprop=homeLocation  itemscope itemtype="https://schema.org/Place"> <i class="fas fa-fw fa-map-marker-alt" aria-hidden=true ></i> <span itemprop=name >México</span> <li><a href="mailto:info@elfofrit.com" rel="nofollow noopener noreferrer"><i class="fa fa-envelope" aria-hidden=true ></i> info@elfofrit.com</a> <li><a href="https://bsky.app/profile/elfofrit.com" rel="nofollow noopener noreferrer"><i class="fa fa-hashtag" aria-hidden=true ></i> Bluesky</a> <li><a href="https://github.com/elfofrit" rel="nofollow noopener noreferrer"><i class="fab fa-fw fa-github" aria-hidden=true ></i> GitHub</a> <li><a href="https://www.instagram.com/elfofrit" rel="nofollow noopener noreferrer"><i class="fab fa-fw fa-instagram" aria-hidden=true ></i> Instagram</a> <li><a href="https://www.linkedin.com/in/sebasmg" rel="nofollow noopener noreferrer"><i class="fab fa-fw fa-linkedin" aria-hidden=true ></i> LinkedIn</a> <li><a href="https://www.youtube.com/@elfofrit" rel="nofollow noopener noreferrer"><i class="fab fa-fw fa-youtube" aria-hidden=true ></i> YouTube</a> </ul> </div> </div> </div> <div class=franklin-content > <meta property="og:title" content="Backloggd 2024"> <meta property="og:description" content="Resumen anual de todos los videojuegos que jugué en el año."> <meta property="og:image" content="https://gmedia.playstation.com/is/image/SIEPDC/helldivers-2-screenshot-disclaimer-02-en-24may23?$2400px$"> <meta property="og:url" content="https://elfofrit.com/Backloggd2024"> <meta property="og:type" content=article > <meta name="twitter:card" content=summary_large_image > <meta name="twitter:title" content="Backloggd 2024"> <meta name="twitter:description" content="Resumen anual de todos los videojuegos que jugué en el año."> <meta name="twitter:image" content="https://elfofrit.com/Backloggd2024"> <p style="font-weight:600; font-size:36px">Backloggd 2024</p> <p>Realicé esto como ejercicio final del módulo de visualización de datos de un diplomado. Utilicé R porque fue el lenguaje enseñado en el módulo, y porque no lo he usado tanto como Python. Fue una buena forma de conocer RStudio. Me gustó, quisiera trabajar más con R.</p> <p>El archivo RMarkodown original, su salida en HTML, el CSV, y las gráficas se pueden encontrar en <a href="https://github.com/elfofrit/backloggd2024">GitHub</a>.</p> <div class=franklin-toc ><ol><li><a href="#introducción">Introducción</a><li><a href="#obtención_de_datos">Obtención de datos</a><li><a href="#tratamiento_de_datos">Tratamiento de datos</a><li><a href="#gráficos">Gráficos</a><ol><li><a href="#top_10_más_jugados">Top 10 más jugados</a><li><a href="#tiempo_de_juego_por_mes">Tiempo de juego por mes</a><li><a href="#histograma_de_sesiones_según_el_día_de_la_semana">Histograma de sesiones según el día de la semana</a><li><a href="#tiempo_total_por_día_de_la_semana">Tiempo total por día de la semana</a></ol><li><a href="#tiempo_total">Tiempo total</a><li><a href="#trabajo_a_futuro">Trabajo a futuro</a></ol></div> <h1 id="introducción"><a href="#introducción" class=header-anchor >Introducción</a></h1> <p>Cada vez es más común que cada fin de año las principales plataformas de entretenimiento compartan estadísticas de uso como celebración o resumen anual. Creo que la más popular es el Rewind de Spotify.</p> <p>La industria de videojuegos también está adoptando está tendencia. El problema es que en cada resumen solo puede verse los datos de juego de cada plataforma por separado, nunca en conjunto. Asimismo, estos resúmenes solo están disponibles para plataformas vigentes con conexión a internet, así que se descarta la información de consolas retro.</p> <p>Backloggd es un sitio web donde es posible llevar un registro de las sesiones de juego de cada día, sin importar la plataforma, siempre y cuando el título se encuentre en la base de datos. También permite compartir reseñas y listas.</p> <p>Durante 2024 registré mis sesiones de juego en Backloggd con el fin de extraer los datos para generar un verdadero resumen global de todos los videojuegos que llegué a jugar en ese año, sin importar en que launcher de PC o consola.</p> <h1 id="obtención_de_datos"><a href="#obtención_de_datos" class=header-anchor >Obtención de datos</a></h1> <p>De momento Backloggd no cuenta con una función de exportar tus datos en un CSV, por lo que descargué el HTML de las páginas &#40;12 en total&#41; del Journal del 2024 y utilicé el siguiente script de Python para extraer los datos de juego &#40;fecha, título, duración&#41; en un CSV.</p> <details> <summary>Mostrar código</summary> <pre><code class="python hljs">
+<span class=hljs-keyword >import</span> csv
+<span class=hljs-keyword >from</span> bs4 <span class=hljs-keyword >import</span> BeautifulSoup
+
+<span class=hljs-comment ># Abrir y leer el contenido del archivo HTML</span>
+<span class=hljs-keyword >with</span> <span class=hljs-built_in >open</span>(<span class=hljs-string >&#x27;00.html&#x27;</span>, <span class=hljs-string >&#x27;r&#x27;</span>, encoding=<span class=hljs-string >&#x27;utf-8&#x27;</span>) <span class=hljs-keyword >as</span> f:
+    soup = BeautifulSoup(f, <span class=hljs-string >&#x27;html.parser&#x27;</span>)
+
+<span class=hljs-comment ># Variables para almacenar los datos extraídos</span>
+entries = []
+current_month_year = <span class=hljs-string >&quot;&quot;</span>
+
+<span class=hljs-comment ># Iterar sobre cada bloque de entrada del diario</span>
+<span class=hljs-keyword >for</span> journal_entry <span class=hljs-keyword >in</span> soup.find_all(<span class=hljs-string >&#x27;div&#x27;</span>, class_=<span class=hljs-string >&#x27;journal_entry&#x27;</span>):
+    <span class=hljs-comment ># Actualizar el mes y año si el bloque contiene el encabezado</span>
+    header = journal_entry.find(<span class=hljs-string >&#x27;div&#x27;</span>, class_=<span class=hljs-string >&#x27;month-year-date&#x27;</span>)
+    <span class=hljs-keyword >if</span> header:
+        header_text = header.get_text(strip=<span class=hljs-literal >True</span>)
+        <span class=hljs-keyword >if</span> header_text:
+            current_month_year = header_text  <span class=hljs-comment ># Ejemplo: &quot;December, 2024&quot;</span>
+
+    <span class=hljs-comment ># Buscar cada resultado individual dentro del bloque</span>
+    <span class=hljs-keyword >for</span> result <span class=hljs-keyword >in</span> journal_entry.find_all(<span class=hljs-string >&#x27;div&#x27;</span>, class_=<span class=hljs-string >&#x27;result&#x27;</span>):
+        <span class=hljs-comment ># Extraer el día de la fecha</span>
+        day_tag = result.find(<span class=hljs-string >&#x27;h4&#x27;</span>, class_=<span class=hljs-string >&#x27;date-day&#x27;</span>)
+        day = day_tag.get_text(strip=<span class=hljs-literal >True</span>) <span class=hljs-keyword >if</span> day_tag <span class=hljs-keyword >else</span> <span class=hljs-string >&quot;&quot;</span>
+        <span class=hljs-comment ># Por si el día está vacío o marcado como &quot;invisible&quot;</span>
+        day_text = day <span class=hljs-keyword >if</span> day <span class=hljs-keyword >and</span> <span class=hljs-string >&quot;invisible&quot;</span> <span class=hljs-keyword >not</span> <span class=hljs-keyword >in</span> day_tag.get(<span class=hljs-string >&#x27;class&#x27;</span>, []) <span class=hljs-keyword >else</span> <span class=hljs-string >&quot;&quot;</span>
+
+        <span class=hljs-comment ># Extraer nombre</span>
+        game_tag = result.find(<span class=hljs-string >&#x27;div&#x27;</span>, class_=<span class=hljs-string >&#x27;game-name&#x27;</span>)
+        game_name = game_tag.get_text(strip=<span class=hljs-literal >True</span>) <span class=hljs-keyword >if</span> game_tag <span class=hljs-keyword >else</span> <span class=hljs-string >&quot;&quot;</span>
+
+        <span class=hljs-comment ># Extraer la duración de la sesión</span>
+        time_tag = result.find(<span class=hljs-string >&#x27;p&#x27;</span>, class_=<span class=hljs-string >&#x27;journal-time&#x27;</span>)
+        duration = time_tag.get_text(strip=<span class=hljs-literal >True</span>) <span class=hljs-keyword >if</span> time_tag <span class=hljs-keyword >else</span> <span class=hljs-string >&quot;&quot;</span>
+
+        <span class=hljs-comment ># Combinar el día con el encabezado de mes/año</span>
+        full_date = <span class=hljs-string >f&quot;<span class=hljs-subst >{day_text}</span> <span class=hljs-subst >{current_month_year}</span>&quot;</span>.strip()
+
+        <span class=hljs-comment ># Agregar los datos a la lista</span>
+        entries.append({
+            <span class=hljs-string >&#x27;fecha&#x27;</span>: full_date,
+            <span class=hljs-string >&#x27;nombre&#x27;</span>: game_name,
+            <span class=hljs-string >&#x27;duracion&#x27;</span>: duration
+        })
+
+<span class=hljs-comment ># Guardar la información extraída en un archivo CSV</span>
+<span class=hljs-keyword >with</span> <span class=hljs-built_in >open</span>(<span class=hljs-string >&#x27;journal.csv&#x27;</span>, <span class=hljs-string >&#x27;w&#x27;</span>, newline=<span class=hljs-string >&#x27;&#x27;</span>, encoding=<span class=hljs-string >&#x27;utf-8&#x27;</span>) <span class=hljs-keyword >as</span> csvfile:
+    fieldnames = [<span class=hljs-string >&#x27;fecha&#x27;</span>, <span class=hljs-string >&#x27;nombre&#x27;</span>, <span class=hljs-string >&#x27;duracion&#x27;</span>]
+    writer = csv.DictWriter(csvfile, fieldnames=fieldnames)
+
+    writer.writeheader()
+    <span class=hljs-keyword >for</span> entry <span class=hljs-keyword >in</span> entries:
+        writer.writerow(entry)
+
+<span class=hljs-built_in >print</span>(<span class=hljs-string >&quot;Datos exportados exitosamente a journal.csv&quot;</span>)
+
+<span class=hljs-keyword >from</span> google.colab <span class=hljs-keyword >import</span> files
+files.download(<span class=hljs-string >&#x27;journal.csv&#x27;</span>)
+  </code></pre> </details> <p>En la quinta línea sustituí <code>00.html</code> por el nombre correcto del archivo. Las últimas dos líneas es porque lo ejecuté en Google Colab y quería que descargara automáticamente el CSV en lugar de guardarlo en la sesión de Colab.</p> <p>Obtuve doce CSVs con la información de todas mis sesiones de juego registradas en Backloggd durante 2024. Cada CSV lucía así:</p> <pre><code class="julia hljs"><span class=hljs-comment >## # A tibble: 6 × 3</span>
+<span class=hljs-comment >##   fecha             nombre                                            duracion</span>
+<span class=hljs-comment >##   &lt;chr&gt;             &lt;chr&gt;                                             &lt;chr&gt;   </span>
+<span class=hljs-comment >## 1 31 December, 2024 Pokémon Trading Card Game Pocket                  0h 9m   </span>
+<span class=hljs-comment >## 2 31 December, 2024 Dragon Quest VII: Fragments of the Forgotten Past 0h 55m  </span>
+<span class=hljs-comment >## 3 29 December, 2024 Lumines Remastered                                0h 44m  </span>
+<span class=hljs-comment >## 4 29 December, 2024 Pokémon Trading Card Game Pocket                  0h 13m  </span>
+<span class=hljs-comment >## 5 28 December, 2024 Dragon Quest VII: Fragments of the Forgotten Past 0h 45m  </span>
+<span class=hljs-comment >## 6 28 December, 2024 Higurashi no Naku Koro ni: Ch.1 Onikakushi-hen    0h 46m</span></code></pre> <h1 id=tratamiento_de_datos ><a href="#tratamiento_de_datos" class=header-anchor >Tratamiento de datos</a></h1> <p>Se ajustará el formato de fecha de la columna <code>fecha</code> de los CSV.</p> <pre><code class="r hljs">library<span class=hljs-punctuation >(</span>tidyverse<span class=hljs-punctuation >)</span>
+library<span class=hljs-punctuation >(</span>lubridate<span class=hljs-punctuation >)</span>
+
+<span class=hljs-comment ># Convertir columna &quot;fecha&quot; a Date</span>
+journal <span class=hljs-operator >&lt;-</span> journal <span class=hljs-operator >%&gt;%</span>
+  mutate<span class=hljs-punctuation >(</span>fecha <span class=hljs-operator >=</span> dmy<span class=hljs-punctuation >(</span>fecha<span class=hljs-punctuation >)</span><span class=hljs-punctuation >)</span>  <span class=hljs-comment ># Día-Mes-Año</span></code></pre> <p>Los datos de tiempo en <code>duracion</code> están en horas y minutos, se añadirá otra columna donde se convertirán a solo minutos para facilitar los cálculos más adelante.</p> <pre><code class="r hljs"><span class=hljs-comment ># Función para convertir duración tipo &quot;1h 30m&quot; a minutos</span>
+parse_duration <span class=hljs-operator >&lt;-</span> <span class=hljs-keyword >function</span><span class=hljs-punctuation >(</span>x<span class=hljs-punctuation >)</span> <span class=hljs-punctuation >{</span>
+  h <span class=hljs-operator >&lt;-</span> <span class=hljs-built_in >as.numeric</span><span class=hljs-punctuation >(</span>str_extract<span class=hljs-punctuation >(</span>x<span class=hljs-punctuation >,</span> <span class=hljs-string >&quot;\\d+(?=h)&quot;</span><span class=hljs-punctuation >)</span><span class=hljs-punctuation >)</span>
+  m <span class=hljs-operator >&lt;-</span> <span class=hljs-built_in >as.numeric</span><span class=hljs-punctuation >(</span>str_extract<span class=hljs-punctuation >(</span>x<span class=hljs-punctuation >,</span> <span class=hljs-string >&quot;\\d+(?=m)&quot;</span><span class=hljs-punctuation >)</span><span class=hljs-punctuation >)</span>
+  
+  h<span class=hljs-punctuation >[</span><span class=hljs-built_in >is.na</span><span class=hljs-punctuation >(</span>h<span class=hljs-punctuation >)</span><span class=hljs-punctuation >]</span> <span class=hljs-operator >&lt;-</span> <span class=hljs-number >0</span>
+  m<span class=hljs-punctuation >[</span><span class=hljs-built_in >is.na</span><span class=hljs-punctuation >(</span>m<span class=hljs-punctuation >)</span><span class=hljs-punctuation >]</span> <span class=hljs-operator >&lt;-</span> <span class=hljs-number >0</span>
+  
+  <span class=hljs-built_in >return</span><span class=hljs-punctuation >(</span>h <span class=hljs-operator >*</span> <span class=hljs-number >60</span> <span class=hljs-operator >+</span> m<span class=hljs-punctuation >)</span>
+<span class=hljs-punctuation >}</span>
+
+<span class=hljs-comment ># Aplicar la función</span>
+journal <span class=hljs-operator >&lt;-</span> journal <span class=hljs-operator >%&gt;%</span>
+  mutate<span class=hljs-punctuation >(</span>duracion_min <span class=hljs-operator >=</span> parse_duration<span class=hljs-punctuation >(</span>duracion<span class=hljs-punctuation >)</span><span class=hljs-punctuation >)</span>
+
+<span class=hljs-comment ># Verifica el resultado</span>
+head<span class=hljs-punctuation >(</span>journal<span class=hljs-punctuation >)</span></code></pre> <pre><code class="julia hljs"><span class=hljs-comment >## # A tibble: 6 × 4</span>
+<span class=hljs-comment >##   fecha      nombre                                        duracion duracion_min</span>
+<span class=hljs-comment >##   &lt;date&gt;     &lt;chr&gt;                                         &lt;chr&gt;           &lt;dbl&gt;</span>
+<span class=hljs-comment >## 1 2024-12-31 Pokémon Trading Card Game Pocket              0h 9m               9</span>
+<span class=hljs-comment >## 2 2024-12-31 Dragon Quest VII: Fragments of the Forgotten… 0h 55m             55</span>
+<span class=hljs-comment >## 3 2024-12-29 Lumines Remastered                            0h 44m             44</span>
+<span class=hljs-comment >## 4 2024-12-29 Pokémon Trading Card Game Pocket              0h 13m             13</span>
+<span class=hljs-comment >## 5 2024-12-28 Dragon Quest VII: Fragments of the Forgotten… 0h 45m             45</span>
+<span class=hljs-comment >## 6 2024-12-28 Higurashi no Naku Koro ni: Ch.1 Onikakushi-h… 0h 46m             46</span></code></pre> <h1 id="gráficos"><a href="#gráficos" class=header-anchor >Gráficos</a></h1> <p>Recomiendo hacer click derecho y abrir la imagen en una nueva pestaña. Todavía no logro domar esta plantilla con mi propio código HTML que ignore los márgenes y muestre mejor las imágenes. Una disculpa.</p> <h2 id="top_10_más_jugados"><a href="#top_10_más_jugados" class=header-anchor >Top 10 más jugados</a></h2> <details> <summary>Mostrar código</summary> <pre><code class="r hljs">
+library<span class=hljs-punctuation >(</span>tidyverse<span class=hljs-punctuation >)</span>
+<span class=hljs-comment ># Calcular top 10</span>
+top10 <span class=hljs-operator >&lt;-</span> journal <span class=hljs-operator >%&gt;%</span>
+  group_by<span class=hljs-punctuation >(</span>nombre<span class=hljs-punctuation >)</span> <span class=hljs-operator >%&gt;%</span>
+  summarise<span class=hljs-punctuation >(</span>minutos <span class=hljs-operator >=</span> <span class=hljs-built_in >sum</span><span class=hljs-punctuation >(</span>duracion_min<span class=hljs-punctuation >,</span> na.rm <span class=hljs-operator >=</span> <span class=hljs-literal >TRUE</span><span class=hljs-punctuation >)</span><span class=hljs-punctuation >)</span> <span class=hljs-operator >%&gt;%</span>
+  arrange<span class=hljs-punctuation >(</span>desc<span class=hljs-punctuation >(</span>minutos<span class=hljs-punctuation >)</span><span class=hljs-punctuation >)</span> <span class=hljs-operator >%&gt;%</span>
+  slice_head<span class=hljs-punctuation >(</span>n <span class=hljs-operator >=</span> <span class=hljs-number >10</span><span class=hljs-punctuation >)</span> <span class=hljs-operator >%&gt;%</span>
+  mutate<span class=hljs-punctuation >(</span>
+    horas <span class=hljs-operator >=</span> <span class=hljs-built_in >floor</span><span class=hljs-punctuation >(</span>minutos <span class=hljs-operator >/</span> <span class=hljs-number >60</span><span class=hljs-punctuation >)</span><span class=hljs-punctuation >,</span>
+    mins <span class=hljs-operator >=</span> minutos <span class=hljs-operator >%%</span> <span class=hljs-number >60</span><span class=hljs-punctuation >,</span>
+    etiqueta <span class=hljs-operator >=</span> sprintf<span class=hljs-punctuation >(</span><span class=hljs-string >&quot;%dh %02dm&quot;</span><span class=hljs-punctuation >,</span> horas<span class=hljs-punctuation >,</span> mins<span class=hljs-punctuation >)</span>
+  <span class=hljs-punctuation >)</span>
+
+<span class=hljs-comment ># Gráfica</span>
+ggplot<span class=hljs-punctuation >(</span>top10<span class=hljs-punctuation >,</span> aes<span class=hljs-punctuation >(</span>x <span class=hljs-operator >=</span> reorder<span class=hljs-punctuation >(</span>nombre<span class=hljs-punctuation >,</span> minutos<span class=hljs-punctuation >)</span><span class=hljs-punctuation >,</span> y <span class=hljs-operator >=</span> minutos<span class=hljs-punctuation >)</span><span class=hljs-punctuation >)</span> <span class=hljs-operator >+</span>
+  geom_col<span class=hljs-punctuation >(</span>fill <span class=hljs-operator >=</span> <span class=hljs-string >&quot;red&quot;</span><span class=hljs-punctuation >)</span> <span class=hljs-operator >+</span>
+  geom_text<span class=hljs-punctuation >(</span>
+    aes<span class=hljs-punctuation >(</span>label <span class=hljs-operator >=</span> etiqueta<span class=hljs-punctuation >)</span><span class=hljs-punctuation >,</span>
+    hjust <span class=hljs-operator >=</span> <span class=hljs-operator >-</span><span class=hljs-number >0.05</span><span class=hljs-punctuation >,</span>
+    size <span class=hljs-operator >=</span> <span class=hljs-number >4</span>
+  <span class=hljs-punctuation >)</span> <span class=hljs-operator >+</span>
+  coord_flip<span class=hljs-punctuation >(</span><span class=hljs-punctuation >)</span> <span class=hljs-operator >+</span>
+  scale_y_continuous<span class=hljs-punctuation >(</span>expand <span class=hljs-operator >=</span> expansion<span class=hljs-punctuation >(</span>mult <span class=hljs-operator >=</span> <span class=hljs-built_in >c</span><span class=hljs-punctuation >(</span><span class=hljs-number >0</span><span class=hljs-punctuation >,</span> <span class=hljs-number >0.15</span><span class=hljs-punctuation >)</span><span class=hljs-punctuation >)</span><span class=hljs-punctuation >)</span> <span class=hljs-operator >+</span>
+  labs<span class=hljs-punctuation >(</span>
+    title <span class=hljs-operator >=</span> <span class=hljs-string >&quot;Videojuegos 2024&quot;</span><span class=hljs-punctuation >,</span>
+    x <span class=hljs-operator >=</span> <span class=hljs-string >&quot;&quot;</span><span class=hljs-punctuation >,</span>
+    y <span class=hljs-operator >=</span> <span class=hljs-string >&quot;Minutos&quot;</span>
+  <span class=hljs-punctuation >)</span> <span class=hljs-operator >+</span>
+  theme_minimal<span class=hljs-punctuation >(</span><span class=hljs-punctuation >)</span> <span class=hljs-operator >+</span>
+  theme<span class=hljs-punctuation >(</span>
+    plot.title <span class=hljs-operator >=</span> element_text<span class=hljs-punctuation >(</span>face <span class=hljs-operator >=</span> <span class=hljs-string >&quot;bold&quot;</span><span class=hljs-punctuation >,</span> size <span class=hljs-operator >=</span> <span class=hljs-number >18</span><span class=hljs-punctuation >,</span> hjust <span class=hljs-operator >=</span> <span class=hljs-number >0.5</span><span class=hljs-punctuation >)</span><span class=hljs-punctuation >,</span>
+    axis.title <span class=hljs-operator >=</span> element_text<span class=hljs-punctuation >(</span>size <span class=hljs-operator >=</span> <span class=hljs-number >12</span><span class=hljs-punctuation >)</span><span class=hljs-punctuation >,</span>
+    axis.text <span class=hljs-operator >=</span> element_text<span class=hljs-punctuation >(</span>size <span class=hljs-operator >=</span> <span class=hljs-number >10</span><span class=hljs-punctuation >)</span><span class=hljs-punctuation >,</span>
+    panel.grid.major.y <span class=hljs-operator >=</span> element_blank<span class=hljs-punctuation >(</span><span class=hljs-punctuation >)</span>
+  <span class=hljs-punctuation >)</span>
+  </code></pre> </details> <img src="/assets/videojuegos2024.png" /> <p>Helldivers II es genial. Hacía mucho que no me divertía tanto con un shooter, y que mejor que con amigos.</p> <p>Civilization VI es mi videojuego favorito. ¿Les he dicho alguna vez que Sid Meier himself respondió a mi pregunta en un evento de Zoom? El mejor día de mi vida.</p> <p>Me sorprende que Balatro se haya colado al Top 3. Superó a los JRPGs que dejé inconclusos. Wow. Jueguen Balatro.</p> <h2 id=tiempo_de_juego_por_mes ><a href="#tiempo_de_juego_por_mes" class=header-anchor >Tiempo de juego por mes</a></h2> <details> <summary>Mostrar código</summary> <pre><code class="r hljs">
+library<span class=hljs-punctuation >(</span>tidyverse<span class=hljs-punctuation >)</span>
+library<span class=hljs-punctuation >(</span>lubridate<span class=hljs-punctuation >)</span>
+
+<span class=hljs-comment ># Asegurarse de tener columna de mes</span>
+journal <span class=hljs-operator >&lt;-</span> journal <span class=hljs-operator >%&gt;%</span>
+  mutate<span class=hljs-punctuation >(</span>
+    fecha <span class=hljs-operator >=</span> as.Date<span class=hljs-punctuation >(</span>fecha<span class=hljs-punctuation >)</span><span class=hljs-punctuation >,</span>
+    mes <span class=hljs-operator >=</span> floor_date<span class=hljs-punctuation >(</span>fecha<span class=hljs-punctuation >,</span> <span class=hljs-string >&quot;month&quot;</span><span class=hljs-punctuation >)</span>
+  <span class=hljs-punctuation >)</span>
+
+<span class=hljs-comment ># 1. Calcular los top 6 juegos del año</span>
+top6_juegos <span class=hljs-operator >&lt;-</span> journal <span class=hljs-operator >%&gt;%</span>
+  group_by<span class=hljs-punctuation >(</span>nombre<span class=hljs-punctuation >)</span> <span class=hljs-operator >%&gt;%</span>
+  summarise<span class=hljs-punctuation >(</span>minutos <span class=hljs-operator >=</span> <span class=hljs-built_in >sum</span><span class=hljs-punctuation >(</span>duracion_min<span class=hljs-punctuation >,</span> na.rm <span class=hljs-operator >=</span> <span class=hljs-literal >TRUE</span><span class=hljs-punctuation >)</span><span class=hljs-punctuation >)</span> <span class=hljs-operator >%&gt;%</span>
+  slice_max<span class=hljs-punctuation >(</span>minutos<span class=hljs-punctuation >,</span> n <span class=hljs-operator >=</span> <span class=hljs-number >6</span><span class=hljs-punctuation >)</span> <span class=hljs-operator >%&gt;%</span>
+  pull<span class=hljs-punctuation >(</span>nombre<span class=hljs-punctuation >)</span>
+
+<span class=hljs-comment ># 2. Crear nueva columna para agrupar &quot;Otros&quot;</span>
+journal <span class=hljs-operator >&lt;-</span> journal <span class=hljs-operator >%&gt;%</span>
+  mutate<span class=hljs-punctuation >(</span>
+    juego_cat <span class=hljs-operator >=</span> if_else<span class=hljs-punctuation >(</span>nombre <span class=hljs-operator >%in%</span> top6_juegos<span class=hljs-punctuation >,</span> nombre<span class=hljs-punctuation >,</span> <span class=hljs-string >&quot;Otros&quot;</span><span class=hljs-punctuation >)</span>
+  <span class=hljs-punctuation >)</span>
+
+<span class=hljs-comment ># Convertir en factor con orden deseado</span>
+niveles_ordenados <span class=hljs-operator >&lt;-</span> <span class=hljs-built_in >c</span><span class=hljs-punctuation >(</span>top6_juegos<span class=hljs-punctuation >,</span> <span class=hljs-string >&quot;Otros&quot;</span><span class=hljs-punctuation >)</span>
+journal <span class=hljs-operator >&lt;-</span> journal <span class=hljs-operator >%&gt;%</span>
+  mutate<span class=hljs-punctuation >(</span>juego_cat <span class=hljs-operator >=</span> factor<span class=hljs-punctuation >(</span>juego_cat<span class=hljs-punctuation >,</span> levels <span class=hljs-operator >=</span> niveles_ordenados<span class=hljs-punctuation >)</span><span class=hljs-punctuation >)</span>
+
+<span class=hljs-comment ># 3. Agrupar por mes y categoría</span>
+tiempo_mensual <span class=hljs-operator >&lt;-</span> journal <span class=hljs-operator >%&gt;%</span>
+  group_by<span class=hljs-punctuation >(</span>mes<span class=hljs-punctuation >,</span> juego_cat<span class=hljs-punctuation >)</span> <span class=hljs-operator >%&gt;%</span>
+  summarise<span class=hljs-punctuation >(</span>minutos <span class=hljs-operator >=</span> <span class=hljs-built_in >sum</span><span class=hljs-punctuation >(</span>duracion_min<span class=hljs-punctuation >,</span> na.rm <span class=hljs-operator >=</span> <span class=hljs-literal >TRUE</span><span class=hljs-punctuation >)</span><span class=hljs-punctuation >,</span> .groups <span class=hljs-operator >=</span> <span class=hljs-string >&quot;drop&quot;</span><span class=hljs-punctuation >)</span> <span class=hljs-operator >%&gt;%</span>
+  mutate<span class=hljs-punctuation >(</span>horas <span class=hljs-operator >=</span> minutos <span class=hljs-operator >/</span> <span class=hljs-number >60</span><span class=hljs-punctuation >)</span>
+
+<span class=hljs-comment ># 4. Calcular totales por mes para mostrar texto</span>
+totales_mes <span class=hljs-operator >&lt;-</span> tiempo_mensual <span class=hljs-operator >%&gt;%</span>
+  group_by<span class=hljs-punctuation >(</span>mes<span class=hljs-punctuation >)</span> <span class=hljs-operator >%&gt;%</span>
+  summarise<span class=hljs-punctuation >(</span>
+    total_minutos <span class=hljs-operator >=</span> <span class=hljs-built_in >sum</span><span class=hljs-punctuation >(</span>minutos<span class=hljs-punctuation >)</span><span class=hljs-punctuation >,</span>
+    horas <span class=hljs-operator >=</span> total_minutos <span class=hljs-operator >%/%</span> <span class=hljs-number >60</span><span class=hljs-punctuation >,</span>
+    minutos <span class=hljs-operator >=</span> total_minutos <span class=hljs-operator >%%</span> <span class=hljs-number >60</span><span class=hljs-punctuation >,</span>
+    etiqueta <span class=hljs-operator >=</span> paste0<span class=hljs-punctuation >(</span>horas<span class=hljs-punctuation >,</span> <span class=hljs-string >&quot;h &quot;</span><span class=hljs-punctuation >,</span> minutos<span class=hljs-punctuation >,</span> <span class=hljs-string >&quot;m&quot;</span><span class=hljs-punctuation >)</span>
+  <span class=hljs-punctuation >)</span>
+
+<span class=hljs-comment ># 5. Crear gráfica</span>
+ggplot<span class=hljs-punctuation >(</span>tiempo_mensual<span class=hljs-punctuation >,</span> aes<span class=hljs-punctuation >(</span>x <span class=hljs-operator >=</span> mes<span class=hljs-punctuation >,</span> y <span class=hljs-operator >=</span> horas<span class=hljs-punctuation >,</span> fill <span class=hljs-operator >=</span> juego_cat<span class=hljs-punctuation >)</span><span class=hljs-punctuation >)</span> <span class=hljs-operator >+</span>
+  geom_col<span class=hljs-punctuation >(</span><span class=hljs-punctuation >)</span> <span class=hljs-operator >+</span>
+  geom_text<span class=hljs-punctuation >(</span>data <span class=hljs-operator >=</span> totales_mes<span class=hljs-punctuation >,</span>
+            aes<span class=hljs-punctuation >(</span>x <span class=hljs-operator >=</span> mes<span class=hljs-punctuation >,</span> y <span class=hljs-operator >=</span> total_minutos <span class=hljs-operator >/</span> <span class=hljs-number >60</span> <span class=hljs-operator >-</span> <span class=hljs-number >5</span><span class=hljs-punctuation >,</span> label <span class=hljs-operator >=</span> etiqueta<span class=hljs-punctuation >)</span><span class=hljs-punctuation >,</span>
+            inherit.aes <span class=hljs-operator >=</span> <span class=hljs-literal >FALSE</span><span class=hljs-punctuation >,</span>
+            size <span class=hljs-operator >=</span> <span class=hljs-number >4.2</span><span class=hljs-punctuation >,</span> angle <span class=hljs-operator >=</span> <span class=hljs-number >90</span><span class=hljs-punctuation >,</span> color <span class=hljs-operator >=</span> <span class=hljs-string >&quot;black&quot;</span><span class=hljs-punctuation >)</span> <span class=hljs-operator >+</span> 
+  labs<span class=hljs-punctuation >(</span>
+    title <span class=hljs-operator >=</span> <span class=hljs-string >&quot;Videojuegos 2024&quot;</span><span class=hljs-punctuation >,</span>
+    x <span class=hljs-operator >=</span> <span class=hljs-string >&quot;&quot;</span><span class=hljs-punctuation >,</span>
+    y <span class=hljs-operator >=</span> <span class=hljs-string >&quot;Horas&quot;</span><span class=hljs-punctuation >,</span>
+    fill <span class=hljs-operator >=</span> <span class=hljs-string >&quot;Videojuego&quot;</span>
+  <span class=hljs-punctuation >)</span> <span class=hljs-operator >+</span>
+  scale_x_date<span class=hljs-punctuation >(</span>
+    date_labels <span class=hljs-operator >=</span> <span class=hljs-string >&quot;%B&quot;</span><span class=hljs-punctuation >,</span>
+    date_breaks <span class=hljs-operator >=</span> <span class=hljs-string >&quot;1 month&quot;</span>
+  <span class=hljs-punctuation >)</span> <span class=hljs-operator >+</span>
+  scale_fill_brewer<span class=hljs-punctuation >(</span>palette <span class=hljs-operator >=</span> <span class=hljs-string >&quot;Accent&quot;</span><span class=hljs-punctuation >)</span> <span class=hljs-operator >+</span>
+  theme_minimal<span class=hljs-punctuation >(</span><span class=hljs-punctuation >)</span> <span class=hljs-operator >+</span>
+  theme<span class=hljs-punctuation >(</span>
+    plot.title <span class=hljs-operator >=</span> element_text<span class=hljs-punctuation >(</span>face <span class=hljs-operator >=</span> <span class=hljs-string >&quot;bold&quot;</span><span class=hljs-punctuation >,</span> size <span class=hljs-operator >=</span> <span class=hljs-number >16</span><span class=hljs-punctuation >,</span> hjust <span class=hljs-operator >=</span> <span class=hljs-number >0.5</span><span class=hljs-punctuation >)</span><span class=hljs-punctuation >,</span>
+    axis.text.x <span class=hljs-operator >=</span> element_text<span class=hljs-punctuation >(</span>angle <span class=hljs-operator >=</span> <span class=hljs-number >45</span><span class=hljs-punctuation >,</span> hjust <span class=hljs-operator >=</span> <span class=hljs-number >1</span><span class=hljs-punctuation >)</span><span class=hljs-punctuation >,</span>
+    legend.position <span class=hljs-operator >=</span> <span class=hljs-string >&quot;right&quot;</span>
+  <span class=hljs-punctuation >)</span>
+  </code></pre> </details> <img src="/assets/meses2024.png" /> <p>Mi gráfica favorita. De las mejores que he hecho.</p> <p>Nótese los picos de actividad en vacaciones y el impacto de Helldivers II. Las primeras semanas jugaba diario con mis amigos de Discord, que luego se fueron a Space Marine II y Monster Hunter en los meses siguientes. Puede observarse como dejé de jugar tanto después.</p> <p>En verano me invaden unas ganas inexplicables de jugar Los Sims.</p> <p>A finales de septiembre conseguí un iPad con tres meses gratis de Apple Arcade. Aproveché para jugar Balatro y desde entonces no lo he dejado. Terminó el periodo de prueba y pagué por el juego aparte para jugarlo sin suscripción. Es sencillamente el mejor título disponible para móviles. ¡Viva Balatro&#33;</p> <p>Algo importante de mis hábito de consumo es que juego un poco de todo. Me gustan los juegos cortos. No obstante, el 2024 se destacó porque no terminé tantos juegos como en años previos. Los JRPGs que suelen aportar muchas horas no me engancharon o descubrí que descargué la versión incompleta y mi partida no es compatible con la versión definitiva por lo que debo empezar desde el inicio &#40;gracias Atlus&#41;.</p> <h2 id="histograma_de_sesiones_según_el_día_de_la_semana"><a href="#histograma_de_sesiones_según_el_día_de_la_semana" class=header-anchor >Histograma de sesiones según el día de la semana</a></h2> <details> <summary>Mostrar código</summary> <pre><code class="r hljs">
+<span class=hljs-comment ># Crear columna con el día de la semana</span>
+journal <span class=hljs-operator >&lt;-</span> journal <span class=hljs-operator >%&gt;%</span>
+  mutate<span class=hljs-punctuation >(</span>dia_semana <span class=hljs-operator >=</span> wday<span class=hljs-punctuation >(</span>fecha<span class=hljs-punctuation >,</span> label <span class=hljs-operator >=</span> <span class=hljs-literal >TRUE</span><span class=hljs-punctuation >,</span> abbr <span class=hljs-operator >=</span> <span class=hljs-literal >FALSE</span><span class=hljs-punctuation >)</span><span class=hljs-punctuation >)</span>  <span class=hljs-comment ># Día de la semana como nombre completo</span>
+
+<span class=hljs-comment ># Crear histograma del día de la semana</span>
+ggplot<span class=hljs-punctuation >(</span>journal<span class=hljs-punctuation >,</span> aes<span class=hljs-punctuation >(</span>x <span class=hljs-operator >=</span> dia_semana<span class=hljs-punctuation >)</span><span class=hljs-punctuation >)</span> <span class=hljs-operator >+</span>
+  geom_bar<span class=hljs-punctuation >(</span>fill <span class=hljs-operator >=</span> <span class=hljs-string >&quot;#4C9E8C&quot;</span><span class=hljs-punctuation >,</span> color <span class=hljs-operator >=</span> <span class=hljs-string >&quot;#2C6F57&quot;</span><span class=hljs-punctuation >,</span> size <span class=hljs-operator >=</span> <span class=hljs-number >0.5</span><span class=hljs-punctuation >)</span> <span class=hljs-operator >+</span>  <span class=hljs-comment ># Colores más suaves</span>
+  geom_text<span class=hljs-punctuation >(</span>
+    stat <span class=hljs-operator >=</span> <span class=hljs-string >&quot;count&quot;</span><span class=hljs-punctuation >,</span> aes<span class=hljs-punctuation >(</span>label <span class=hljs-operator >=</span> ..count..<span class=hljs-punctuation >)</span><span class=hljs-punctuation >,</span> vjust <span class=hljs-operator >=</span> <span class=hljs-operator >-</span><span class=hljs-number >0.5</span><span class=hljs-punctuation >,</span> size <span class=hljs-operator >=</span> <span class=hljs-number >5</span><span class=hljs-punctuation >,</span> fontface <span class=hljs-operator >=</span> <span class=hljs-string >&quot;bold&quot;</span><span class=hljs-punctuation >,</span> color <span class=hljs-operator >=</span> <span class=hljs-string >&quot;black&quot;</span>
+  <span class=hljs-punctuation >)</span> <span class=hljs-operator >+</span>  <span class=hljs-comment ># Agregar la cantidad exacta sobre las barras</span>
+  labs<span class=hljs-punctuation >(</span>
+    title <span class=hljs-operator >=</span> <span class=hljs-string >&quot;Sesiones de juego por dia de la semana&quot;</span><span class=hljs-punctuation >,</span>
+    x <span class=hljs-operator >=</span> <span class=hljs-string >&quot;&quot;</span><span class=hljs-punctuation >,</span>
+    y <span class=hljs-operator >=</span> <span class=hljs-string >&quot;Cantidad de sesiones&quot;</span>
+  <span class=hljs-punctuation >)</span> <span class=hljs-operator >+</span>
+  scale_y_continuous<span class=hljs-punctuation >(</span>limits <span class=hljs-operator >=</span> <span class=hljs-built_in >c</span><span class=hljs-punctuation >(</span><span class=hljs-number >0</span><span class=hljs-punctuation >,</span> <span class=hljs-number >65</span><span class=hljs-punctuation >)</span><span class=hljs-punctuation >)</span> <span class=hljs-operator >+</span>  <span class=hljs-comment ># Limitar el eje Y a un máximo de 60</span>
+  theme_minimal<span class=hljs-punctuation >(</span><span class=hljs-punctuation >)</span> <span class=hljs-operator >+</span>
+  theme<span class=hljs-punctuation >(</span>
+    plot.title <span class=hljs-operator >=</span> element_text<span class=hljs-punctuation >(</span>face <span class=hljs-operator >=</span> <span class=hljs-string >&quot;bold&quot;</span><span class=hljs-punctuation >,</span> size <span class=hljs-operator >=</span> <span class=hljs-number >18</span><span class=hljs-punctuation >,</span> hjust <span class=hljs-operator >=</span> <span class=hljs-number >0.5</span><span class=hljs-punctuation >)</span><span class=hljs-punctuation >,</span>
+    axis.title <span class=hljs-operator >=</span> element_text<span class=hljs-punctuation >(</span>size <span class=hljs-operator >=</span> <span class=hljs-number >12</span><span class=hljs-punctuation >)</span><span class=hljs-punctuation >,</span>
+    axis.text <span class=hljs-operator >=</span> element_text<span class=hljs-punctuation >(</span>size <span class=hljs-operator >=</span> <span class=hljs-number >10</span><span class=hljs-punctuation >,</span> color <span class=hljs-operator >=</span> <span class=hljs-string >&quot;#333333&quot;</span><span class=hljs-punctuation >)</span><span class=hljs-punctuation >,</span>
+    panel.grid.major.x <span class=hljs-operator >=</span> element_blank<span class=hljs-punctuation >(</span><span class=hljs-punctuation >)</span><span class=hljs-punctuation >,</span>
+    panel.grid.minor.x <span class=hljs-operator >=</span> element_blank<span class=hljs-punctuation >(</span><span class=hljs-punctuation >)</span><span class=hljs-punctuation >,</span>
+    axis.ticks.x <span class=hljs-operator >=</span> element_blank<span class=hljs-punctuation >(</span><span class=hljs-punctuation >)</span>
+  <span class=hljs-punctuation >)</span>
+  </code></pre> </details> <img src="/assets/histograma2024.png" /> <p>Aclaro que Backloggd registra como sesión a cada juego registrado en ese día, sin importar la duración. Esta gráfica se puede interpretar como en qué tan común es que juegue uno o varios videojuegos según el día de la semana, porque hubo días donde no jugué nada.</p> <h2 id="tiempo_total_por_día_de_la_semana"><a href="#tiempo_total_por_día_de_la_semana" class=header-anchor >Tiempo total por día de la semana</a></h2> <details> <summary>Mostrar código</summary> <pre><code class="r hljs">
+<span class=hljs-comment ># Crear columna con el día de la semana y convertir la duración en minutos</span>
+journal <span class=hljs-operator >&lt;-</span> journal <span class=hljs-operator >%&gt;%</span>
+  mutate<span class=hljs-punctuation >(</span>dia_semana <span class=hljs-operator >=</span> wday<span class=hljs-punctuation >(</span>fecha<span class=hljs-punctuation >,</span> label <span class=hljs-operator >=</span> <span class=hljs-literal >TRUE</span><span class=hljs-punctuation >,</span> abbr <span class=hljs-operator >=</span> <span class=hljs-literal >FALSE</span><span class=hljs-punctuation >)</span><span class=hljs-punctuation >,</span>  <span class=hljs-comment ># Día de la semana como nombre completo</span>
+         duracion_min <span class=hljs-operator >=</span> parse_duration<span class=hljs-punctuation >(</span>duracion<span class=hljs-punctuation >)</span><span class=hljs-punctuation >)</span>  <span class=hljs-comment ># Asegúrate de convertir la duración a minutos</span>
+
+<span class=hljs-comment ># Calcular horas y minutos de la duración total</span>
+journal <span class=hljs-operator >&lt;-</span> journal <span class=hljs-operator >%&gt;%</span>
+  mutate<span class=hljs-punctuation >(</span>duracion_horas <span class=hljs-operator >=</span> <span class=hljs-built_in >floor</span><span class=hljs-punctuation >(</span>duracion_min <span class=hljs-operator >/</span> <span class=hljs-number >60</span><span class=hljs-punctuation >)</span><span class=hljs-punctuation >,</span>
+         duracion_restante_min <span class=hljs-operator >=</span> duracion_min <span class=hljs-operator >%%</span> <span class=hljs-number >60</span><span class=hljs-punctuation >)</span>
+
+<span class=hljs-comment ># Calcular horas totales de juego por día de la semana</span>
+horas_por_dia <span class=hljs-operator >&lt;-</span> journal <span class=hljs-operator >%&gt;%</span>
+  group_by<span class=hljs-punctuation >(</span>dia_semana<span class=hljs-punctuation >)</span> <span class=hljs-operator >%&gt;%</span>
+  summarise<span class=hljs-punctuation >(</span>horas_totales <span class=hljs-operator >=</span> <span class=hljs-built_in >sum</span><span class=hljs-punctuation >(</span>duracion_horas<span class=hljs-punctuation >)</span><span class=hljs-punctuation >,</span> minutos_totales <span class=hljs-operator >=</span> <span class=hljs-built_in >sum</span><span class=hljs-punctuation >(</span>duracion_restante_min<span class=hljs-punctuation >)</span><span class=hljs-punctuation >)</span> <span class=hljs-operator >%&gt;%</span>
+  mutate<span class=hljs-punctuation >(</span>
+    horas_totales <span class=hljs-operator >=</span> horas_totales <span class=hljs-operator >+</span> <span class=hljs-built_in >floor</span><span class=hljs-punctuation >(</span>minutos_totales <span class=hljs-operator >/</span> <span class=hljs-number >60</span><span class=hljs-punctuation >)</span><span class=hljs-punctuation >,</span>
+    minutos_totales <span class=hljs-operator >=</span> minutos_totales <span class=hljs-operator >%%</span> <span class=hljs-number >60</span><span class=hljs-punctuation >,</span>
+    etiqueta <span class=hljs-operator >=</span> sprintf<span class=hljs-punctuation >(</span><span class=hljs-string >&quot;%dh %02dm&quot;</span><span class=hljs-punctuation >,</span> horas_totales<span class=hljs-punctuation >,</span> minutos_totales<span class=hljs-punctuation >)</span>
+  <span class=hljs-punctuation >)</span> <span class=hljs-operator >%&gt;%</span>
+  arrange<span class=hljs-punctuation >(</span>dia_semana<span class=hljs-punctuation >)</span>
+
+<span class=hljs-comment ># Crear gráfico de barras para las horas y minutos de juego</span>
+ggplot<span class=hljs-punctuation >(</span>horas_por_dia<span class=hljs-punctuation >,</span> aes<span class=hljs-punctuation >(</span>x <span class=hljs-operator >=</span> dia_semana<span class=hljs-punctuation >,</span> y <span class=hljs-operator >=</span> horas_totales <span class=hljs-operator >+</span> minutos_totales <span class=hljs-operator >/</span> <span class=hljs-number >60</span><span class=hljs-punctuation >)</span><span class=hljs-punctuation >)</span> <span class=hljs-operator >+</span>
+  geom_bar<span class=hljs-punctuation >(</span>stat <span class=hljs-operator >=</span> <span class=hljs-string >&quot;identity&quot;</span><span class=hljs-punctuation >,</span> fill <span class=hljs-operator >=</span> <span class=hljs-string >&quot;#4C9E8C&quot;</span><span class=hljs-punctuation >,</span> color <span class=hljs-operator >=</span> <span class=hljs-string >&quot;#2C6F57&quot;</span><span class=hljs-punctuation >,</span> size <span class=hljs-operator >=</span> <span class=hljs-number >0.5</span><span class=hljs-punctuation >)</span> <span class=hljs-operator >+</span>  <span class=hljs-comment ># Colores más suaves</span>
+  geom_text<span class=hljs-punctuation >(</span>
+    aes<span class=hljs-punctuation >(</span>label <span class=hljs-operator >=</span> etiqueta<span class=hljs-punctuation >)</span><span class=hljs-punctuation >,</span> vjust <span class=hljs-operator >=</span> <span class=hljs-operator >-</span><span class=hljs-number >0.5</span><span class=hljs-punctuation >,</span> size <span class=hljs-operator >=</span> <span class=hljs-number >5</span><span class=hljs-punctuation >,</span> fontface <span class=hljs-operator >=</span> <span class=hljs-string >&quot;bold&quot;</span><span class=hljs-punctuation >,</span> color <span class=hljs-operator >=</span> <span class=hljs-string >&quot;black&quot;</span>
+  <span class=hljs-punctuation >)</span> <span class=hljs-operator >+</span>  <span class=hljs-comment ># Agregar la cantidad exacta de horas y minutos sobre las barras</span>
+  labs<span class=hljs-punctuation >(</span>
+    title <span class=hljs-operator >=</span> <span class=hljs-string >&quot;Horas de juego totales por dia de la semana&quot;</span><span class=hljs-punctuation >,</span>
+    x <span class=hljs-operator >=</span> <span class=hljs-string >&quot;&quot;</span><span class=hljs-punctuation >,</span>
+    y <span class=hljs-operator >=</span> <span class=hljs-string >&quot;Horas&quot;</span>
+  <span class=hljs-punctuation >)</span> <span class=hljs-operator >+</span>
+  scale_y_continuous<span class=hljs-punctuation >(</span>limits <span class=hljs-operator >=</span> <span class=hljs-built_in >c</span><span class=hljs-punctuation >(</span><span class=hljs-number >0</span><span class=hljs-punctuation >,</span> <span class=hljs-number >65</span><span class=hljs-punctuation >)</span><span class=hljs-punctuation >)</span> <span class=hljs-operator >+</span>  <span class=hljs-comment ># Limitar el eje Y a un máximo de 60</span>
+  theme_minimal<span class=hljs-punctuation >(</span><span class=hljs-punctuation >)</span> <span class=hljs-operator >+</span>
+  theme<span class=hljs-punctuation >(</span>
+    plot.title <span class=hljs-operator >=</span> element_text<span class=hljs-punctuation >(</span>face <span class=hljs-operator >=</span> <span class=hljs-string >&quot;bold&quot;</span><span class=hljs-punctuation >,</span> size <span class=hljs-operator >=</span> <span class=hljs-number >18</span><span class=hljs-punctuation >,</span> hjust <span class=hljs-operator >=</span> <span class=hljs-number >0.5</span><span class=hljs-punctuation >)</span><span class=hljs-punctuation >,</span>
+    axis.title <span class=hljs-operator >=</span> element_text<span class=hljs-punctuation >(</span>size <span class=hljs-operator >=</span> <span class=hljs-number >12</span><span class=hljs-punctuation >)</span><span class=hljs-punctuation >,</span>
+    axis.text <span class=hljs-operator >=</span> element_text<span class=hljs-punctuation >(</span>size <span class=hljs-operator >=</span> <span class=hljs-number >10</span><span class=hljs-punctuation >,</span> color <span class=hljs-operator >=</span> <span class=hljs-string >&quot;#333333&quot;</span><span class=hljs-punctuation >)</span><span class=hljs-punctuation >,</span>
+    panel.grid.major.x <span class=hljs-operator >=</span> element_blank<span class=hljs-punctuation >(</span><span class=hljs-punctuation >)</span><span class=hljs-punctuation >,</span>
+    panel.grid.minor.x <span class=hljs-operator >=</span> element_blank<span class=hljs-punctuation >(</span><span class=hljs-punctuation >)</span><span class=hljs-punctuation >,</span>
+    axis.ticks.x <span class=hljs-operator >=</span> element_blank<span class=hljs-punctuation >(</span><span class=hljs-punctuation >)</span>
+  <span class=hljs-punctuation >)</span>
+  </code></pre> </details> <img src="/assets/semana2024.png" /> <p>Esta gráfica es más interesante. Muestra en qué día de la semana acostumbraba jugar por más tiempo. Me sorprende lo uniforme que es. Recordando que el año tiene 52 semanas, se puede apreciar que más o menos jugaba una hora diaria, siendo el lunes y martes los días con más actividad. Que sorpresa.</p> <h1 id=tiempo_total ><a href="#tiempo_total" class=header-anchor >Tiempo total</a></h1> <pre><code class="r hljs">total_duracion <span class=hljs-operator >&lt;-</span> <span class=hljs-built_in >sum</span><span class=hljs-punctuation >(</span>journal<span class=hljs-operator >$</span>duracion_min<span class=hljs-punctuation >,</span> na.rm <span class=hljs-operator >=</span> <span class=hljs-literal >TRUE</span><span class=hljs-punctuation >)</span>
+
+horas <span class=hljs-operator >&lt;-</span> total_duracion <span class=hljs-operator >%/%</span> <span class=hljs-number >60</span>
+minutos <span class=hljs-operator >&lt;-</span> total_duracion <span class=hljs-operator >%%</span> <span class=hljs-number >60</span>
+
+cat<span class=hljs-punctuation >(</span><span class=hljs-string >&quot;Tiempo total: &quot;</span><span class=hljs-punctuation >,</span> horas<span class=hljs-punctuation >,</span> <span class=hljs-string >&quot;horas y&quot;</span><span class=hljs-punctuation >,</span> minutos<span class=hljs-punctuation >,</span> <span class=hljs-string >&quot;minutos\n&quot;</span><span class=hljs-punctuation >)</span></code></pre> <pre><code class="julia hljs"><span class=hljs-comment >## Tiempo total:  357 horas y 28 minutos</span></code></pre>
+<h1 id=trabajo_a_futuro ><a href="#trabajo_a_futuro" class=header-anchor >Trabajo a futuro</a></h1>
+<ul>
+<li><p>Webscraping más eficiente que recopile más información.</p>
+
+<li><p>Añadir datos de género, desarrollador, plataforma, año de lanzamiento, país, etcétera.</p>
+
+<li><p>Crear un dashboard interactivo para conocer a detalle cada juego o mes.</p>
+
+</ul>
+<div class=page-foot >
+    <a href="http://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0</a> Σlfofrit. Last modified: April 11, 2025.
+    Website built with <a href="https://github.com/tlienart/Franklin.jl">Franklin.jl</a> and the <a href="https://julialang.org">Julia programming language</a>.
+</div>
+</div>
+
+      </div> 
+    </div>   
+
+    <div class=page__footer >
+      <footer>
+        
+        
+        <div class=page__footer-follow >
+          <ul class=social-icons >
+            <li><strong>Follow:</strong>
+            <li><a href="https://bsky.app/profile/elfofrit.com" rel="nofollow noopener noreferrer"><i class="fa fa-hashtag" aria-hidden=true ></i> Bluesky</a>
+            <li><a href="https://www.instagram.com/elfofrit" rel="nofollow noopener noreferrer"><i class="fab fa-fw fa-instagram" aria-hidden=true ></i> Instagram</a>
+            <li><a href="https://www.youtube.com/@elfofrit" rel="nofollow noopener noreferrer"><i class="fab fa-fw fa-youtube" aria-hidden=true ></i> YouTube</a>
+          </ul>
+        </div>
+        <div class=page__footer-copyright >&copy; Σlfofrit. Powered by <a href="https://github.com/tlienart/Franklin.jl">Franklin</a> &amp; <a href="https://mademistakes.com/work/minimal-mistakes-jekyll-theme/" rel=nofollow >Minimal Mistakes</a>.</div>
+      </footer>
+    </div>
+
+    <script src="/libs/minimal-mistakes/main.min.js"></script>
+    <script defer src="https://use.fontawesome.com/releases/v5.8.2/js/all.js" integrity="sha384-DJ25uNYET2XCl5ZF++U8eNxPWqcKohUUBUpKGlNLMchM7q4Wjg2CUpjHLaL8yYPH" crossorigin=anonymous ></script>
+
+    
+    
+        <script src="/libs/highlight/highlight.min.js"></script>
+<script>hljs.highlightAll();hljs.configure({tabReplace: '    '});</script>
