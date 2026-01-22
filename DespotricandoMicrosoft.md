@@ -17,7 +17,7 @@ hascode = false
 date = Date(2025, 3, 10)
 rss = "Fuck Microsoft. All my homies hate Microsoft. Este post es más como una prueba para insertar elementos en HTML, así como una recomendación de fuentes de gente mucho más capacitada y preparada que yo. ![](https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:w7drolsy3m6junkawmss3h7i/bafkreiangy4av5x5ctbryteaae5cnwjbxwpppion27tyiy2eee7zqp6y5e@jpeg)"
 
-tags = ["quantum_computing"]
+tags = ["quantum_computing", "stem"]
 +++
 
 # Despotricando a Microsoft: El fiasco de los qubits de Majorana y la IA Muse
