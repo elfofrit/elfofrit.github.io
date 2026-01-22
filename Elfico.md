@@ -17,7 +17,7 @@ hascode = true
 date = Date(2025, 4, 7)
 rss = "Spoiler: Sale mal."
 
-tags = ["data_science"]
+tags = ["data_science", "stem"]
 
 description = "Caracter en tengwar."
 image = "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/One_Ring_inscription_Atul.svg/2560px-One_Ring_inscription_Atul.svg.png"
