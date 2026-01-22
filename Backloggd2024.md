@@ -17,7 +17,7 @@ hascode = true
 date = Date(2025, 4, 7)
 rss = "Resumen anual de todos los videojuegos que jugué en el año."
 
-tags = ["data_science"]
+tags = ["data_science", "hobbies"]
 
 description = "Helldivers II."
 image = "https://gmedia.playstation.com/is/image/SIEPDC/helldivers-2-screenshot-disclaimer-02-en-24may23"
