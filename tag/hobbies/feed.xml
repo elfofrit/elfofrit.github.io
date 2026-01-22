@@ -39,4 +39,23 @@
   </atom:author>
         
 </item>
+
+<item>
+  <title>
+    <![CDATA[  Creando mi primer one-shot de Mothership  ]]>
+  </title>
+  <link> https://elfofrit.com/PrimerOne-ShotMothership/index.html </link>
+  <guid> https://elfofrit.com/PrimerOne-ShotMothership/index.html </guid>
+  <description>
+    <![CDATA[  Ya sé que <code>game_dev</code> se utiliza normalmente para el desarrollo de videojuegos. En este blog se nombrará game a cualquier actividad lúdica, es decir, no limitaré el uso de gaming a solamente videojuegos, sino que también englobaré juegos de mesa y de rol.  ]]>
+  </description>  
+    
+  <pubDate>Mon, 31 Mar 2025 00:00:00 +0000</pubDate>  
+  
+  
+  <atom:author>
+    <atom:name>Σlfofrit</atom:name>
+  </atom:author>
+        
+</item>
 </channel></rss>
