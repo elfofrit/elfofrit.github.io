@@ -17,7 +17,7 @@ hascode = false
 date = Date(2025, 3, 31)
 rss = "Ya sé que `game_dev` se utiliza normalmente para el desarrollo de videojuegos. En este blog se nombrará game a cualquier actividad lúdica, es decir, no limitaré el uso de gaming a solamente videojuegos, sino que también englobaré juegos de mesa y de rol."
 
-tags = ["game_dev"]
+tags = ["game_dev", "hobbies"]
 
 description = "Cómo diseñé mi primer one-shot para Mothership, un juego de rol de ciencia ficción."
 image = "https://www.tuesdayknightgames.com/cdn/shop/files/ms-new-header_21.jpg"
