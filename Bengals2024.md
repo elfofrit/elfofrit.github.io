@@ -17,7 +17,7 @@ hascode = false
 date = Date(2025, 4, 7)
 rss = "No fue tu culpa, Burrow."
 
-tags = ["data_science"]
+tags = ["data_science", "stem"]
 
 description = "Recepción de Chase."
 image = "https://static.clubs.nfl.com/image/upload/t_new_photo_album/f_auto/bengals/v6c8mbrzzccoues1j9ur.jpg"
