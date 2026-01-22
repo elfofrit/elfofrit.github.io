@@ -39,4 +39,23 @@
   </atom:author>
         
 </item>
+
+<item>
+  <title>
+    <![CDATA[  Despotricando a Microsoft  ]]>
+  </title>
+  <link> https://elfofrit.com/DespotricandoMicrosoft/index.html </link>
+  <guid> https://elfofrit.com/DespotricandoMicrosoft/index.html </guid>
+  <description>
+    <![CDATA[  Fuck Microsoft. All my homies hate Microsoft. Este post es más como una prueba para insertar elementos en HTML, así como una recomendación de fuentes de gente mucho más capacitada y preparada que yo. <img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:w7drolsy3m6junkawmss3h7i/bafkreiangy4av5x5ctbryteaae5cnwjbxwpppion27tyiy2eee7zqp6y5e@jpeg" alt="" />  ]]>
+  </description>  
+    
+  <pubDate>Mon, 10 Mar 2025 00:00:00 +0000</pubDate>  
+  
+  
+  <atom:author>
+    <atom:name>Σlfofrit</atom:name>
+  </atom:author>
+        
+</item>
 </channel></rss>
