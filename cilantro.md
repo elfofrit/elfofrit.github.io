@@ -11,18 +11,6 @@
 <meta name="twitter:image" content="https://elfofrit.com/cilantro">
 ~~~
 
-
----
-layout: page
-title: "cilantro"
-date: 2026-01-23
-description: "meme cilantro"
-tags: ["hobbies"]
-image: "https://media1.tenor.com/m/PnEctZ3yWr8AAAAC/silk-song-cilantro.gif"
-permalink: /cilantro/
----
-
-
 +++
 title = "cilantro"
 hascode = false
