@@ -27,9 +27,9 @@ image = "https://www.tuesdayknightgames.com/cdn/shop/files/ms-new-header_21.jpg"
 
 # Creando mi primer one-shot de Mothership
 
-Sé que *game_dev* se utiliza normalmente para referirse al desarrollo de videojuegos. En este blog se llamará "game" a cualquier actividad lúdica, es decir, no limitaré el uso de "gaming" a solamente videojuegos, sino que también englobaré juegos de mesa y de rol. Mi meta es aprender y comprender el buen diseño. Anhelo incursionar en los TTRPG por el mismo motivo que estudié Física y no una Ingeniería: primero busco entender los principios y conceptos fundamentales (diseño de niveles, ritmo, balance de dificultad, riesgo y recompensa), no las herramientas del momento (Godot, Unity, Game Maker, Unreal Engine). [Bien dijo Alonso Zamora que el buen diseño es atemporal.](https://golem51.com/articulos/no-existe-la-vieja-escuela/)
+Sé que *game_dev* se utiliza normalmente para referirse al desarrollo de videojuegos. En este blog se llamará "game" a cualquier actividad lúdica, es decir, no limitaré el uso de "gaming" a exclusivamente videojuegos, sino que también englobaré juegos de mesa y de rol. Mi meta es aprender y comprender el buen diseño. Anhelo incursionar en los TTRPG por el mismo motivo que estudié Física y no una Ingeniería: primero busco entender los principios y conceptos fundamentales (diseño de niveles, ritmo, balance de dificultad, riesgo y recompensa), no las herramientas del momento (Godot, Unity, Game Maker, Unreal Engine). [Bien dijo Alonso Zamora que el buen diseño es atemporal.](https://golem51.com/articulos/no-existe-la-vieja-escuela/)
 
-Considero que este ejercicio será más fructífero y divertido a corto plazo que maratonear tutoriales para hacer juegos genéricos simples en Godot... O sea, sí quiero aprender a hacer videojuegos en Godot, pero todo a su tiempo.
+Considero que este ejercicio será más fructífero y divertido a corto plazo que maratonear tutoriales para hacer juegos genéricos simples en Godot... O sea, sí quiero aprender a hacer videojuegos en Godot, pero todo a su tiempo. Sirve que tengo una excusa para juntar a mis amigos.
 
 ## ¿Por qué Mothership y no D&D?
 
@@ -41,8 +41,20 @@ Considero que este ejercicio será más fructífero y divertido a corto plazo qu
 
 4. No me gusta el exceso de clases y subclases, razas y subrazas.
 
-Prefiero mil veces la fantasía medieval como escenario para una historia de aventura tipo Dragon Quest. Siento que muchas veces las razas mágicas son demasiado antropomorfas y no terminan de sentirse como algo aparte de los humanos, sino como una especialidad o estilo de cuerpo y, por ende, de juego.
+Prefiero mil veces la fantasía medieval como escenario para una historia de aventura tipo Dragon Quest. Siento que muchas veces las razas mágicas son demasiado antropomorfas y no terminan de sentirse como algo aparte de los humanos; sino más como una especialidad o estilo de cuerpo y, por ende, de juego.
 
-Mothership arregla todo ese desastre reduciendo las clases a cuatro, que representan el trabajo del personaje. Entiende que las únicas formas de vida aceptables son humanos, robots, y alienígenas (personalmente añadiría vampiros, pero eso ahorita no es relevante). Este número limitado asegura que cada clase se sienta única y diferente de jugar. También permite que las expansiones añadan nuevas clases sustanciosas que cambien el paradigma de la partida.
+Ahora bien, admiro la dedicación e ingenio de la gente que puede sacarle provecho a todas esas razas y utiliza la fantasía como un lienzo enorme en el cual plasman e interpretan situaciones de todo tipo. El negocio de los TTRPG consiste en cobrarte por usar tu imaginación, así que ésta debe aprovecharse al máximo.
 
-[TO BE CONTINUED]
+Desgraciadamente, mi cerebro no da para tanta vastedad. Mothership simplifica las cosas reduciendo las clases a cuatro, que representan el trabajo del personaje. Entiende que las únicas formas de vida aceptables son humanos, robots y alienígenas (personalmente añadiría vampiros, pero eso ahorita no es relevante). Este número limitado asegura que cada clase se sienta única y diferente de jugar. También permite que las expansiones añadan nuevas clases que cambien por completo la forma de jugar. Y lo más importante: simplifica llevar todo esto a cabo para un principiante como yo.
+
+## Metodología
+
+Lo ideal sería leer el manual, aprender las reglas, entender cómo funcionan los sistemas con un one-shot ya hecho, invitar a mis amigos a jugar dicho one-shot, divertirse, tomar nota de lo que funciona y lo que se puede mejorar, jugar otro one-shot o empezar una campaña y ya después que te sientas cómodo inventas tu historia.
+
+Yo quiero una excusa para escribir worldbuilding a lo bestia de una idea que tengo desde hace tiempo, así que primero describiré el escenario que busco (como una sinopsis), luego un random bullshit go! de lore, haré diagramas de los niveles y luego leeré las reglas a profundidad para ver cómo adapto todo. Equisde-
+
+## Idea general
+
+Se registró una explosión en una base lunar KOSM y se cortaron las comunicaciones. La empresa dispone de recursos para posponer una investigación externa que revele sus secretos, pero no por mucho tiempo. Se creó un grupo de investigación interno a las prisas para descubrir que pasó y proteger material intelectual sensible antes de verse legalmente obligados a una auditoría externa.
+
+Los jugadores son ese grupo de investigación compuesto por las clases estándar del manual
