@@ -14,7 +14,7 @@
 +++
 title = "cilantro"
 hascode = false
-date = Date(2026, 1, 23)
+date = "2026-01-23"
 rss = "esta no es una reseña de Silksong"
 
 tags = ["hobbies"]
