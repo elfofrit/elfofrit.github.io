@@ -39,7 +39,7 @@ A principios de 2017 armé mi primera PC. Recuerdo que Steam me recomendó Hollo
 
 Nunca había terminado un Metroidvania antes. Jugué un poco de Super Metroid y Zero Mission en el emulador, pero luego de un rato optaba por el siempre confiable A Link to the Past. En ese aspecto reconozco que Hollow Knight es Dark Souls para mujeres en el sentido que fue el primer acercamiento de mucha gente al género.
 
-Creo que una mejor analogía es que Hollow Knight es a los metroidvanias lo que Pokémon es a los JRPGs: un punto de entrada popular que muestra el género a una audiencia enorme. El problema con esto radica cuando esa enorme audiencia no indaga más, se queda en la punta del iceberg y pecan de conformistas. Pokémon en su mediocridad actual no merece los millones que vende y muchos otros metroidvanias que se publicaron después de Hollow Knight no gozaron del mismo éxito. El chat en vivo de los Nintendo Direct y otros eventos de videojuegos se llenaban de spam preguntando por la secuela de probablemente el único metroidvania que han jugado en su vida.
+Creo que una mejor analogía es que Hollow Knight es a los metroidvanias lo que Pokémon es a los JRPGs: un punto de entrada popular que muestra el género a una audiencia enorme. El problema con esto radica cuando esa enorme audiencia no indaga más, se queda en la punta del iceberg y pecan de conformistas. Pokémon en su mediocridad actual no merece los millones que vende y muchos otros metroidvanias que se publicaron después de Hollow Knight no gozaron del mismo éxito. El chat en vivo de los Nintendo Direct y otros eventos de videojuegos se llenaban de spam preguntando por la secuela de probablemente el único metroidvania que habían jugado en su vida.
 
 Observé esa tendencia. Acepté que Team Cherry sacaría Silksong cuando estuviera listo. Seguí con la corriente de los memes porque me divertía con mis amigos; mas reconocí que lo mejor que podía hacer con mi tiempo libre era jugar videojuegos, no mendigar por ellos.
 
@@ -61,7 +61,7 @@ Esta mecánica refuerza la hostilidad y dificultad que busca transmitir Demon's 
 
 No obstante, este game over compuesto no debería implementarse en un juego no lineal enfocado a aventurarse a lo desconocido sin tener forma de resguardar todos esos puntos necesarios para comprar mejoras y evolucionar nuestro personaje. Porque en un juego con un mapa tan grande que cuenta con diversas rutas u opciones de progreso disponibles al mismo tiempo, encajonar al jugador a repetir un recorrido difícil o pelear contra un jefe hasta que por fin triunfe y recupere sus monedas equivale a dispararse al pie, pues el riesgo a perder nuestras cosas opaca la otra posibilidad y mayor fortaleza del género que es simplemente ir a otra zona, conseguir mejoras y volver más tarde y mejor preparado a ese segmento difícil.
 
-Esa es mi mayor queja con Hollow Knight. Hay gente que tampoco es muy fan del combate porque si bien consigues varios ataques especiales de alma durante el juego, la espada digo aguijón solo recibe mejoras numéricas para que haga más daño y su alcance sea unos cuantos píxeles mayor. El protagonista empieza la aventura con un aguijón que puede atacar en cuatro direcciones y termina el juego con un aguijón que puede atacar en cuatro direcciones que hace un poco más de daño para que no tengas que pegarle a los enemigos en las mismas cuatro direcciones por tanto tiempo. Tampoco soy muy fan de las arenas de peleas donde debes vencer hordas de los mismos enemigos de siempre hasta que el juego por fin se digna de avanzar.
+Esa es mi mayor queja con Hollow Knight. Hay gente que tampoco es muy fan del combate porque si bien consigues varios ataques especiales durante el juego, la espada digo aguijón solo recibe mejoras numéricas para que haga más daño y su alcance se extienda unos cuantos píxeles más. El protagonista empieza la aventura con un aguijón que puede atacar en cuatro direcciones y termina el juego con un aguijón que puede atacar en cuatro direcciones que hace un poco más de daño para que no tengas que pegarle a los enemigos en las mismas cuatro direcciones por tanto tiempo. Tampoco soy muy fan de las arenas de peleas donde debes vencer hordas de los mismos enemigos de siempre hasta que el juego por fin se digna de avanzar.
 
 Sus muchas otras virtudes y logros ya se han comentado de sobra en internet, así que no seré redundante. Solo diré que lo demás me gusta mucho y sigo recomendándolo ampliamente a pesar de su obvia disonancia entre el diseño de niveles y la mecánica de muerte copiada por moda. No olviden que Hollow Knight se desarrolló hace una década cuando el consenso respecto a Dark Souls es que era lo máximo, es un producto de su época.
 
@@ -69,25 +69,53 @@ Sus muchas otras virtudes y logros ya se han comentado de sobra en internet, as�
 
 Metroidvania es una palabra compuesta de Metroid y Castlevania, dos franquicias de videojuegos de empresas japonesas cuya filosofía de diseño de niveles es una inspiración. Hubo una sequía de juegos de ese estilo tanto por Nintendo como por Konami durante varios años, así que muchos desarrolladores probaron suerte en un mar ausente de peces gordos. No obstante, soy un mamerto y después de jugar Hollow Knight quise experimentar por cuenta propia las mismas emociones y sensaciones de juego que lo inspiraron en primer lugar. Finalmente decidí darle una oportunidad de verdad a Metroid.
 
+Si tienes un Nintendo 3DS y aún no le instalas homebrew (no está chipiado como dice la raza), deja de leer esto y ve a [3DS Hacks Guide](https://3ds.hacks.guide).
+
+[elfofrit.com](https://elfofrit.com) está alojado en los servidores de GitHub, por lo que tengo prohibido utilizar mi sitio para promover actividades ilícitas como la piratería de videojuegos de una consola obsoleta cuyos servidores cerraron hace años y los desarrolladores ya no reciben ganancias porque el mercado se compone exclusivamente de tiendas de segunda mano. El software homebrew no es sinónimo de piratería, es un plus para que tu consola sea verdaderamente tuya y puedas disfrutarla a tu antojo sin depender de las grandes corporaciones.
+
+Una de las muchas virtudes de una consola con homebrew es la capacidad de crear respaldos de tus juegos físicos para preservarlos y ejecutarlos como si fueran una copia digital; porque a pesar de lo que digan los coleccionistas y toda esa gente que especula con el valor de los juegos retro para lavar dinero, ese plástico producido en masa solo sirve para alojar los archivos que en conjunto representan el juego. Lo importante siempre será el software pues eso es el videojuego en sí.
+
+Los siguientes títulos se jugaron en un New 3DS XL y una PlayStation Vita, ambos con homebrew. Sirva esto como una pequeña muestra del valor de una consola obsoleta inyectada con software que la revitaliza:
+
 ## Metroid: Samus Returns
 
-ta bueno
+Remake de Metroid II que salió originalmente para Game Boy. Desarrollado por un equipo español exclusivamente para 3DS.
+
+El primer Metroid que termino hecho y derecho. Demasiado lineal para ser un Metroid. El bactracking ni siquiera es necesario, solo desbloquea mejoras de munición. Considero que este o Zero Mission son el mejor para empezar si no se tiene experiencia con la franquicia, pues al jugar el resto se irá de menos a más. Es el primer Metroid 2D que permite apuntar en 360° gracias al botón deslizante del 3DS. Samus Returns fue la prueba de fuego de Mercury Steam para demostrar de que eran capaces. Años después lanzaron Metroid Dread para Switch.
+
+[insertar aquí el meme de Drake & Josh con el meme] jaja que risa
 
 ## Metroid Zero Mission
 
-ta chido
+Remake de Metroid I que salió originalmente para NES, ahora reinterpretado para el Game Boy Advance. Los albores de Metroid fueron limitados por la tecnología de su época, no pudo despegar de verdad sino hasta los 16 bits. Estos remakes buscan hacerle justicia a las ideas de los primeros juegos. Al ser de GBA, es el más fácil de emular. Su diseño es bastante amigable con los novatos y coincide con ser el primero en la cronología. Excelente para aprender y acostumbrarse al control y exploración que se usarán en los siguientes juegos.
 
 ## Super Metroid
 
-super fucking metroid
+Super Fucking Metroid. Este sí lo voy a rejugar en mi SNES con mi tele CRT como lo hice con A Link to the Past porque es GOD.
+
+Increíble, único y adelantado a su tiempo. Empuja y eleva el diseño de niveles bidimensionales al combinar plataformeo con acción y exploración. Cátedra para la ciencia ficción en ambientación y atmósfera que muchos desarrolladores y creativos todavía utilizan de ejemplo.
+
+Jugar videojuegos retro implica adaptarse y entender las limitaciones y pensamiento de otra época, sobre todo cuando se está acostumbrado al panorama actual. Hay un debate constante sobre si las obras maestras del pasado se defienden ante la crítica moderna. Como los videojuegos están profundamente ligados al desarrollo tecnológico más que otras bellas artes, este discurso suele desviarse a suplicar por un remaster o remake que actualice y arregle el juego para volverlo accesible en las plataformas vigentes. Hay casos donde se ve claramente que la visión del desarrollador se truncó por limitaciones técnicas, así como hay otros donde el refrito es una vil excusa para ganar dinero fácil de una propiedad intelectual famosa (The Last of Us tiene más remasters y remakes que entregas originales LMAO, también se rumora que Atlus prepara un remake de Persona 5 por su décimo aniversario equisde).
+
+Super Metroid no tiene remaster ni remake. Super Metroid no necesita remaster ni remake. Super Metroid es la síntesis y génesis de su género. Eternamente atemporal. Recomiendo ampliamente jugar Zero Mission para después ir por Super Metroid de la misma manera que los lectores de Frank Herbert recomiendan leer Hijos de Dune como antesala para Dios Emperador de Dune.
+
+Aquí el camino se bifurca. Se puede acompañar a Samus hasta el planeta más inhóspito de la galaxia o se puede regresar a la Tierra a matar vampiros con Castlevania. Holy shit two cakes.
 
 ## Metroid Fusion
 
-esta muy chido
+El mejor Metroid de GBA. Reconocimiento especial por su uso del entorno en pro del story telling diegético que no interrumpe el juego. Es cronológicamente el penúltimo, así que se disfruta mejor cuando ya te gusta la saga. La gente también suele destacar las peleas con jefes de Fusion, mas creo que mi verano de Metroid cobró factura y considero que quizás me cansé un poco de jugar lo mismo. No sería malo darle otra oportunidad luego de que compre un GBA en Japón.
+
+Top:
+1. Super Metroid
+2. Metroid Fusion
+3. Zero Mission
+4. Samus Returns
+
+Tengo pendiente jugar la Prime Trilogy en mi Wii y Dread en la Switch que recién compré.
 
 ## Castlevania: Symphony of the Night
 
-tremenda obra maestra, 20/10 y goth
+TREMENDA OBRA MAESTRA, 20/10 y GOTH.
 
 # Equipo Cereza
 
