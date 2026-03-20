@@ -117,6 +117,10 @@ Tengo pendiente jugar la Prime Trilogy en mi Wii y Dread en la Switch que recié
 
 TREMENDA OBRA MAESTRA, 20/10 y GOTH.
 
+Me gusta más que Super Metroid por la música (comparación un poco injusta porque salió en una consola con el doble de bits que el Super Nintendo). La ambientación gótica es junto a la ciencia ficción de mis favoritas. El impecable pixel art y sus animaciones siguen siendo un referente tres décadas después. Es más, y adelantándonos un poco, la animación de Hornet cuando se da la vuelta en Silksong da un aire a la de Alucard en SotN. You can't beat peak.
+
+Recuerdo haber leído un comentario que decía que los Souls eran la verdadera evolución al 3D de Castlevania. Carezco de argumentos y experiencias para afirmar o negar tal expresión, solo diré que sí hubo un par de veces que me acordé de Bloodborne mientras recorría el castillo de Drácula. Game recognizes game I guess. A lo mejor el dicho va en el sentido de cómo se usan los elevadores y puertas bloqueadas para revelar atajos, la compra y obtención de equipamento que cambia la forma en que juegas, la ambientación y enemigos... IDK, saquen ustedes sus conclusiones. Última mención a FromSoftware, lo prometo.
+
 # Equipo Cereza
 
 Para comprender y dimensionar el impacto de Silksong, se debe retroceder, tomar vuelo, agarrar el toro por los cuernos y analizar todo.
