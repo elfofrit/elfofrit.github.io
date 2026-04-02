@@ -135,7 +135,21 @@ En 2017 armé mi primera PC, la nombré Airín en honor a la brujita del A Link 
 
 Mis cuatro videojuegos favoritos del 2017 son Gravity Rush 2 (Japan Studio), Prey (Arkane Austin), The Legend of Zelda: Breath of the Wild (Nintendo) y Hollow Knight (Team Cherry). Sony cerró Japan Studio en 2021. Microsoft cerró Arkane Austin en 2024. Nintendo publicó la secuela de BotW en 2023 y no me gustó. En su afán por volverse granja de contenido, LevelUp mató a la mejor comunidad del universo. Desde entonces nos refugiamos en Discord.
 
-Para comprender y dimensionar el impacto de Silksong, se debe retroceder, tomar vuelo, agarrar el toro por los cuernos y analizar todo.
+El último día del 2025 armé mi segunda PC: Coral, la PC que me hubiera encantado armar en 2017. Lo hice no tanto por necesidad, sino porque si no compraba una GPU y módulos de RAM en ese momento, después ya no podría por la escacez y precios ridículos. También quería jugar Helldivers II en Ultra a 1440p. Valió cada centavo. Con Coral cerraba la trifueza consumista del año, pues se le unía a mi Steam Deck OLED y mi Switch Lite. Me daba el lujo de comprar todas las consolas que siempre quise de estudiante ahora que era un adulto joven profesionista sin responsabilidades. «Su hijo triunfó, mamá. Soy un éxito.»
+
+Nótese que desembolsé mucho en hardware, pero en software casi no. Acepté que a menos de que de la noche a la mañana me convierta en multimillonario y ya no tenga que trabajar por el resto de mi vida y me convierta en un parásito de la sociedad y evasor de impuestos profesional, nunca terminaré mi backlog de videojuegos pendientes. And that's fine. Ya conozco lo que me gusta y disfruto jugar. La recomendación de un amigo vale más que un numerito en Metacritic. Por lo mismo dejé de seguir las noticias del medio (tampoco es como si las buenas nuevas abunden hoy en día).
+
+A lo que quiero llegar es que antes quería empaparme y conocer todo de la industria porque con mi PS4 y PC tenía acceso a montones de juegos que no había tenido la oportunidad de experimentar. Con su RTX 5060 Ti de 16 GB de VRAM y un Ryzen 5 9600X, Coral puede correr cualquier videojuego disponible para PC sin problemas. Pero ahora no me interesa jugar todos los videojuegos disponibles para PC, ahora solo quiero jugar lo que me gusta porque ya no soy un neófito como en 2016. También mi tiempo libre actual es limitado, por lo que prefiero aprovecharlo en cosas que de verdad me gusten.
+
+Me gusta jugar videojuegos. He formado amistades gracias a ellos. He escrito ríos de tinta digital sobre ellos. He sentido y cambiado mi forma de pensar gracias a ellos como con cualquier otra obra de arte. Admiro y respeto a la gente que los crea.
+
+Lo que me repele es la estética gamer. La guerra de consolas, el saber más de la industria que del diseño. Quiero ser como el desarrollador, no como el inversionista. Hay más en la vida que jugar jueguitos de computadora, sí; pero también hay jueguitos de computadora que valen la pena probar al menos una vez en la vida. Y por ello escribo estas cosas, porque me gustan y creo tener unas cuantas nociones de lo que hablo.
+
+Esto ya se extendió y desvirtuó mucho (consecuencia de escribir esto durante tres meses). La idea en síntesis es que en estos años he conocido mejor a la industria y no siento la misma pasión u optimismo respecto al gaming AAA como antes. Ya no juego tantos videojuegos como antes porque ahora compiten por mi tiempo libre contra películas, historietas y procastrinación en general.
+
+Por eso Silksong llega como vestigio del 2017. Heraldo del recuerdo de la industria en la que maduré. Todavía hay cosas buenas por las que pelear en el mundo, señor Frodo. No miento cuando digo que Silksong es el juego que más he esperado. Ya no sigo lanzamientos recientes a menos de que sean de un desarrollador que reconozca.
+
+Porque si juego Silksong, todo va a estar bien.
 
 # Todo
 
