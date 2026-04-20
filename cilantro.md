@@ -8,7 +8,7 @@
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:title" content="cilantro">
 <meta name="twitter:description" content="esta no es una reseña de Silksong">
-<meta name="twitter:image" content="https://elfofrit.com/cilantro">
+<meta name="twitter:image" content="https://media1.tenor.com/m/PnEctZ3yWr8AAAAC/silk-song-cilantro.gif">
 ~~~
 
 +++
@@ -27,7 +27,7 @@ image = "https://media1.tenor.com/m/PnEctZ3yWr8AAAAC/silk-song-cilantro.gif"
 <p style="font-weight:600; font-size:36px">cilantro</p>
 ~~~
 
-***[en construcción]***
+*_[en construcción]_*
 
 Recuerdo leer alguna vez de forma despectiva que Hollow Knight es Dark Souls para mujeres. En otra ocasión YouTube me recomendó un video con un título que afirmaba que Hollow Knight era tan perfecto que no debería existir.
 
