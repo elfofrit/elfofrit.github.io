@@ -1,14 +1,14 @@
 ~~~
 <meta property="og:title" content="Fujimoto y el pibe motosierra">
 <meta property="og:description" content="Gracias, Chainsaw Man.">
-<meta property="og:image" content="https://c.tenor.com/Yxuk-kasVfEAAAAC/tenor.gif">
+<meta property="og:image" content="https://elfofrit.com/assets/AverageCSMHater.jpg">
 <meta property="og:url" content="https://elfofrit.com/fujimoto">
 <meta property="og:type" content="article">
 
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:title" content="Fujimoto y el pibe motosierra">
 <meta name="twitter:description" content="Gracias, Chainsaw Man.">
-<meta name="twitter:image" content="https://elfofrit.com/fujimoto">
+<meta name="twitter:image" content="https://elfofrit.com/assets/AverageCSMHater.jpg">
 ~~~
 
 +++
@@ -19,8 +19,8 @@ rss = "Gracias, Chainsaw Man."
 
 tags = ["hobbies"]
 
-description = "Asa Mitaka y Yoru de Chainsaw Man."
-image = "https://c.tenor.com/Yxuk-kasVfEAAAAC/tenor.gif"
+description = "Average Chainsa Man hater."
+image = "https://elfofrit.com/assets/AverageCSMHater.jpg"
 +++
 
 # Fujimoto y el pibe motosierra
