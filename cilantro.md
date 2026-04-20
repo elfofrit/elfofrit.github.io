@@ -14,7 +14,7 @@
 +++
 title = "cilantro"
 hascode = false
-date = "2026-01-23"
+date = Date(2026, 4, 19)
 rss = "esta no es una reseña de Silksong"
 
 tags = ["hobbies"]
@@ -33,9 +33,9 @@ Recuerdo leer alguna vez de forma despectiva que Hollow Knight es Dark Souls par
 
 Hollow Knight es un juego indie que estuvo en el lugar y tiempo correctos: se lanzó en PC a inicios de 2017, pocos meses antes del lanzamiento de la Nintendo Switch; su port a dicha consola llegó a finales del mismo año. La buena fama que ganó en PC, su gran contenido y duración por un precio bastante atractivo, aunado a su arribo temprano a una consola que apenas estaba recibiendo juegos hizo que vendiera bastante bien en la eShop. La bola de nieve siguió creciendo hasta que la Switch se vuelve la consola más vendida del mundo y Hollow Knight mantiene su precio asequible y excelente reputación frente a la competencia.
 
-Spoiler alert: Silksong recaudó en un fin de semana lo que Metroid Dread en toda su vida costando $40 dólares menos.
+Spoiler alert: Silksong recaudó en un fin de semana lo que Metroid Dread en toda su vida costando \$40 dólares menos.
 
-A principios de 2017 armé mi primera PC. Recuerdo que Steam me recomendó Hollow Knight en la lista de descubrimientos y, que chistoso es decirlo ahora, hice click en No me interesa. Mi objetivo inmediato en ese entonces era jugar Portal 2 y Sid Meier's Civilization V. Meses después decido hacerle caso a Eric de Leyendas & Videojuegos y voy al OXXO a pagar por Hollow Knight en efectivo mediante BoaCompra. $99 pesos por el juego más $10 de comisión. Al día siguiente se refleja el pago y puedo empezar la descarga en Steam.
+A principios de 2017 armé mi primera PC. Recuerdo que Steam me recomendó Hollow Knight en la lista de descubrimientos y, que chistoso es decirlo ahora, hice click en No me interesa. Mi objetivo inmediato en ese entonces era jugar Portal 2 y Sid Meier's Civilization V. Meses después decido hacerle caso a Eric de Leyendas & Videojuegos y voy al OXXO a pagar por Hollow Knight en efectivo mediante BoaCompra. \$99 pesos por el juego más \$10 de comisión. Al día siguiente se refleja el pago y puedo empezar la descarga en Steam.
 
 Nunca había terminado un Metroidvania antes. Jugué un poco de Super Metroid y Zero Mission en el emulador, pero luego de un rato optaba por el siempre confiable A Link to the Past. En ese aspecto reconozco que Hollow Knight es Dark Souls para mujeres en el sentido que fue el primer acercamiento de mucha gente al género.
 
@@ -150,26 +150,6 @@ Esto ya se extendió y desvirtuó mucho (no recalienten sus ideas por más de tr
 Por eso Silksong llega como vestigio del 2017. Heraldo del recuerdo de la industria de la que me enamoré. Todavía hay cosas buenas por las que pelear en el mundo, señor Frodo. No miento cuando digo que Silksong es el juego que más he esperado. Ya no sigo lanzamientos recientes a menos de que sean de un desarrollador que reconozca.
 
 Porque si juego Silksong, todo va a estar bien.
-
-# Todo
-
-¿Quieres que te lo diga todo? ¿Que no te titubeé al hablar? Pero tú ya no me conoces. No sabes lo que pasa acá. Cuando estoy solo suelo cambiar de forma...
-
-## Acto I
-
-¿Quieres que te lo diga todo? A veces me aterra llorar. Sé que para ti es algo tonto, un signo de debilidad. Quería ser fuerte. Quería acatar la norma...
-
-## Acto II
-
-¿Quieres que te lo diga todo? ¿Realmente quieres escuchar? Yo vivo una vida terrible y a ti te fascina juzgar. No me arrepiento. Las almas no se equivocan..
-
-## Acto III
-
-¿Quieres que te lo diga todo? No creo que vaya a regresar. Y no es porque ya no te ame, es que queda tanto por amar. Quería estar solo. Quería escapar de casa...
-
-equisdeequisdeequisdexdxdxdxd
-
-He visto al mundo ser un lugar despiadado. Orgullo barato al final sale caro. Cada mente es un nuevo universo. Es genuina la magia impregnada entre versos de amor... Es todo lo que sé yo, todo lo que he aprendido.
 
 # Canción de Seda
 
