@@ -27,7 +27,7 @@ image = "https://media1.tenor.com/m/PnEctZ3yWr8AAAAC/silk-song-cilantro.gif"
 <p style="font-weight:600; font-size:36px">cilantro</p>
 ~~~
 
-[en construcción]
+***[en construcción]***
 
 Recuerdo leer alguna vez de forma despectiva que Hollow Knight es Dark Souls para mujeres. En otra ocasión YouTube me recomendó un video con un título que afirmaba que Hollow Knight era tan perfecto que no debería existir.
 
@@ -83,9 +83,7 @@ Remake de Metroid II que salió originalmente para Game Boy. Desarrollado por un
 
 El primer Metroid que termino hecho y derecho. Demasiado lineal para ser un Metroid. El bactracking ni siquiera es necesario, solo desbloquea mejoras de munición. Considero que este o Zero Mission son el mejor para empezar si no se tiene experiencia con la franquicia, pues al jugar el resto se irá de menos a más. Es el primer Metroid 2D que permite apuntar en 360° gracias al botón deslizante del 3DS. Samus Returns fue la prueba de fuego de Mercury Steam para demostrar de que eran capaces. Años después lanzaron Metroid Dread para Switch.
 
-[insertar aquí el meme de Drake & Josh con el meme] jaja que risa
-
-## Metroid Zero Mission
+## Metroid: Zero Mission
 
 Remake de Metroid I que salió originalmente para NES, ahora reinterpretado para el Game Boy Advance. Los albores de Metroid fueron limitados por la tecnología de su época, no pudo despegar de verdad sino hasta los 16 bits. Estos remakes buscan hacerle justicia a las ideas de los primeros juegos. Al ser de GBA, es el más fácil de emular. Su diseño es bastante amigable con los novatos y coincide con ser el primero en la cronología. Excelente para aprender y acostumbrarse al control y exploración que se usarán en los siguientes juegos.
 
