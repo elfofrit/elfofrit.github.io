@@ -49,7 +49,7 @@ Observé esa tendencia. Acepté que Team Cherry sacaría Silksong cuando estuvie
 
 Hollow Knight no es perfecto y debería existir. Chúpala, Plano de Juego.
 
-Hombre, si vamos a hacer esto, hay que comprometerse. La reseña de Hollow Knight la empecé a escribir en 2020 cuando todavía las compartía con mis amigos. Como el juego importaba mucho para mí, quería que fuera la mejor. Tanto perfeccionismo terminó abortando el manuscrito. Ahora es 2026 y todavía me gusta Hollow Knight, pero he crecido y tengo un mejor punto de vista. I can see through the lies of the Jedi.
+La reseña de Hollow Knight la empecé a escribir en 2020 cuando todavía las compartía con mis amigos. Como el juego importaba mucho para mí, quería que fuera la mejor. Tanto perfeccionismo terminó abortando el manuscrito. Ahora es 2026 y todavía me gusta Hollow Knight, pero he crecido y tengo un mejor punto de vista. I can see through the lies of the Jedi.
 
 Jugué Hollow Knight cuando Team Cherry seguía desarollando y publicando DLCs gratuitos para el juego. Lo completé poco antes de la Grimm Troupe. He pensado en rejugarlo ahora que se tienen todos los DLCs porque lo que pasó es que todo el contenido nuevo se aplicaba a mi partida del End Game con todas mis mejoras y por ende la curva de dificultad en las primeras secciones era un chiste.
 
@@ -143,7 +143,7 @@ Me gusta jugar videojuegos. He formado amistades gracias a ellos. He escrito rí
 
 Lo que me repele es la estética gamer. La guerra de consolas, el saber más de la industria que del diseño. Quiero ser como el desarrollador, no como el inversionista. Hay más en la vida que jugar jueguitos de computadora, sí; pero también hay jueguitos de computadora que valen la pena probar al menos una vez. Y por ello escribo estas cosas, porque me gustan y creo tener unas cuantas nociones de lo que hablo.
 
-Esto ya se extendió y desvirtuó mucho (no recalienten sus ideas por más de tres meses). La idea en síntesis es que en estos años he conocido mejor a la industria y no siento la misma pasión u optimismo respecto al gaming AAA como antes. Ya no juego tantos videojuegos como me gustaría porque ahora compiten por mi tiempo libre contra películas, historietas y procastrinación en general.
+Esto ya se extendió y desvirtuó mucho (no recalienten sus ideas por más de tres meses). El resumen es que en estos años he conocido mejor a la industria y no siento la misma pasión u optimismo respecto al gaming AAA como antes. Ya no juego tantos videojuegos como me gustaría porque ahora compiten por mi tiempo libre contra películas, historietas y procastrinación en general.
 
 Por eso Silksong llega como vestigio del 2017. Heraldo del recuerdo de la industria de la que me enamoré. Todavía hay cosas buenas por las que pelear en el mundo, señor Frodo. No miento cuando digo que Silksong es el juego que más he esperado. Ya no sigo lanzamientos recientes a menos de que sean de un desarrollador que reconozca.
 
@@ -151,7 +151,25 @@ Porque si juego Silksong, todo va a estar bien.
 
 # Canción de Seda
 
+Escuchad, oh blasfemos, lo que vengo a decirles. Pues Silksong por fin ha salido y su manto nubla mi mente cual conjuro. Trabajo y pienso en Silksong, llego a mi casa y juego Silksong, duermo y sueño con Silksong. Existo solo y para Silksong y Silksong existe solo y para mí. Relación simbiótica de 70 horas a lo largo de dos meses que nos fue prometida hace 2394 días.
+
 ## Primer Misterio: La llegada de la Doncella Roja a Telalejana
+
+Silksong empieza con la misma escena del trailer del 2019. Hornet ha sido capturada quién sabe cómo por quién sabe quien y la llevan a quién sabe donde. Una fuerza superior la libera y su jaula cae por un precipicio, lo que da inicio a la aventura y justifica su falta de habilidades y movimientos respecto al juego anterior.
+
+El Acto I recuerda mucho a Hollow Knight, probablemente porque fueron zonas concebidas aún como DLC del primer juego. Silksong empieza a lucir sus colmillos hasta Campanilla.
+
+A pesar que el diseño de niveles y del mundo sea una continuación de su éxito anterior, Silksong se juega muy diferente. Hornet es más alta, rápida y acrobática. Cuenta con un arsenal de herramientas y distintos modos de ataque que aminoran la monotonía del combate.
+Pero también es más frágil, por extraño que parezca.
+
+—What if I don't live up to the expectation?
+—You'll still be the only thing I ever needed you to be: playable Hornet.
+
+El tutorial de Silksong se desarrolla en un área verde con enemigos y plataformas sencillos que permiten acostumbrarse a la kinestesia del juego. También se presenta una puerta bloqueada como recordatorio que esto es un metroidvania y el backtracking it's a feature not a bug. Al final hay un jefe examen para ahora sí empezar el juego.
+
+Algo que me encanta de Hornet es lo bien escrita que está. A pesar que sus diálogos fueron hechos entre Ari Gibson y William Pellen, la consistencia es envidiable \[to be continued\]
+
+El progreso en Hollow Knight consiste en descender por las cavernas y ductos de Hallownest, aquí se debe ascender hasta la cúpula de la Ciudadela.
 
 Acto 1
 
