@@ -42,8 +42,6 @@ Mi magnum opus de montaje:
 
 Absolute cinema diría el Scorsese.
 
-Actualmente trabajo como programador de Python para una empresa de la industria automotriz.
-
 Hice este blog por dos razones:
 
 1. Familiarizarme con Julia y tener un portafolio que demuestre mis habilidades y conocimientos.
