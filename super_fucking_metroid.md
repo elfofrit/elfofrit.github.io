@@ -53,9 +53,11 @@ Como se mencionó en [cilantro](https://elfofrit.com/cilantro), considero que lo
 
 Pero es que no solo es eso por lo que Super Metroid destaca; es más, me atrevo a decir que lo más revolucionario y avant-garde del título es su dedicación por simular un planeta extraterrestre y transmitir su inmersión mediante el juego y no mediante recursos prestados de otras artes que rompen el ritmo. Abundan los momentos explicados y mostrados a través de gameplay puro, desde tutoriales para mostrar técnicas de salto hasta peleas contra jefes memorables.
 
-Lo más importante, creo yo, es que la premisa de Super Metroid puede ser adaptada a un libro, película u otro medio narrativo, pero la sensación y emociones que obtienes al jugar Super Metroid solo la consigues jugando Super Metroid. Aaron Cruz (ídolo, máquina, titán) lo ilustra excelente en su JaisenbergComic:
+Lo más importante, creo yo, es que la premisa de Super Metroid puede ser adaptada a un libro, película u otro medio narrativo, pero la sensación y emociones que obtienes al jugar Super Metroid son muy propias de jugar Super Metroid. Aaron Cruz (ídolo, máquina, titán) lo ilustra excelente en su JaisenbergComic:
 
-(aaron cruz god)
+~~~
+<img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/1eeea43b-0816-4de1-9ad0-7287a092cb78/dbd0uu4-175e0433-17d8-44f2-a829-4cc3f3a0d38a.png/v1/fill/w_1024,h_3600,q_75,strp/aislamiento_by_jaisenberg-dbd0uu4.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwic3ViIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl0sIm9iaiI6W1t7InBhdGgiOiIvZi8xZWVlYTQzYi0wODE2LTRkZTEtOWFkMC03Mjg3YTA5MmNiNzgvZGJkMHV1NC0xNzVlMDQzMy0xN2Q4LTQ0ZjItYTgyOS00Y2MzZjNhMGQzOGEucG5nIiwid2lkdGgiOiI8PTEwMjQiLCJoZWlnaHQiOiI8PTM2MDAifV1dfQ.DiXgwckRwPGw9ZSSExa03V170wTaW2n52AleFFGcDqI" />
+~~~
 
 Por eso pienso que Super Metroid es el juego del año todos los años. Eternamente atemporal. Esa forma de representar el escenario donde se desenvuelve el jugador como un mundo vivo que da la impresión de que podría existir sin que el jugador encienda la consola y que ésta es más como una ventana hacia ese planeta lejano sería llevada al 3D con Half-Life y sus físicas de movimientos y la forma en que los NPCs...
 
