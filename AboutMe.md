@@ -15,7 +15,7 @@
 title = "Acerca de mí"
 hascode = false
 date = Date(2026, 1, 22)
-rss = "¡Hola! Gracias por hacer click en mi blog. Me llamo Sebastián, pero en internet soy mejor conocido como Σlfofrit. Vivo en México y estudié Física. Me gusta jugar videojuegos, ir al cine, coleccionar historietas y leer ciencia ficción."
+rss = "¡Hola! Gracias por hacer click en mi blog. Me llamo Sebastián, pero en internet soy mejor conocido como Σlfofrit. Me gusta jugar videojuegos, ir al cine, leer historietas y viajar por el mundo."
 
 tags = ["extras"]
 +++
@@ -24,9 +24,11 @@ tags = ["extras"]
 
 ¡Hola! Gracias por hacer click en mi blog.
 
-Me llamo Sebastián, pero en internet soy mejor conocido como Σlfofrit. Vivo en México y estudié Física. Me gusta jugar videojuegos, ir al cine, coleccionar historietas y leer ciencia ficción.
+Me llamo Sebastián, pero en internet soy mejor conocido como Σlfofrit. Vivo en México y estudié Física. Me gusta jugar videojuegos, ir al cine, leer historietas y viajar por el mundo.
 
-Creo en experimentar y conocer el mundo para mejorar como persona, así como en la sana intersección de las ciencias exactas con las bellas artes.
+Creo en experimentar y conocer cosas nuevas para mejorar como persona, así como en la sana intersección de las bellas artes con las ciencias exactas.
+
+Ahora que egresé de la carrera, estoy trabajando como analista de datos con Python. Todavía no defino si estudiaré una maestría en Ciencia de Datos (para alimentar el estómago) o en Óptica (para alimentar la mente). Veremos cómo evoluciona esto.
 
 También le muevo a la edición de video:
 
@@ -48,7 +50,7 @@ Hice este blog por dos razones:
 
 2. Me gusta la idea de tener un lugar en internet reservado solo para mí, donde pueda compartir lo que quiera y pueda leerse sin problemas ni compromisos.
 
-Siento que cada día las redes sociales sirven más a la Big Tech como granjas de contenido y cosechadoras masivas de datos e información personal que a los usuarios para conectar y hablar entre ellos. O quizás siempre fueron así pero apenas nos damos cuenta o se han vuelto muy descarados. Este blog busca combatir eso. Acá no hay publicidad, cookies ni rastreadores. Eso limita las analíticas que podría obtener del sitio, pero no me importa.
+Este blog busca combatir las malas prácticas del internet moderno plagado de anuncios y contenido de baja calidad que solo busca generar engagement. Acá no hay publicidad, cookies, rastreadores ni desinformación o sensacionalismo barato. Eso limita las analíticas e ingresos que podría obtener del sitio, pero no me importa.
 
 Más abajo encontrarás enlaces a mis redes sociales e información de contacto para cosas más serias. Anunciaré en [Bluesky](https://bsky.app/profile/elfofrit.com) las nuevas entradas a este blog.
 
