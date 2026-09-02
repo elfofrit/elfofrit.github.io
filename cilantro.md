@@ -226,15 +226,13 @@ Campanilla es el punto de inflexión. Siento que es la primera zona con un dise�
 
 Y cuando por fin se descubre y se enfrenta la causa del problema... Uff. Top 3 momentos más sublimes del gaming. Inyecten esa escena en mis venas y déjenme así. Es todo lo que quería y más desde que anunciaron el juego. La mejor música y el mejor combate. Todos los átomos de mi cuerpo subieron de nivel enérgetico de lo excitado que estaba. Perfección.
 
-\[to be continued\]
+Luego de eso, Campanilla se vuelve el centro de operaciones de Hornet. Aquí se vuelve para comprar objetos, mejoras y reclamar las recompensas de sus misiones secundarias.
 
-El progreso en Hollow Knight consiste en descender por las cavernas y ductos de Hallownest, aquí se debe ascender hasta la cúpula de la Ciudadela.
-
-Acto 1
+Es interesante cómo desde muy temprano en el desarrollo de Silksong ya se tenía contemplado el sistema de misiones. Se puede acusar a Team Cherry de visionarios o de ingenuos por construir desde una base que fácilmente se puede desbordar por exceso de ideas. Es obligatorio cumplir con la gran mayoría de ellas para desbloquear el final verdadero del juego, pero no sin antes llegar a la cima de la metrópoli que gobierna Telalejana.
 
 ## Segundo Misterio: El juicio a las puertas de la Ciudadela Melodiosa
 
-Si algo marcó el discurso de Silksong en su salida y probablemente sea la cruz que deba cargar por la posteridad es su elevada dificultad.
+Si algo marcó el discurso de Silksong en su salida y probablemente sea la cruz que deba cargar por la posteridad es su dificultad.
 
 Acto 2
 
