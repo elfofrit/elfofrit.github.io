@@ -207,9 +207,6 @@ El Acto I recuerda mucho a Hollow Knight, probablemente porque fueron zonas conc
 
 A pesar que el diseño de niveles y del mundo sea una continuación de su éxito anterior, Silksong se juega muy diferente. Hornet es más alta, rápida y acrobática. Cuenta con un arsenal de herramientas y distintos modos de ataque que aminoran la monotonía del combate. Pero también es más frágil, por extraño que parezca.
 
-—What if I don't live up to the expectation?
-—You'll still be the only thing I ever needed you to be: playable Hornet.
-
 El tutorial de Silksong se desarrolla en un área verde con enemigos y plataformas sencillos que permiten acostumbrarse a la kinestesia del juego. También se presenta una puerta bloqueada como recordatorio que esto es un metroidvania y el backtracking it's a feature not a bug. Al final hay un jefe examen para ahora sí empezar el juego.
 
 Algo que me encanta de Hornet es lo bien escrita que está. A pesar que sus diálogos fueron hechos entre Ari Gibson y William Pellen, la consistencia es envidiable. Admiro el balance que le dieron a su personalidad para que su orgullo no caiga en la soberbia ni su pragmatismo se reduzca a cinismo. Sencillamente maravilloso y de mis protagonistas favoritos del medio (porque la mejor es Kat de Gravity Rush).
@@ -232,13 +229,43 @@ Es interesante cómo desde muy temprano en el desarrollo de Silksong ya se tení
 
 ## Segundo Misterio: El juicio a las puertas de la Ciudadela Melodiosa
 
-Si algo marcó el discurso de Silksong en su salida y probablemente sea la cruz que deba cargar por la posteridad es su dificultad.
+Si algo marcó el discurso de Silksong en su salida y probablemente sea la cruz que deba cargar por toda la posteridad es su dificultad, producto no solo del daño doble de los enemigos, sino también de las decisiones de diseño de Team Cherry.
 
-Acto 2
+Hornet se puede curar más rápido que el protagonista del juego anterior, pero al hacerlo consume seda (sustituto del alma) que podría aprovechar en ataques especiales. La seda se consigue fácilmente golpeando enemigos y su límite se alcanza rápido para incentivar al jugador que utilice dichos ataques especiales... O en teoría, porque si en un combate se recibe un golpe de daño doble (que tanto abundan en el juego) y aparte se cae en alguna trampa del entorno (que también puede ser con doble daño), la salud de Hornet baja al mínimo y curarse se vuelve prioridad absoluta.
+
+A diferencia de Zelda, aquí no se desbloquea una túnica nueva que disminuya el daño recibido. Se puede incrementar el número de máscaras (como se le dice a los corazones de vida en este universo) y así aguantar uno o dos golpes extra cuando se afronten adversarios más letales, pero creo que no es suficiente.
+
+Silksong tiene una curva de dificultad extraña porque hay enemigos muy fuertes y entornos bastante hostiles donde los errores se castigan caro cuando todavía no se cuenta con la variedad de herramientas, habilidades y recursos que preparen adecuadamente al recién llegado.
+
+De nuevo el dinero se puede perder por el game over compuesto. Aunque existan máquinas y métodos que salvaguardan los rosarios, estos requieren estar en una ubicación exacta y no se pueden llevar a cabo en la marcha desde el inventario, solo se pueden consumir.
+
+*Joder, imagina tener un tipo de moneda susceptible a pérdidas que retrasan el progreso del juego. Carajo, imagina tener dos.*
+
+Los fragmentos de coraza son una moneda secundaria cuya función principal es evitar que juegues. ¿De qué sirve tener tantas armas y objetos si no se pueden utilizar a nuestro antojo todo el tiempo porque se agota su munición? ¿Por qué se penaliza al novato reduciendo las veces que puede usar objetos con cada nuevo intento fallido de vencer a un jefe? ¿No debería ser al revés?
+
+Lo repito: Una de las mejores cualidades de los metroidvanias es que, si llegas a un aparente callejón sin salida, puedes ir a otra área a conseguir **mejoras** que desbloquean obstáculos previos. Mejoras, no farmeo de puntos de experiencia o recursos consumibles. Mejoras que abren aún más el abanico de posibilidades del gameplay y son pruebas táctiles del progreso del juego.
+
+Regresar a una zona anterior más fácil a seguir una rutina que garantice conseguir $x$ cantidad de recursos y no para explorar rutas nuevas o conseguir algo diferente, es un fallo grave del diseño y una falta de respeto para el tiempo del jugador. Convierte al juego en un trabajo en lugar de recreación.
+
+Creo que todos los enemigos sueltan fragmentos de coraza y, afortunadamente, no se pierden por completo en un game over. Su consumo, abundancia o escasez es responsabilidad directa del estilo de juego que se lleve en la partida. Recomiendo llevar suficientes antes de afrontar un reto difícil.
+
+Y ya sé que tanto los rosarios como los fragmentos pueden comprarse en tiendas o ser recompensa de misiones secundarias. Pienso que el problema se aminora en el mid y late game cuando los enemigos sueltan mayor cantidad de recursos, pero Silksong tiene una curva de dificultad extraña donde la escasez del early game afecta negativamente a quienes más se beneficiarían de usar las nuevas trampas y objetos.
+
+Por eso preferí los retos de plataforma frente a los de combate. El manejo y control de Hornet está muy bien trabajado y una vez dominado el pogo (ese "salto" consecuencia de la tercera lew de Newton cuando golpeas algo debajo del personaje), el mero acto de moverse es un gozo. Las plataformas difíciles no te exigen gastar fragmentos para las herramientas, solo te preocupas por tus puntos de salud.
+
+No obstante, nada es perfecto y Team Cherry decidió que sería una maravillosa y divertida idea adjuntar un recorrido de plataformas tedioso, complicado y obligatorio antes de la mayoría de batallas contra jefes. A veces se ponen buena onda y te dejan desbloquear un atajo (si es que lo encuentras), pero lo normal es que cada pelea empiece con un plataformeo de calentamiento... Desconozco los usos y costumbres de las rutinas de ejercicio en Australia, pero acá el calentamiento se efectúa una única vez al principio antes de empezar con la actividad principal, no cada cinco minutos luego de haber iniciado.
+
+Me gusta el plataformeo siempre y cuando no rompa el ritmo del combate o me haga llegar con menos puntos de salud al siguiente intento. No es sorpresa que el mod más popular del juego en PC sea el que mueve el respawn a la misma habitación donde pereces (muy útil en Aguas Biliares).
+
+Sorpresivamente varios encuentros en el tercer acto ocurren en el mundo onírico donde estos problemas desaparecen. Los fragmento de coraza no se consumen ni se pierden rosarios al morir por ser un sueño y el banco de reaparición se encuentra muy cerca por lo que no hay backtracking molesto... ¿Ya les dije que Silksong tiene una curva de dificultad anormal?
+
+El epítome de todo esto es la pelea contra la Última Jueza que cierra el primer acto. Para muchos la más difícil del juego. Discrepo porque si en verdad fuera una recopilación de lo peor de lo peor, tendría una arena de combate de enemigos genéricos y estaría en Aguas Biliares. La Última Jueza es un examen que dictamina si el jugador está listo para lo que se viene dentro de la Ciudadela.
+
+El Acto I en Telalejana es Silksong como expansión del primer Hollow Knight. El Acto II en la Ciudadela Melodiosa es Silksong ya como secuela.
 
 ## Tercer Misterio: El ascenso de la Doncella Roja
 
-Fin acto 2
+acto 2
 
 ## Cuarto Misterio: La búsqueda de la verdad
 
