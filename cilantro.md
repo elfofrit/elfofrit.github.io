@@ -265,12 +265,52 @@ El Acto I en Telalejana es Silksong como expansión del primer Hollow Knight. El
 
 ## Tercer Misterio: El ascenso de la Doncella Roja
 
-acto 2
+Creo que era el video de [Mark Brown en Game Maker's Toolkit](https://youtu.be/l7xXW0EbK4g) que mencionó que el Acto I era tan difícil porque servía de filtro para que el Acto II fuera como es.
+
+Es curisoso cómo dentro y fuera de la diégesis del juego se respeta a la Ciudadela como un organismo elitista y separado. Ni siquiera comparten sistema de viaje rápido, salvo por una estación nodo secreta. Incluso es posible empezar y terminar el Acto II (y con ello obtener un final) sin tener que volver a las zonas del Acto I ya que los objetivos principales de la Ciudadela se encuentran autocontenidos en ella misma.
+
+Hornet ingresa a una ciudad fantasma. La gran entrada principal está en ruinas y cuando intenta utilizar el ascensor, este se rompe y cae hasta los talleres inferiores que son los cimientos de todos los mecanismos de la ciudad.
+
+Telalejana es el campo de provincia. Hay tribus autóctonas y organismos endémicos que conviven con ciertos puestos de avanzada o de peregrinaje de la ciudad. Hay ruinas de civilizaciones antiguas, ladrones, naturaleza hostil pero naturaleza al fin y al cabo.
+
+La Ciudadela es Roma. Una macroestructura ideada y planeada con cautela desde hace mucho tiempo. Creció hasta volverse tan vasta que requiere de muchos sistemas interconectados para que siga a flote y el progreso no se detenga.
+
+Los peregrinos se aferran a la idea de que si llegan a la Ciudadela habrán probado ser dignos y sus pecados serán expiados para alcanzar la vida eterna... Telalejana es naturaleza, la Ciudadela es artificial... No es difícil darse cuenta que la inmortalidad que propone se consigue a base de autómatas, esclavos y mecanismos de reloj. Imitaciones, cáscaras y ecos de vidas pasadas reducidos a trabajar en tareas repetitivas hasta el fin de los tiempos.
+
+Es un contraste que intensifica las diferencias entre el Acto I y el Acto II. El diseño de enemigos y entornos se inclina a lo robótico e industrial. Los pinchos y estalagmitas del plataformeo se cambian por sierras y mecanismos móviles. Las corazas y garras mutan a armaduras y armas desarrolladas. Y por fin abunda el dinero.
+
+A pocas horas de inicar el juego y luego de haber vencido un par de jefes, noté que no estaba cómodo con la dificultad y todavía me faltaban muchos rosarios para comprar las mejoras que me interesaban. Descubrí que si repetía varias veces la ruta que lleva a la infame Capilla de la Bestia, podía farmear rosarios a un ritmo no tan exasperante. 
+
+Gracias a esa sesión pude avanzar y seguir jugando. Un pequeño sacrificio que estoy dispuesto a aceptar. Más adelante conseguiría nuevas herramientas y estilos de combate que me volvieron lo suficientemente hábil para no tener que recaer a esa mala práctica por el resto de la primera parte.
+
+Que grande fue mi sorpresa cuando memoricé el patrón de ataque de los guardias de la Ciudadela y conseguí un ítem que incrementa los rosarios que sueltan los enemigos al morir. Ahora tenía un pasillo que generaba una centena de rosarios en cinco minutos. 
+
+El game over compuesto dejó de importarme. Era libre de explorar y perderme a mis anchas sabiendo que la moneda virtual era eso: virtual. No había pérdida tan grande que el pasillo no pudiera solventar. Curiosamente siento que empecé a jugar mejor desde entonces.
+
+Hornet entra a las Cámaras Corales después de escapar de Ternium (Talleres Inferiores). Esta área tiene una de las melodías más bonitas del juego, lo cual es excelente porque es el nexo que conecta a las demás zonas de la ciudad. Aquí habitan los peregrinos que de alguna u otra forma lograron llegar. Su recompensa fueron ropas nuevas y someterse al Embrujo de la monarca que reside en la cúpula más alta... I know writers who use subtext and they're all cowards.
+
+El marcador de la misión principal se actualiza para marcar la ubicación de otra pelea memorable del juego: los bailarines mecánicos. Este jefe doble sigue una coreografía marcada por la música y anuncian sus ataques de tal modo que siguen el ritmo. No es particularmente difícil, pero es la sinergia y armonía de todos los elementos que la vuelve tan icónica al jugar. También tiene su pedacito de lore que complementa muy bien con los personajes secundarios en el tercer acto, mas eso se detallará posteriormente.
+
+Una vez vencidos, la misión se actualizará con otros tres objetivos dentro de la Ciudadela que deberán ser completados para activar el ascensor que lleva a la monarca. Uno es un reto de plataformas en el Núcleo Mecánico, oda al nivel de la torre del reloj de Castlevania III (¿o esas son las torres del Páramo Gris?); otro es una pelea tradicional contra un jefe en las Bóvedas Susurrantes; mientras que el último, y por ende el peor de todos, es una arena de combate en los Altos Salones contra hordas de enemigos genéricos de la Ciudadela.
+
+Estos objetivos son de orden libre y pueden realizarse sin apuro. De hecho recomiendo volver a Telalejana y cumplir la misión secundaria de Shakra para que ayude en la arena de combate de los Altos Salones. Es posible ganar sin apoyo, pero es un suplicio porque el spawn intenso de enemigos, spam de proyectiles, ataques de doble magnitud y esponjas de daño convierten esta arena en la menos disfrutable e injusta. Tanta frustración me obligó a tomar una pausa del juego y no reintenté hasta que mejoré todo mi arsenal.
+
+Muchas misiones secundarias y mejoras obtenidas después, Hornet completa los tres objetivos y sube para enfrentarse nuevamente a Lace, la última línea de defensa de la monarca. Esta pelea también aparece en el trailer de 2019, así que ya imaginarán mi nivel de emoción.
+
+Lace es una hija de puta y espero que se congele en el círculo más profundo del Infierno. Es absurdo que sus ataques tiendan al daño doble si se supone que es la rival más semejante a Hornet y la gran némesis del juego. Hasta eso, Metroid Dread hizo un trabajo mucho mejor con su jefe final que trata a Samus como igual.
+
+Confieso que hice cheese. Abusé de escarabajos envenenados porque dejó de importarme el honor gamer luego de perder tantas veces y repetir la misma secuencia del elevador una y otra vez.
+
+Finalmente, Hornet vence a la pinche Lace y asciende a la cúpula donde se encuentra el capullo de la Gran Madre Seda, autora del Embrujo y causa directa de la Ciudadela y todo el dolor que ésta ha provocado.
+
+Considero que la pelea no es tan difícil como para ser un jefe final. Quizás Lace dejó la vara muy alta. Aquí sí se nota la línea de diseño del primer Hollow Knight. It's not bad, it's just... Con lo bien que están escritos los personajes esperaba un discuso o intercambio épico entre Hornet y la diosa malvada... Ni siquiera el nombre carga con una revelación importante como el primer juego.
+
+Hornet vence y Telalejana es libre del Embrujo original. El final es algo insatisfactorio, pero es un final. Ruedan los créditos. Gracias por jugar.
 
 ## Cuarto Misterio: La búsqueda de la verdad
 
-secundarias y requisitos para acto 3, miscelaneos
+secundarias y requisitos para acto 3, miscelaneos, de que trata silksong y el tema de la religion
 
 ## Quinto Misterio: El descenso de la Doncella Roja
 
-acto 3
+acto 3 y por que silson es inmenso
