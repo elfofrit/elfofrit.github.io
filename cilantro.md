@@ -137,7 +137,7 @@ Top:
 3. Zero Mission
 4. Samus Returns
 
-Tengo pendiente jugar la Prime Trilogy en mi Wii y Dread en la Switch que recién compré.
+Tengo pendiente jugar la Prime Trilogy en mi Wii y [Dread](https://bckl.gg/wDZU) en la Switch que recién compré.
 
 ## Castlevania: Symphony of the Night
 
@@ -215,7 +215,7 @@ En general esta primera parte del juego se siente más cercana a su precuela que
 
 De hecho las dos primeras zonas son la que aparecieron en el demo del juego cuando se llevó al booth de Nintendo en el E3 de 2019. Asimismo, el prototipo del tema musical de Lace fue publicado por Christopher Larkin por esas fechas. Luego se vino la sequía de cinco años.
 
-Acá ya venía preparado y mentalizado para ir por el 100\% del juego desde el principio, por lo que exploré exahustivamente cada rincón nuevo al que llegaba.
+Acá ya venía preparado y mentalizado para ir por el 100% del juego desde el principio, por lo que exploré exahustivamente cada rincón nuevo al que llegaba.
 
 Voy a confesar algo: me avoracé tanto con el Acto I que para el primer fin de semana ya lo había terminado. Me porté como náufrago recién rescatado en un buffet de bienvenida; y me gustó, maldición, lo amé. Pueden leer mis notas de cada sesión de juego en [Backloggd](https://backloggd.com/u/elfofrit/logs/hollow-knight-silksong/).
 
@@ -251,7 +251,7 @@ Creo que todos los enemigos sueltan fragmentos de coraza y, afortunadamente, no 
 
 Y ya sé que tanto los rosarios como los fragmentos pueden comprarse en tiendas o ser recompensa de misiones secundarias. Pienso que el problema se aminora en el mid y late game cuando los enemigos sueltan mayor cantidad de recursos, pero Silksong tiene una curva de dificultad extraña donde la escasez del early game afecta negativamente a quienes más se beneficiarían de usar las nuevas trampas y objetos.
 
-Por eso preferí los retos de plataforma frente a los de combate. El manejo y control de Hornet está muy bien trabajado y una vez dominado el pogo (ese "salto" consecuencia de la tercera lew de Newton cuando golpeas algo debajo del personaje), el mero acto de moverse es un gozo. Las plataformas difíciles no te exigen gastar fragmentos para las herramientas, solo te preocupas por tus puntos de salud.
+Por eso preferí los retos de plataforma frente a los de combate. El manejo y control de Hornet está muy bien trabajado y una vez dominado el pogo (ese "salto" consecuencia de la tercera ley de Newton cuando golpeas algo debajo del personaje), el mero acto de moverse es un gozo. Las plataformas difíciles no te exigen gastar fragmentos para las herramientas, solo te preocupas por tus puntos de salud.
 
 No obstante, nada es perfecto y Team Cherry decidió que sería una maravillosa y divertida idea adjuntar un recorrido de plataformas tedioso, complicado y obligatorio antes de la mayoría de batallas contra jefes. A veces se ponen buena onda y te dejan desbloquear un atajo (si es que lo encuentras), pero lo normal es que cada pelea empiece con un plataformeo de calentamiento... Desconozco los usos y costumbres de las rutinas de ejercicio en Australia, pero acá el calentamiento se efectúa una única vez al principio antes de empezar con la actividad principal, no cada cinco minutos luego de haber iniciado.
 
@@ -309,7 +309,37 @@ Hornet vence y Telalejana es libre del Embrujo original. El final es algo insati
 
 ## Cuarto Misterio: La búsqueda de la verdad
 
-secundarias y requisitos para acto 3, miscelaneos, de que trata silksong y el tema de la religion
+¿De qué trata Silksong? ¿Por qué este universo resuena y gusta tanto a tanta gente? Se ha citado la película de Angel's Egg como una fuerte inspiración; y aquí tendrían mi opinión al respecto, si tan solo tuviera una. Culpen a Cinépolis por no estrenarla en México.
+
+El world building de Hollow Knight es de los más óptimos cuando quieres dar la impresión que tu obra alberga mucha historia y contenido, pero como el mundo cayó en decadencia hace tiempo y solo quedan ruinas y ecos del pasado, puedes ahorrarte los recursos que tomarían mostrar todo ese contenido en su plenitud. Claro que esta visión es engañosa porque de todos modos necesitas crear bastantes assets que vendan la ilusión que todo alguna vez fue vasto.
+
+También este tipo de narrativa es el santo grial para todos los youtubers y gente que vive especulando e indagando teorías de obras que no son suyas. Los mensajes y tonos que se dejan como ejercicio para el lector son asimilados por estos seres que luego los regurgitan bajo su propia lente. Y está bien. No todo el mundo está cómodo con finales abiertos ni ambigüedades intencionales.
+
+Donde sí discrepo es en la afirmación de que Hollow Knight tiene una de las mejores historias del medio. Por favor jueguen a más videojuegos. Con la secuela estaba intrigado en ver cómo ajustarían la narrativa a una protagonista con personalidad definida y diálogos propios.
+
+Silksong ya no es tan críptico con sus temas. Si bien el origen y la conexión directa con el primer juego brillan por su ausencia hasta la última cinemática del final verdadero (y aún así deja un montón de incógnitas), las observaciones de Hornet sobre el nuevo reino y el mayor número de cinemáticas que toman lugar a lo largo de la aventura resuelven la mayoría de las preguntas que valen la pena responder.
+
+Donde sí destaca Team Cherry es en personajes secundarios sencillos pero icónicos. Ninguno es molesto y sus diálogos tienen la cantidad de palabras exactas para no ser insulsos ni tampoco tediosos. Debido a las mecánicas, se repiten tropos del primer juego, pero con los peregrinos y el mito de la Ciudadela se da un sazón diferente. Telalejana presenta más personajes porque la Ciudadela es una amenaza vigente en un reino activo, no uno moribundo como el Hallownest del Rey Pálido.
+
+El nuevo sistema de misiones permite profundizar en cada miembro del reparto de forma orgánica y al ritmo que el jugador decida. Se asume que el guión es lo suficientemente sólido para garantizar una respuesta emocional fuerte cuando te notifican que Sherma decidió ir al Ala Médica él solo y por su cuenta.
+
+Creo que los NPCs son tan memorables porque el proceso creativo detrás de ellos es muy sano. Ambos juegos tienen fondos preciosos y detallados que contrastan con lo simple y caricaturesco de sus personajes. La ventaja es que las animaciones y rasgos característicos se pueden exagerar más fácil para que el juego sea lo más legible posible. También sospecho que las sesiones de grabación de voz y sonidos fueron muy divertidas para todos los participantes.
+
+Son estos personajes los que revelan el sendero al final verdadero. Hornet anhela escapar y volver a su hogar, pero no puede dejar que otro reino sucumba como el suyo. Ayudar a reconstruir y cumplir mandados refuerza esta idea.
+
+El Acto III se esconde a través de estas misiones porque son otro filtro que separan y recompensan a los jugadores más dedicados en disfrutar por completo todo el trabajo que el estudio realizó en estos seis años. O son los más masoquistas y resistentes a la frustración.
+
+Lo que sí me sorprendió fue el tono más maduro de la historia principal. No me malentiendan como ejecutivo de Square Enix a que ahora hay lenguaje altisonante, violencia explícita o escenas de sexo, sino que uno de los temas a los que se invita a pensar es el papel que desempeña la religión en la sociedad, sobretodo a los más desamparados.
+
+Soy católico como Daredevil y creo en Dios de la misma forma en que creo en Superman. Fue grato ver la interpretación de Team Cherry sobre la manipulación y búsqueda de intereses del clero sobre la población general. Su postura, sobre todo en los Talleres Inferiores, queda bastante claro.
+
+Obvio que en la vida real no hay respuestas fáciles del tipo: esta religión es producto del plan maestro de una secta de arañas súperdesarrolladas que buscaban emanciparse de su creadora al arrullarla en un letargo profundo que fueron automatizando mediante engaños o conquistas a culturas más débiles.
+
+No, a veces la vida real es incluso más simple, como cuando Joseph Smith en el siglo XIX reveló a los mormones que a veces era la voluntad de Dios que un hombre tuviera varias esposas; acto seguido se casó con otras 30 mujeres. Que pícaro.
+
+Un paréntesis o nota del editor antes de concluir, sobre todo para quienes sean de otros países: En México se tiene la tradición de rezar 46 rosarios a la Virgen de Guadalupe a lo largo del año (porque son 46 estrellas las que aparecen en su manto). Mi abuela era fiel creyente e iba seguido a rezar con sus comadres. Cada 12 de diciembre se organizaba el rosario a la Virgen en su casa y al terminar servían tamales de cenar. Me gustaban mucho esos tamales.
+
+Los rosarios de dividen en cinco misterios (1 Padre Nuestro y 10 Aves Marías) que pueden ser dolosos, gloriosos, luminosos o gozosos. El dinero en Silksong se representa con cuentas de rosario, por lo que pensé que sería chistoso organizar este texto también en cinco partes. Espero no haber pecado de mamador, con blasfemo me conformo.
 
 ## Quinto Misterio: El descenso de la Doncella Roja
 
