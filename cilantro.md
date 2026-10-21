@@ -313,34 +313,58 @@ Hornet vence y Telalejana es libre del Embrujo original. El final es algo insati
 
 El world building de Hollow Knight es de los más óptimos cuando quieres dar la impresión que tu obra alberga mucha historia y contenido, pero como el mundo cayó en decadencia hace tiempo y solo quedan ruinas y ecos del pasado, puedes ahorrarte los recursos que tomarían mostrar todo ese contenido en su plenitud. Claro que esta visión es engañosa porque de todos modos necesitas crear bastantes assets que vendan la ilusión que todo alguna vez fue vasto.
 
-También este tipo de narrativa es el santo grial para todos los youtubers y gente que vive especulando e indagando teorías de obras que no son suyas. Los mensajes y tonos que se dejan como ejercicio para el lector son asimilados por estos seres que luego los regurgitan bajo su propia lente. Y está bien. No todo el mundo está cómodo con finales abiertos ni ambigüedades intencionales.
+También este tipo de narrativa es el santo grial para todos los youtubers y gente que vive especulando e indagando teorías de obras que no son suyas. Los mensajes y tonos que se dejan como ejercicio para el lector son asimilados por estos seres que luego los regurgitan bajo su propia lente porque no todo el mundo está cómodo con finales abiertos ni ambigüedades intencionales.
 
 Donde sí discrepo es en la afirmación de que Hollow Knight tiene una de las mejores historias del medio. Por favor jueguen a más videojuegos. Con la secuela estaba intrigado en ver cómo ajustarían la narrativa a una protagonista con personalidad definida y diálogos propios.
 
 Silksong ya no es tan críptico con sus temas. Si bien el origen y la conexión directa con el primer juego brillan por su ausencia hasta la última cinemática del final verdadero (y aún así deja un montón de incógnitas), las observaciones de Hornet sobre el nuevo reino y el mayor número de cinemáticas que toman lugar a lo largo de la aventura resuelven la mayoría de las preguntas que valen la pena responder.
 
-Donde sí destaca Team Cherry es en personajes secundarios sencillos pero icónicos. Ninguno es molesto y sus diálogos tienen la cantidad de palabras exactas para no ser insulsos ni tampoco tediosos. Debido a las mecánicas, se repiten tropos del primer juego, pero con los peregrinos y el mito de la Ciudadela se da un sazón diferente. Telalejana presenta más personajes porque la Ciudadela es una amenaza vigente en un reino activo, no uno moribundo como el Hallownest del Rey Pálido.
+Donde sí destaca Team Cherry es en personajes secundarios sencillos pero icónicos. Ninguno es molesto y sus diálogos tienen la cantidad de palabras exactas para no ser insulsos ni tediosos. Debido a las mecánicas, se repiten tropos del primer juego, pero con los peregrinos y el mito de la Ciudadela se da un sazón diferente. Telalejana presenta más personajes porque la Ciudadela es una amenaza vigente en un reino activo, no uno moribundo como el Hallownest del Rey Pálido.
 
 El nuevo sistema de misiones permite profundizar en cada miembro del reparto de forma orgánica y al ritmo que el jugador decida. Se asume que el guión es lo suficientemente sólido para garantizar una respuesta emocional fuerte cuando te notifican que Sherma decidió ir al Ala Médica él solo y por su cuenta.
 
 Creo que los NPCs son tan memorables porque el proceso creativo detrás de ellos es muy sano. Ambos juegos tienen fondos preciosos y detallados que contrastan con lo simple y caricaturesco de sus personajes. La ventaja es que las animaciones y rasgos característicos se pueden exagerar más fácil para que el juego sea lo más legible posible. También sospecho que las sesiones de grabación de voz y sonidos fueron muy divertidas para todos los participantes.
 
-Son estos personajes los que revelan el sendero al final verdadero. Hornet anhela escapar y volver a su hogar, pero no puede dejar que otro reino sucumba como el suyo. Ayudar a reconstruir y cumplir mandados refuerza esta idea.
+Son estos personajes los que revelan el sendero al final verdadero. Hornet anhela escapar y volver a su hogar, pero no puede dejar que otro reino sucumba como el suyo. Ayudar a reconstruir, abatir monstruos y cumplir mandados refuerza esta idea.
 
 El Acto III se esconde a través de estas misiones porque son otro filtro que separan y recompensan a los jugadores más dedicados en disfrutar por completo todo el trabajo que el estudio realizó en estos seis años. O son los más masoquistas y resistentes a la frustración.
 
 Lo que sí me sorprendió fue el tono más maduro de la historia principal. No me malentiendan como ejecutivo de Square Enix a que ahora hay lenguaje altisonante, violencia explícita o escenas de sexo, sino que uno de los temas a los que se invita a pensar es el papel que desempeña la religión en la sociedad, sobretodo a los más desamparados.
 
-Soy católico como Daredevil y creo en Dios de la misma forma en que creo en Superman. Fue grato ver la interpretación de Team Cherry sobre la manipulación y búsqueda de intereses del clero sobre la población general. Su postura, sobre todo en los Talleres Inferiores, queda bastante claro.
+Soy católico como Daredevil y creo en Dios de la misma forma en que creo en Superman. Me gustó que Team Cherry aprovechara su éxito asegurado para predicar sobre la manipulación y búsqueda de intereses del clero en la población general. Su postura, sobre todo en los Talleres Inferiores, queda bastante clara y ayuda a desarrollar mejor los matices del world building.
 
 Obvio que en la vida real no hay respuestas fáciles del tipo: esta religión es producto del plan maestro de una secta de arañas súperdesarrolladas que buscaban emanciparse de su creadora al arrullarla en un letargo profundo que fueron automatizando mediante engaños o conquistas a culturas más débiles.
 
-No, a veces la vida real es incluso más simple, como cuando Joseph Smith en el siglo XIX reveló a los mormones que a veces era la voluntad de Dios que un hombre tuviera varias esposas; acto seguido se casó con otras 30 mujeres. Que pícaro.
+No, a veces la vida real es incluso más simple, como cuando Joseph Smith en el siglo XIX reveló a los mormones que a veces era la voluntad de Dios que un hombre tuviera múltiples esposas al mismo tiempo; acto seguido se casó con otras 30 mujeres. Que pícaro.
 
 Un paréntesis o nota del editor antes de concluir, sobre todo para quienes sean de otros países: En México se tiene la tradición de rezar 46 rosarios a la Virgen de Guadalupe a lo largo del año (porque son 46 estrellas las que aparecen en su manto). Mi abuela era fiel creyente e iba seguido a rezar con sus comadres. Cada 12 de diciembre se organizaba el rosario a la Virgen en su casa y al terminar servían tamales de cenar. Me gustaban mucho esos tamales.
 
-Los rosarios de dividen en cinco misterios (1 Padre Nuestro y 10 Aves Marías) que pueden ser dolosos, gloriosos, luminosos o gozosos. El dinero en Silksong se representa con cuentas de rosario, por lo que pensé que sería chistoso organizar este texto también en cinco partes. Espero no haber pecado de mamador, con blasfemo me conformo.
+Los rosarios de dividen en cinco misterios (1 Padre Nuestro y 10 Aves Marías) que pueden ser dolosos, gloriosos, luminosos o gozosos. El dinero en Silksong se representa con cuentas de rosario, por lo que pensé que sería chistoso organizar este texto también en cinco partes. Espero no haber pecado de pretencioso, con blasfemo me conformo.
 
 ## Quinto Misterio: El descenso de la Doncella Roja
 
-acto 3 y por que silson es inmenso
+Silksong tiene un total de 48 jefes, 22 áreas y 54 misiones secundarias. Es inmenso. La mayoría son opcionales, pero eso no tira en balde el trabajo de los artistas y programadores. De hecho es muy probable que ni siquiera los jugadores más acérrimos vean todo el contenido la primera vez sin consultar una guía externa. Y creo que eso es de lo más bonito que tiene el juego.
+
+Hay un personaje en el tercer acto que se presenta como guardián de una zona antiquísima del bosque que se le debe vencer en batalla para continuar. Después de eso, sale del trance, recupera los recuerdos de su vida antes de ser guardián y despierta igual que el Capitán América en un nuevo mundo en el futuro. Se llama Seth.
+
+Seguí jugando normal hasta que por azares del destino cruzo por un área que ya había completado y observo que Seth se encuentra en el mismo campamento del Páramo Gris donde Shakra me vendió el mapa hace muchas horas de juego en el Acto I. Al conversar, te dice que ahora que es libre piensa explorar esta nueva Telalejana por su cuenta y redescubrirse a sí mismo.
+
+Me gusta que no hay indicio ni recompensa por encontrarte a Seth así y desconozco si también vuelve a aparecer en otras áreas. Puede interpretarse que Seth es, al igual que Hornet, un viajero por estas tierras y que cada quien vive sus aventuras de forma independiente, como si fuera un reflejo o metáfora del jugador.
+
+Esta anécdota la cuento porque gracias a ella asimilé que Silksong tiene montones de contenido que refuerzan la idea del mundo que quiere mostrar, pero que al igual que el mundo real, no es necesario ir o saber de todo para ser feliz... A ver, de nuevo porque todavía no me convence:
+
+¿Sabían que una buena parte de los consumidores no terminan los videojuegos que compran? Literalmente esto lo citó CD Projekt RED cuando les preguntaron por qué la historia principal de Cyberpunk 2077 era más corta que la de Witcher III. ¿Para qué invertir tantos recursos en algo que el usuario final ni siquiera verá en su pantalla?
+
+¿Para qué escribir diálogos que jamás se pondrán a escena en un teatro? ¿Para qué gastar rollo de filme en una toma que más adelante se puede descartar en postproducción? ¿Para qué componer melodías si puede que nadie las vaya a escuchar? ¿Para qué romperse el coco programando la lógica de una secuencia que el jugador puede omitir? ¿Para qué entrenar si la vejez de todos modos me va quitar condición física? ¿Por qué he de estudiar algo que no voy a aplicar en mi día a día?
+
+Porque el proceso es lo que importa. Es lo que más toma tiempo, lo que más se disfruta, lo que te hace crecer. Cumplir metas y métricas solo por cumplirlas sin apreciar todo el trabajo que se realizó para alcanzarlas es una forma muy aburrida y deficiente de ver la vida. Casi siempre todo el conocimiento nuevo se descubre y aprende durante la investigación, no con el resultado final.
+
+A mí me gusta andar en bicicleta aunque las calles en Norteamérica no sean amables con este medio de transporte. A veces salgo a dar vueltas a mi colonia sin tener que ir a ningún lado porque solo el hecho de andar en bici me es suficiente. Lo disfruto.
+
+Como se mencionó anteriormente, en Team Cherry les gusta mucho hacer videojuegos, sus videojuegos. Con su finanzas color de rosa gracias al primer Hollow Knight, el segundo iba a tardar lo que se tuviera que tardar. Porque el sueño nunca fue lanzar un juego y que éste venda chorrocientas mil copias; el sueño siempre fue todo el proceso y el flujo de trabajo fructífero de crear un juego, porque dibujar assets, programar módulos y sincronizar la música es mucho más divertido para ellos que cualquier otra cosa en el mundo.
+
+¿Por qué hacer tanto contenido que el jugador final puede ignorar? Simple y sencillamente por amor al arte.
+
+Y es por ello que digo que estas cosas son de lo más bonito del juego.
+
+Todo el Acto III es opcional. Los créditos ya salieron y se obtuvo un final. El filtro definitivo ha sido superado y ya solo quedan los jugadores más fanáticos, los que esperaron tantos años y compraron el juego varias veces. Los psicópatas masoquistas que todavía quieren seguir.
