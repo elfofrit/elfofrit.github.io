@@ -31,7 +31,9 @@ Ya en 2026, después de haber terminado Silksong y empezado a escribir la reseñ
 
 Samus Aran desciende nuevamente al planeta Zebes en una tarde lluviosa de abril.
 
-(inserte aquí portada o imagen de Super Metroid)
+~~~
+<img src="https://cdn.mobygames.com/covers/4308921-super-metroid-snes-front-cover.jpg" />
+~~~
 
 Mientras volvía a recorrer el aclamado y estudiado mapa de Super Metroid, obteniendo mejoras y desbloqueando secretos, me doy cuenta de lo que en realidad quería decir todo este tiempo en la reseña de Silksong: Super Metroid es probablemente el mejor videojuego de todos los tiempos. El Ciudadano Kane del Super Nintendo.
 
@@ -45,7 +47,9 @@ Para que se den una idea, John Carmack se llenó de júbilo cuando pudo recrear 
 
 A lo que quiero llegar es que durante estas décadas hubo un cambio en el desarrollo y madurez del medio más allá de las limitaciones del hardware o cambios de mercado. Se han explorado y estirado los límites de lo que los videojuegos pueden abarcar. Imagina intentar vender un walking simulator súper introspectivo y personal en la época del Atari 2600... Es más, ni siquiera vender al consumidor, imagina PROPONER desarrollar un juego así en los 70.
 
-(insertar aquí meme de Volver al Futuro de "Creo que ustedes aún no están listos para esto, pero a sus hijos les fascinará")
+~~~
+<img src="https://i.kym-cdn.com/photos/images/newsfeed/001/371/240/234.png" />
+~~~
 
 La mayor virtud de los videojuegos, lo que en verdad los hace destacar entre las demás artes, es la interacción y participación activa y directa de la persona que está jugando. Aquí esta interacción la divido en dos: lo que hace el jugador para que su sesión de juego sea única y el acto de jugar o desempeñar el papel que el desarrollador diseñó para el jugador... Quizás suene confuso porque es un tema que quiero elaborar a detalle en otro post más adelante. Para esta entrada solo es relevante la parte del diseño.
 
@@ -63,7 +67,11 @@ Por eso pienso que Super Metroid es el juego del año todos los años. Eternamen
 
 *A ver... ¿Y los juegos de rol para computadora, pa'? No seas tan crédulo, McFly...*
 
-Me refiero a la inmersión y simulación del entorno en videojuegos donde el movimiento y combate o acciones en tiempo real del personaje principal es una prioridad, siempre respetando la diégesis del juego. Porque ese enfoque es muy propio y distintivo de los videojuegos y es una cualidad que debemos seguir empujando hacia adelante. Half Life es el ejemplo de librito a seguir por la narrativa, pero Rocket League conduce en un camino similar porque a pesar de que existen cientos de juegos de fútbol, ninguno es tan kinestésico como Rocket League. Y de nuevo, eso es algo muy propio de los videojuegos. [De hecho hay un video del maestro BeetBeatBit que lo explica.](https://youtu.be/gZmmXHL3pWU)
+Me refiero a la inmersión y simulación del entorno en videojuegos donde el movimiento y combate o acciones en tiempo real del personaje principal es una prioridad, siempre respetando la diégesis del juego. Porque ese enfoque es muy propio y distintivo de los videojuegos y es una cualidad que debemos seguir empujando hacia adelante. Half Life es el ejemplo de librito a seguir por la narrativa, pero Rocket League conduce en un camino similar porque a pesar de que existen cientos de juegos de fútbol, ninguno es tan kinestésico como Rocket League. Y de nuevo, eso es algo muy propio de los videojuegos. De hecho hay un video del maestro BeetBeatBit que lo explica:
+
+~~~
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/gZmmXHL3pWU?si=mhSJKhZY9aE4YOc3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+~~~
 
 *Ándale, así sí.*
 
