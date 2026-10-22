@@ -29,6 +29,8 @@ image = "https://media1.tenor.com/m/PnEctZ3yWr8AAAAC/silk-song-cilantro.gif"
 
 *_[en construcción]_*
 
+<style>body {text-align: justify} </style>
+
 Recuerdo leer alguna vez de forma despectiva que Hollow Knight es Dark Souls para mujeres. En otra ocasión YouTube me recomendó un video con un título que afirmaba que Hollow Knight era tan perfecto que no debería existir.
 
 Hollow Knight es un juego indie que estuvo en el lugar y tiempo correctos: se lanzó en PC a inicios de 2017, pocos meses antes del lanzamiento de la Nintendo Switch; su port a dicha consola llegó a finales del mismo año.
@@ -363,8 +365,10 @@ A mí me gusta andar en bicicleta aunque las calles en Norteamérica no sean ama
 
 Como se mencionó anteriormente, en Team Cherry les gusta mucho hacer videojuegos, sus videojuegos. Con su finanzas color de rosa gracias al primer Hollow Knight, el segundo iba a tardar lo que se tuviera que tardar. Porque el sueño nunca fue lanzar un juego y que éste venda chorrocientas mil copias; el sueño siempre fue todo el proceso y el flujo de trabajo fructífero de crear un juego, porque dibujar assets, programar módulos y sincronizar la música es mucho más divertido para ellos que cualquier otra cosa en el mundo.
 
-¿Por qué hacer tanto contenido que el jugador final puede ignorar? Simple y sencillamente por amor al arte.
+¿Por qué hacer tanto contenido que el jugador final puede ignorar? Simple y sencillamente por amor al arte. Y es por ello que digo que estas cosas son de lo más bonito del juego, porque son un reflejo del buen ambiente que se tuvo en el desarrollo. Ojalá mas procesos sean así.
 
-Y es por ello que digo que estas cosas son de lo más bonito del juego.
+Todo el Acto III es opcional. Los créditos ya salieron y se obtuvo un final. El filtro definitivo ha sido superado y ya solo quedan los jugadores más fanáticos, los que esperaron tantos años y compraron el juego varias veces, los psicópatas masoquistas que todavía quieren seguir.
 
-Todo el Acto III es opcional. Los créditos ya salieron y se obtuvo un final. El filtro definitivo ha sido superado y ya solo quedan los jugadores más fanáticos, los que esperaron tantos años y compraron el juego varias veces. Los psicópatas masoquistas que todavía quieren seguir.
+La Ciudadela se vuelve todavía más hostil. Los enemigos se convierten en ligeras esponjas de daño y adquieren un nuevo ataque especial de oscuridad, obviamente con daño doble cómo no. El mapa se modifica y varios caminos se bloquean por los escombros. Hasta cierto punto es similar al inicio del Acto II en los Talleres Inferiores porque Hornet igualmente pierde acceso a la zona anterior y el viaje rápido a la base.
+
+Afuera en el campo las cosas siguen un poquito peor, mas no hay cambios tan significativos porque es hasta acá que se desbloquea el porcentaje que indica cuánto falta para completar todo el juego. Todavía se pueden cumplir las misiones secundarias y obtener las recompensas.
