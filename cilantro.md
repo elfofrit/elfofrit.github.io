@@ -399,7 +399,7 @@ Pasé las siguientes semanas leyendo en internet contenido relacionado al juego.
 
 En la revancha contra Trobbio me doy cuenta que no tengo interés en repetir la pelea ni en romper los récords de los minijuegos de las pulgas ni hacer un último mandado de Uber Eats. Eso ya lo viví, ya lo jugué. Time to move on.
 
-Al momento de escribir esto (de enero a octubre de 2026 ~~no sean como yo e impónganse deadlines para no extenderse al infinito~~) no hay fecha exacta para el lanzamiento de Sea of Sorrow, el primer DLC. Lo jugaré porque nuevo Silksong sigue siendo Silksong, pero ya no es prioridad.
+Al momento de escribir esto (de enero a octubre de 2026; no sean como yo e impónganse deadlines para no extenderse al infinito) no hay fecha exacta para el lanzamiento de Sea of Sorrow, el primer DLC. Lo jugaré porque nuevo Silksong sigue siendo Silksong, pero ya no es prioridad.
 
 Respeto y admiro mucho a Team Cherry. Quisiera que su próximo juego no sea un Hollow Knight; no porque Silksong haya puesto la barra demasiado alta ni nada por el estilo, sino porque quiero ver esa misma pasión en algo nuevo y diferente. Con suerte y lo sacan el mismo año que GTA 7.
 
@@ -415,4 +415,4 @@ Aún así, pienso que es cruel terminar este disparate sin despedir al lector qu
 
 Aquí pondría *Acta Est Fabula*, pero solo por esta ocasión:
 
-***GARAMA!***
+**GARAMA!**
