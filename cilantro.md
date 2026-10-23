@@ -27,9 +27,9 @@ image = "https://media1.tenor.com/m/PnEctZ3yWr8AAAAC/silk-song-cilantro.gif"
 <p style="font-weight:600; font-size:36px">cilantro</p>
 ~~~
 
-*_[en construcción]_*
-
+~~~
 <style>body {text-align: justify} </style>
+~~~
 
 Recuerdo leer alguna vez de forma despectiva que Hollow Knight es Dark Souls para mujeres. En otra ocasión YouTube me recomendó un video con un título que afirmaba que Hollow Knight era tan perfecto que no debería existir.
 
@@ -369,6 +369,58 @@ Como se mencionó anteriormente, en Team Cherry les gusta mucho hacer videojuego
 
 Todo el Acto III es opcional. Los créditos ya salieron y se obtuvo un final. El filtro definitivo ha sido superado y ya solo quedan los jugadores más fanáticos, los que esperaron tantos años y compraron el juego varias veces, los psicópatas masoquistas que todavía quieren seguir.
 
-La Ciudadela se vuelve todavía más hostil. Los enemigos se convierten en ligeras esponjas de daño y adquieren un nuevo ataque especial de oscuridad, obviamente con daño doble cómo no. El mapa se modifica y varios caminos se bloquean por los escombros. Hasta cierto punto es similar al inicio del Acto II en los Talleres Inferiores porque Hornet igualmente pierde acceso a la zona anterior y el viaje rápido a la base.
+La Ciudadela se vuelve todavía más hostil. Los enemigos se convierten en ligeras esponjas de daño y adquieren un nuevo ataque especial de oscuridad, obviamente con daño doble cómo no. El mapa se modifica y varios caminos se bloquean por los escombros. Hasta cierto punto es similar al inicio del Acto II en los Talleres Inferiores porque Hornet igualmente pierde acceso a la zona anterior y no cuenta con el viaje rápido para escapar.
 
 Afuera en el campo las cosas siguen un poquito peor, mas no hay cambios tan significativos porque es hasta acá que se desbloquea el porcentaje que indica cuánto falta para completar todo el juego. Todavía se pueden cumplir las misiones secundarias y obtener las recompensas.
+
+También es hasta acá que empiezan las mejoras de calidad de vida. Se desbloquea la teletransportación a las estaciones de viaje rápido, las batallas contra los jefes de la misión principal son en el mundo de los sueños donde no se gastan recursos y los checkpoints para guardar están justo antes del combate. Se tiene que destruir al mundo para por fin empezar a jugar.
+
+Hornet baja hasta las profundidades del Abismo para rematar a la fuente de toda la maldad, pero vuelve a quedar atrapada, así que desbloquea la última habilidad del juego y por fin tiene su set de movimientos completos cual Samus a punto de explotar un planeta. Con ella se abre paso hasta los Muelles Profundos en una secuencia épica que tiene la música del trailer del 2019... Silksong cuando se lo propone puede ser lo más castroso que has jugado en tu vida o el epítome de todo lo bueno en el mundo.
+
+Los tres jefes oníricos repiten filosofía de diseño. Destaca el de los corales porque de nuevo hay que superar múltiples arenas de combate para llegar hasta él para que al final no resulte ser tan difícil. Bruh. Con Karmelita también se deben vencer a los guardias en cada intento y después de un rato se aprende a abatirlos en menos de 10 segundos, por lo que estorban. Nyleth me gustó mucho porque llegué a su zona sin querer y fue una grata sorpresa testigo del buen diseño de nivel.
+
+Dichos jefes deben ser derrotados para obtener tres corazones de la antigüedad. Es posible obtener un cuarto corazón en Verdania, la zona secreta del juego con retos de plataformas que cierra el arco narrativo del príncipe y los bailarines mecánicos. ¡Adivinaron, también es un sueño! Que loco que Silksong deje de penalizar tanto los errores ya al final cuando por fin se tiene un montón de horas de juego, herramientas, mejoras, monedas y recursos. Equisde.
+
+¿Sabían que Silksong es una secuela? Parece obvio ahora, pero durante la partida no lo tenía en claro hasta la hora 60. No aparece ningún personaje o vínculo con Hallownest hasta la recta final. Fue lindo volver a escuchar los arreglos musicales del primer juego y reutilizar sus assets. Confieso que en mi momento más fanboy del primer fin de semana postlanzamiento, soñé que seguía jugando Silksong y que descubría la conexión entre ambos reinos. Desafortunadamente no se cumplió mi predicción.
+
+No me atrevo a decir que el Abismo es la zona más difícil porque una buena parte es lineal por naturaleza; sin embargo, los enemigos son los más agresivos y no perdonan nada. A eso se le añade que en el primer descenso hay que averiguar cómo regresar, entonces se tiene una situación de riesgo alto relativo.
+
+En fin, luego del flashback con mini lore dump del personaje, Hornet ahora sí se sumerge al mar de oscuridad para enfrentarse por tercera vez a Lace. X-Men 3: La Batalla Final... Pinche Lace, cómo la odio.
+
+Hay un comentario en una guía de YouTube de alguien que abandonó el juego en este punto. Aplicó la del greentext de estar de acuerdo con el villano al final, perder, cerrar el juego y decirle a todos que lo terminaste. No lo culpo porque después de dos horas de intentos fallidos la frustración es casi tan inmensa como todo el juego.
+
+Creo que debí mencionarlo antes, pero jugué la mayor parte de Silksong en mi Steam Deck OLED. La resolución, interfaz y controles se adaptan perfecto al dispositivo. La pantalla embellece todavía más los fondos y entidades. Para la pelea final lo conecté a la TV de la sala porque era lo más digno que podía hacer para cerrar los últimos dos meses de juego y seis años de espera.
+
+Lace súpersaiyajin 3 es negra, el suelo del capullo de seda donde se lleva a cabo la pelea es negro, los ataques especiales, líneas de movimiento y púas que salen del suelo también son negras. Los únicos colores claros son las paredes, la máscara de Hornet y la Gran Madre Seda crucificada. Quizás no sea lo más legible, pero se ve cool as fuck.
+
+En ese capullo germinan las últimas canas verdes que Silksong puede ofrecer. La clave está en disfrutar cada momento.
+
+*Pinche Lace, cómo chingas. Ya muérete que quiero acabar el juego... Un momento. Después de todos estos años, heme aquí, en el final de Silksong. Lo logré. ¿Por qué te enojas? ¿Qué no era esto lo que querías? ¿Acaso esto no era lo que buscabas? ¿Tanto meme y alboroto para solo desear que acabe? No, el sueño nunca fue terminar Silksong ni ver qué pasa después; el sueño siempre fue jugarlo. Y jugué, jugué mucho. No es perfecto ni una obra maestra, pero es mi Silksong. Esos años de espera y dos meses de juego no me los va a devolver nadie, pero tampoco me los pueden quitar. Son míos, me los gané. ¿Y saben qué? Lo disfruté mucho porque fue todo lo que siempre quise y más. Solo Dios sabe por lo que pasé para llegar acá. No voy a pelear contra Lace así nomás para ya terminar, voy a seguir intentando hasta que triunfe porque entonces ya habré jugado suficiente. Y así la historia principal estará completa y me sentiré satisfecho porque Silksong habrá terminado y podremos seguir adelante. Intentaré una vez más porque aprender los patrones de ataque sin hacer cheese representa mi forma favorita de jugar. Tardaré lo que tenga que tardar. I enjoyed every moment...*
+
+Hornet acierta el golpe final el 4 de noviembre de 2025 a las 62 horas con 42 minutos de juego y 90% de colectatón. Está hecho.
+
+Pasé las siguientes semanas leyendo en internet contenido relacionado al juego. No consulté nada mientras jugaba para evitar spoilers. Aprendo de Verdania, el parásito y su final secreto, rescato a todas las pulgas, supero el nuevo Path of Pain, obtengo la última cresta y los pocos ítems que me faltaban para subir el porcentaje al 96%.
+
+En la revancha contra Trobbio me doy cuenta que no tengo interés en repetir la pelea ni en romper los récords de los minijuegos de las pulgas ni hacer un último mandado de Uber Eats. Eso ya lo viví, ya lo jugué. Time to move on.
+
+Al momento de escribir esto (de enero a octubre de 2026 ~~no sean como yo e impónganse deadlines para no extenderse al infinito~~) no hay fecha exacta para el lanzamiento de Sea of Sorrow, el primer DLC. Lo jugaré porque nuevo Silksong sigue siendo Silksong, pero ya no es prioridad.
+
+Respeto y admiro mucho a Team Cherry. Quisiera que su próximo juego no sea un Hollow Knight; no porque Silksong haya puesto la barra demasiado alta ni nada por el estilo, sino porque quiero ver esa misma pasión en algo nuevo y diferente. Con suerte y lo sacan el mismo año que GTA 7.
+
+Además, repitieron malas prácticas del primer juego. Ese game over compuesto debió quedarse en la década pasada junto a las arenas de enemigos genéricos. La curva de dificultad está mal parametrizada. Hay enemigos pesados cuyos patrones de ataque dan indicio de que pueden hacer daño de área a sus minions más débiles, pero en mi experiencia esto quedó muy irregular. Por eso mismo me hubiera gustado mayor interacción y participación del entorno en las peleas (como contra el Cuarto Coro). Por favor desistan de las esponjas de daño.
+
+\\\\
+
+No sé si esto cuente como reseña, retrospectiva, ensayo, delirio o qué... A veces me siento solo y escribir estas cosas me ayuda para sentirme mejor. No busco fama ni reconocimiento, lo hago por mí porque así de egoísta soy. Si acaso está la mínima posibilidad de que una chica muy guapa esté perdídamente enamorada de mí por estas cosas... La probabilidad es la \delta de un límite que se aproxima a cero pero nunca lo toca, así que se vale soñar.
+
+Aún así, pienso que es cruel terminar este disparate sin despedir al lector que soporta tantos párrafos como si le pagaran. Entonces, para cualquier dama, caballero, persona no binaria, robot, alienígena, fantasma, vampiro, etcétera que esté leyendo esto:
+
+> Higher Beings, this words are for you alone. No sé bajo qué contexto estás aquí, pero espero que te encuentres bien. Si no lo estás, espero que no sea por mucho tiempo y mejores pronto. En ocasiones la vida da vueltas muy bruscas que no podemos controlar, pero adaptarse a ellas es nuestra mayor fortaleza. Todo mal y todo bien pasará. Te quiero mucho. Nunca olvides quien eres.
+
+Aquí pondría *Acta Est Fabula*, pero solo por esta ocasión:
+
+***GARAMA!***
+
+~~~
+<div class="tenor-gif-embed" data-postid="3554713572974445212" data-share-method="host" data-aspect-ratio="1.36806" data-width="100%"><a href="https://tenor.com/view/silksong-hornet-sherma-bone-gate-hornet-dance-gif-3554713572974445212">Silksong Hornet GIF</a>from <a href="https://tenor.com/search/silksong-gifs">Silksong GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+~~~
