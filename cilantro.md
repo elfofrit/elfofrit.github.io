@@ -14,7 +14,7 @@
 +++
 title = "cilantro"
 hascode = false
-date = Date(2026, 4, 19)
+date = Date(2026, 10, 23)
 rss = "esta no es una reseña de Silksong"
 
 tags = ["hobbies"]
@@ -405,9 +405,9 @@ Respeto y admiro mucho a Team Cherry. Quisiera que su próximo juego no sea un H
 
 Además, repitieron malas prácticas del primer juego. Ese game over compuesto debió quedarse en la década pasada junto a las arenas de enemigos genéricos. La curva de dificultad está mal parametrizada. Hay enemigos pesados cuyos patrones de ataque dan indicio de que pueden hacer daño de área a sus minions más débiles, pero en mi experiencia esto quedó muy irregular. Por eso mismo me hubiera gustado mayor interacción y participación del entorno en las peleas (como contra el Cuarto Coro). Por favor desistan de las esponjas de daño.
 
-\\\\
+\\
 
-No sé si esto cuente como reseña, retrospectiva, ensayo, delirio o qué... A veces me siento solo y escribir estas cosas me ayuda para sentirme mejor. No busco fama ni reconocimiento, lo hago por mí porque así de egoísta soy. Si acaso está la mínima posibilidad de que una chica muy guapa esté perdídamente enamorada de mí por estas cosas... La probabilidad es la \delta de un límite que se aproxima a cero pero nunca lo toca, así que se vale soñar.
+No sé si esto cuente como reseña, retrospectiva, ensayo, delirio o qué... A veces me siento solo y escribir estas cosas me ayuda para sentirme mejor. No busco fama ni reconocimiento, lo hago por mí porque así de egoísta soy. Si acaso está la mínima posibilidad de que una chica muy guapa esté perdídamente enamorada de mí por estas cosas... La probabilidad es la $\delta$ de un límite que se aproxima a cero pero nunca lo toca, así que se vale soñar.
 
 Aún así, pienso que es cruel terminar este disparate sin despedir al lector que soporta tantos párrafos como si le pagaran. Entonces, para cualquier dama, caballero, persona no binaria, robot, alienígena, fantasma, vampiro, etcétera que esté leyendo esto:
 
