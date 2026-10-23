@@ -27,10 +27,6 @@ image = "https://media1.tenor.com/m/PnEctZ3yWr8AAAAC/silk-song-cilantro.gif"
 <p style="font-weight:600; font-size:36px">cilantro</p>
 ~~~
 
-~~~
-<style>body {text-align: justify} </style>
-~~~
-
 Recuerdo leer alguna vez de forma despectiva que Hollow Knight es Dark Souls para mujeres. En otra ocasión YouTube me recomendó un video con un título que afirmaba que Hollow Knight era tan perfecto que no debería existir.
 
 Hollow Knight es un juego indie que estuvo en el lugar y tiempo correctos: se lanzó en PC a inicios de 2017, pocos meses antes del lanzamiento de la Nintendo Switch; su port a dicha consola llegó a finales del mismo año.
@@ -420,7 +416,3 @@ Aún así, pienso que es cruel terminar este disparate sin despedir al lector qu
 Aquí pondría *Acta Est Fabula*, pero solo por esta ocasión:
 
 ***GARAMA!***
-
-~~~
-<div class="tenor-gif-embed" data-postid="3554713572974445212" data-share-method="host" data-aspect-ratio="1.36806" data-width="100%"><a href="https://tenor.com/view/silksong-hornet-sherma-bone-gate-hornet-dance-gif-3554713572974445212">Silksong Hornet GIF</a>from <a href="https://tenor.com/search/silksong-gifs">Silksong GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
-~~~
