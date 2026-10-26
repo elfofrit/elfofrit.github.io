@@ -199,7 +199,7 @@ Escuchad, oh blasfemos, lo que vengo a decirles. Pues Silksong por fin ha salido
 
 ## Primer Misterio: La llegada de la Doncella Roja a Telalejana
 
-Silksong empieza con la misma escena del trailer del 2019. Hornet ha sido capturada quién sabe cómo por quién sabe quien y la llevan a quién sabe donde. Una fuerza superior la libera y su jaula cae por un precipicio, lo que da inicio a la aventura y justifica su falta de habilidades y movimientos respecto al juego anterior.
+Silksong empieza con la misma escena del trailer del 2019. Hornet ha sido capturada, quién sabe cómo, por quién sabe quien, y la llevan a quién sabe donde. Una fuerza superior la libera y su jaula cae por un precipicio, lo que da inicio a la aventura y justifica su falta de habilidades y movimientos respecto al juego anterior.
 
 El Acto I recuerda mucho a Hollow Knight, probablemente porque fueron zonas concebidas aún como DLC del primer juego. Silksong muestra sus colmillos hasta Campanilla.
 
